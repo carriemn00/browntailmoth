@@ -1,0 +1,603 @@
+,lon,lat,common_name,condition_class,obs_btm_nests,tree_type,entry_source
+0,-69.63344511,44.55127084,Crabapple,Good ,75,Fruiting / Flowering,Bartlett
+1,-69.62973408,44.5495351,Crabapple,Fair ,50,Fruiting / Flowering,Bartlett
+2,-69.6271305,44.55195911,Elm,Good ,50,Ornamental,Bartlett
+3,-69.62936061,44.54957609,Elm,Good ,50,Ornamental,Bartlett
+4,-69.66230072,44.52873009,Oak,Good ,50,Ornamental,Bartlett
+5,-69.65900935,44.52789299,Cherry,Poor ,45,Fruiting / Flowering,Bartlett
+6,-69.66150693,44.52850077,Crabapple,Good ,40,Fruiting / Flowering,Bartlett
+7,-69.62717064,44.5521075,Elm,Good ,40,Ornamental,Bartlett
+8,-69.6301038,44.5681192,Pear,Good ,40,Fruiting / Flowering,Bartlett
+9,-69.6270962,44.55225634,Serviceberry,Good ,40,Bush,Bartlett
+10,-69.66154058,44.52850708,Crabapple,Fair ,35,Fruiting / Flowering,Bartlett
+11,-69.62727604,44.55224549,Elm,Good ,35,Ornamental,Bartlett
+12,-69.65262698,44.57611534,Oak,Fair ,35,Ornamental,Bartlett
+13,-69.62733975,44.55069452,Birch,Fair ,30,Ornamental,Bartlett
+14,-69.62782513,44.55110006,Crabapple,Good ,30,Fruiting / Flowering,Bartlett
+15,-69.62748217,44.55064301,Crabapple,Good ,30,Fruiting / Flowering,Bartlett
+16,-69.62744157,44.55065334,Crabapple,Good ,30,Fruiting / Flowering,Bartlett
+17,-69.65270976,44.57625846,Oak,Good ,30,Ornamental,Bartlett
+18,-69.65236748,44.57561059,Oak,Good ,30,Ornamental,Bartlett
+19,-69.66199199,44.52853189,Oak,Good ,30,Ornamental,Bartlett
+20,-69.6602494,44.53418565,Oak,Fair ,30,Ornamental,Bartlett
+21,-69.64312021,44.53454138,Oak,Fair ,30,Ornamental,Bartlett
+22,-69.6272928,44.5527073,Serviceberry,Good ,30,Bush,Bartlett
+23,-69.62982312,44.54962414,Crabapple,Good ,25,Fruiting / Flowering,Bartlett
+24,-69.62752049,44.55065079,Crabapple,Good ,25,Fruiting / Flowering,Bartlett
+25,-69.63316194,44.55088523,Elm,Good ,25,Ornamental,Bartlett
+26,-69.62812371,44.55040987,Elm,Good ,25,Ornamental,Bartlett
+27,-69.65218834,44.5743552,Oak,Good ,25,Ornamental,Bartlett
+28,-69.66124895,44.5277905,Oak,Good ,25,Ornamental,Bartlett
+29,-69.66060913,44.53424287,Oak,Good ,25,Ornamental,Bartlett
+30,-69.64313773,44.53452574,Oak,Fair ,25,Ornamental,Bartlett
+31,-69.64238261,44.53506726,Oak,Good ,25,Ornamental,Bartlett
+32,-69.6272516,44.55264931,Serviceberry,Good ,25,Bush,Bartlett
+33,-69.62729552,44.55263123,Serviceberry,Good ,25,Bush,Bartlett
+34,-69.65940466,44.52692271,Cherry,Fair ,20,Fruiting / Flowering,Bartlett
+35,-69.62756106,44.55066051,Crabapple,Good ,20,Fruiting / Flowering,Bartlett
+36,-69.62758786,44.55068272,Crabapple,Good ,20,Fruiting / Flowering,Bartlett
+37,-69.62723581,44.55280444,Elm,Good ,20,Ornamental,Bartlett
+38,-69.62743323,44.55288368,Elm,Good ,20,Ornamental,Bartlett
+39,-69.65206597,44.57404144,Oak,Good ,20,Ornamental,Bartlett
+40,-69.65267938,44.5761987,Oak,Good ,20,Ornamental,Bartlett
+41,-69.65080745,44.57097762,Oak,Good ,20,Ornamental,Bartlett
+42,-69.65206423,44.57371678,Oak,Good ,20,Ornamental,Bartlett
+43,-69.65110417,44.57096406,Oak,Good ,20,Ornamental,Bartlett
+44,-69.65324524,44.57743118,Oak,Good ,20,Ornamental,Bartlett
+45,-69.64313456,44.53455674,Oak,Good ,20,Ornamental,Bartlett
+46,-69.64359005,44.55103734,Oak,Good ,20,Ornamental,Bartlett
+47,-69.63062361,44.56818771,Pear,Good ,20,Fruiting / Flowering,Bartlett
+48,-69.63042373,44.56816628,Pear,Fair ,20,Fruiting / Flowering,Bartlett
+49,-69.63052176,44.56818053,Pear,Fair ,20,Fruiting / Flowering,Bartlett
+50,-69.6299331,44.56809238,Pear,Poor ,20,Fruiting / Flowering,Bartlett
+51,-69.65216823,44.57445103,Oak,Good ,18,Ornamental,Bartlett
+52,-69.65107462,44.57094074,Oak,Good ,18,Ornamental,Bartlett
+53,-69.65987791,44.52698536,Oak,Good ,18,Ornamental,Bartlett
+54,-69.65459088,44.57916694,Oak,Fair ,16,Ornamental,Bartlett
+55,-69.66215938,44.52860732,Cherry,Fair ,15,Fruiting / Flowering,Bartlett
+56,-69.62820905,44.55183039,Elm,Fair ,15,Ornamental,Bartlett
+57,-69.6427722,44.5509343,Elm,Good ,15,Ornamental,Bartlett
+58,-69.62762859,44.55329479,Elm,Good ,15,Ornamental,Bartlett
+59,-69.62753091,44.55318014,Elm,Good ,15,Ornamental,Bartlett
+60,-69.65227054,44.57530671,Oak,Poor ,15,Ornamental,Bartlett
+61,-69.65500414,44.57974918,Oak,Good ,15,Ornamental,Bartlett
+62,-69.65402914,44.57826316,Oak,Good ,15,Ornamental,Bartlett
+63,-69.64377073,44.53456225,Oak,Good ,15,Ornamental,Bartlett
+64,-69.65120883,44.57112587,Oak,Good ,15,Ornamental,Bartlett
+65,-69.65362163,44.57792831,Oak,Good ,15,Ornamental,Bartlett
+66,-69.65497412,44.58014626,Oak,Good ,15,Ornamental,Bartlett
+67,-69.65112297,44.57101406,Oak,Good ,15,Ornamental,Bartlett
+68,-69.6549539,44.5801069,Oak,Good ,15,Ornamental,Bartlett
+69,-69.65200715,44.57447261,Oak,Fair ,15,Ornamental,Bartlett
+70,-69.65209514,44.57396555,Oak,Good ,15,Ornamental,Bartlett
+71,-69.65981635,44.52698401,Oak,Good ,15,Ornamental,Bartlett
+72,-69.64311727,44.53453753,Oak,Poor ,15,Ornamental,Bartlett
+73,-69.65951182,44.52693367,Oak,Good ,15,Ornamental,Bartlett
+74,-69.65967936,44.52694735,Oak,Good ,15,Ornamental,Bartlett
+75,-69.63023696,44.5681316,Pear,Poor ,15,Fruiting / Flowering,Bartlett
+76,-69.65303682,44.5772068,Oak,Good ,14,Ornamental,Bartlett
+77,-69.66273079,44.52888795,Cherry,Good ,13,Fruiting / Flowering,Bartlett
+78,-69.66239343,44.52878788,Cherry,Fair ,12,Fruiting / Flowering,Bartlett
+79,-69.62758631,44.55079453,Elm,Good ,12,Ornamental,Bartlett
+80,-69.64267103,44.53471302,Elm,Good ,12,Ornamental,Bartlett
+81,-69.6559364,44.5805621,Oak,Good ,12,Ornamental,Bartlett
+82,-69.65234994,44.5756568,Oak,Fair ,12,Ornamental,Bartlett
+83,-69.65937963,44.52722559,Oak,Good ,11,Ornamental,Bartlett
+84,-69.64236979,44.53506288,Oak,Good ,11,Ornamental,Bartlett
+85,-69.66127637,44.52777909,Cherry,Poor ,10,Fruiting / Flowering,Bartlett
+86,-69.66015207,44.53420321,Cherry,Fair ,10,Fruiting / Flowering,Bartlett
+87,-69.66236943,44.52873184,Cherry,Poor ,10,Fruiting / Flowering,Bartlett
+88,-69.66235045,44.52875797,Cherry,Poor ,10,Fruiting / Flowering,Bartlett
+89,-69.64310509,44.5346416,Cherry,Fair ,10,Fruiting / Flowering,Bartlett
+90,-69.62748159,44.55081456,Crabapple,Good ,10,Fruiting / Flowering,Bartlett
+91,-69.62774616,44.55068667,Elm,Good ,10,Ornamental,Bartlett
+92,-69.6629997,44.52905155,Maple,Good ,10,Fruiting / Flowering,Bartlett
+93,-69.64319637,44.53456748,Maple,Good ,10,Fruiting / Flowering,Bartlett
+94,-69.65513893,44.58027553,Oak,Good ,10,Ornamental,Bartlett
+95,-69.65206818,44.57468374,Oak,Fair ,10,Ornamental,Bartlett
+96,-69.65293689,44.57690561,Oak,Good ,10,Ornamental,Bartlett
+97,-69.65516585,44.58030435,Oak,Good ,10,Ornamental,Bartlett
+98,-69.65230512,44.57544751,Oak,Good ,10,Ornamental,Bartlett
+99,-69.65495702,44.58006617,Oak,Good ,10,Ornamental,Bartlett
+100,-69.65942426,44.52694902,Oak,Good ,10,Ornamental,Bartlett
+101,-69.65133159,44.5721718,Oak,Good ,10,Ornamental,Bartlett
+102,-69.65504533,44.58020694,Oak,Good ,10,Ornamental,Bartlett
+103,-69.65520689,44.58040052,Oak,Good ,10,Ornamental,Bartlett
+104,-69.64257227,44.53476168,Oak,Good ,10,Ornamental,Bartlett
+105,-69.65900227,44.5341433,Poplar,Fair ,10,Ornamental,Bartlett
+106,-69.6590225,44.53414999,Poplar,Good ,10,Ornamental,Bartlett
+107,-69.65908337,44.53413742,Poplar,Fair ,10,Ornamental,Bartlett
+108,-69.62710292,44.5522326,Serviceberry,Good ,10,Bush,Bartlett
+109,-69.65336166,44.57763509,Oak,Good ,9,Ornamental,Bartlett
+110,-69.65241095,44.57498831,Oak,Good ,9,Ornamental,Bartlett
+111,-69.65236595,44.57493243,Oak,Fair ,9,Ornamental,Bartlett
+112,-69.65478777,44.57963848,Oak,Poor ,9,Ornamental,Bartlett
+113,-69.65268259,44.57623676,Oak,Good ,9,Ornamental,Bartlett
+114,-69.65973543,44.52693721,Cherry,Poor ,8,Fruiting / Flowering,Bartlett
+115,-69.65427843,44.57851488,Oak,Good ,8,Ornamental,Bartlett
+116,-69.65306835,44.57720163,Oak,Fair ,8,Ornamental,Bartlett
+117,-69.65984036,44.52696524,Oak,Good ,8,Ornamental,Bartlett
+118,-69.66260402,44.52888256,Elm,Good ,7,Ornamental,Bartlett
+119,-69.63295252,44.55078112,Elm,Fair ,7,Ornamental,Bartlett
+120,-69.65230187,44.57540352,Oak,Good ,7,Ornamental,Bartlett
+121,-69.65439304,44.57881204,Oak,Good ,7,Ornamental,Bartlett
+122,-69.65277791,44.57631,Oak,Good ,7,Ornamental,Bartlett
+123,-69.65433897,44.57864415,Oak,Fair ,7,Ornamental,Bartlett
+124,-69.65195175,44.57416678,Oak,Fair ,7,Ornamental,Bartlett
+125,-69.65199138,44.57436582,Oak,Good ,7,Ornamental,Bartlett
+126,-69.62718586,44.55285557,Elm,Good ,6,Ornamental,Bartlett
+127,-69.65226799,44.57530906,Oak,Poor ,6,Ornamental,Bartlett
+128,-69.65225454,44.57537905,Oak,Good ,6,Ornamental,Bartlett
+129,-69.65229843,44.57468022,Oak,Fair ,6,Ornamental,Bartlett
+130,-69.6546466,44.57937535,Oak,Good ,6,Ornamental,Bartlett
+131,-69.65439971,44.57876519,Oak,Fair ,6,Ornamental,Bartlett
+132,-69.66076598,44.53402736,Oak,Good ,6,Ornamental,Bartlett
+133,-69.65206606,44.57393026,Oak,Fair ,6,Ornamental,Bartlett
+134,-69.6425897,44.53476084,Oak,Good ,6,Ornamental,Bartlett
+135,-69.65621874,44.58058279,Poplar,Good ,6,Ornamental,Bartlett
+136,-69.66122492,44.52740095,Cherry,Poor ,5,Fruiting / Flowering,Bartlett
+137,-69.66126843,44.52750085,Cherry,Fair ,5,Fruiting / Flowering,Bartlett
+138,-69.66231483,44.52871846,Cherry,Poor ,5,Fruiting / Flowering,Bartlett
+139,-69.65983454,44.52693969,Cherry,Poor ,5,Fruiting / Flowering,Bartlett
+140,-69.64232827,44.53535187,Elm,Fair ,5,Ornamental,Bartlett
+141,-69.62812148,44.55318007,Maple,Good ,5,Fruiting / Flowering,Bartlett
+142,-69.62813864,44.55320396,Maple,Fair ,5,Fruiting / Flowering,Bartlett
+143,-69.66005798,44.53416864,Oak,Good ,5,Ornamental,Bartlett
+144,-69.65265739,44.57618217,Oak,Good ,5,Ornamental,Bartlett
+145,-69.65211925,44.57474833,Oak,Good ,5,Ornamental,Bartlett
+146,-69.65205625,44.57379336,Oak,Good ,5,Ornamental,Bartlett
+147,-69.65504194,44.58023014,Oak,Good ,5,Ornamental,Bartlett
+148,-69.65229882,44.57544782,Oak,Good ,5,Ornamental,Bartlett
+149,-69.65229111,44.5754978,Oak,Good ,5,Ornamental,Bartlett
+150,-69.65506126,44.5802936,Oak,Good ,5,Ornamental,Bartlett
+151,-69.62771206,44.55104351,Oak,Fair ,5,Ornamental,Bartlett
+152,-69.65893409,44.53416552,Poplar,Poor ,5,Ornamental,Bartlett
+153,-69.62718877,44.55265543,Serviceberry,Good ,5,Bush,Bartlett
+154,-69.62713603,44.55225725,Serviceberry,Good ,5,Bush,Bartlett
+155,-69.62716118,44.55267326,Serviceberry,Good ,5,Bush,Bartlett
+156,-69.66239035,44.52876396,Cherry,Fair ,4,Fruiting / Flowering,Bartlett
+157,-69.66287648,44.52895554,Cherry,Good ,4,Fruiting / Flowering,Bartlett
+158,-69.66311098,44.52912631,Cherry,Good ,4,Fruiting / Flowering,Bartlett
+159,-69.63349676,44.55082061,Elm,Good ,4,Ornamental,Bartlett
+160,-69.62791142,44.55080465,Elm,Good ,4,Ornamental,Bartlett
+161,-69.62770598,44.55062902,Elm,Good ,4,Ornamental,Bartlett
+162,-69.62783225,44.55077055,Elm,Fair ,4,Ornamental,Bartlett
+163,-69.64368187,44.53447497,Maple,Fair ,4,Ornamental,Bartlett
+164,-69.63857977,44.53810995,Maple,Good ,4,Ornamental,Bartlett
+165,-69.62822185,44.55167588,Maple,Good ,4,Ornamental,Bartlett
+166,-69.65453839,44.57912047,Oak,Good ,4,Ornamental,Bartlett
+167,-69.65517702,44.58034696,Oak,Poor ,4,Ornamental,Bartlett
+168,-69.63114357,44.56742048,Oak,Poor ,4,Ornamental,Bartlett
+169,-69.65520196,44.58017348,Oak,Good ,4,Ornamental,Bartlett
+170,-69.65525538,44.58039947,Oak,Good ,4,Ornamental,Bartlett
+171,-69.65146319,44.57196822,Oak,Good ,4,Ornamental,Bartlett
+172,-69.66025894,44.52700934,Poplar,Poor ,4,Ornamental,Bartlett
+173,-69.66013014,44.52703605,Poplar,Poor ,4,Ornamental,Bartlett
+174,-69.66074205,44.53421557,Poplar,Good ,4,Ornamental,Bartlett
+175,-69.63103176,44.56764717,Birch,Good ,3,Ornamental,Bartlett
+176,-69.6610809,44.52735703,Cherry,Fair ,3,Fruiting / Flowering,Bartlett
+177,-69.66285218,44.52892573,Crabapple,Fair ,3,Fruiting / Flowering,Bartlett
+178,-69.62753555,44.55082304,Crabapple,Good ,3,Fruiting / Flowering,Bartlett
+179,-69.66299602,44.52903794,Elm,Good ,3,Ornamental,Bartlett
+180,-69.64236807,44.53519495,Maple,Fair ,3,Ornamental,Bartlett
+181,-69.64630032,44.56156175,Maple,Good ,3,Ornamental,Bartlett
+182,-69.62750334,44.55304226,Maple,Good ,3,Fruiting / Flowering,Bartlett
+183,-69.65523216,44.58035712,Oak,Good ,3,Ornamental,Bartlett
+184,-69.6310976,44.56743681,Oak,Good ,3,Ornamental,Bartlett
+185,-69.65227066,44.5753565,Oak,Good ,3,Ornamental,Bartlett
+186,-69.6521466,44.57431279,Oak,Good ,3,Ornamental,Bartlett
+187,-69.62754872,44.55106704,Oak,Good ,3,Ornamental,Bartlett
+188,-69.65513832,44.58004836,Poplar,Good ,3,Ornamental,Bartlett
+189,-69.65517166,44.58005571,Poplar,Good ,3,Ornamental,Bartlett
+190,-69.66027416,44.52701462,Poplar,Fair ,3,Ornamental,Bartlett
+191,-69.66069974,44.5341746,Poplar,Poor ,3,Ornamental,Bartlett
+192,-69.65624894,44.58060958,Poplar,Good ,3,Ornamental,Bartlett
+193,-69.64632605,44.56190566,Ash,Good ,2,Ornamental,Bartlett
+194,-69.65466363,44.57903512,Ash,Good ,2,Ornamental,Bartlett
+195,-69.6271846,44.55128731,Birch,Good ,2,Ornamental,Bartlett
+196,-69.62708465,44.55221229,Birch,Good ,2,Ornamental,Bartlett
+197,-69.62720395,44.55240169,Birch,Good ,2,Ornamental,Bartlett
+198,-69.62720547,44.55246532,Birch,Good ,2,Ornamental,Bartlett
+199,-69.6272434,44.55249004,Birch,Good ,2,Ornamental,Bartlett
+200,-69.62715524,44.55162685,Birch,Good ,2,Ornamental,Bartlett
+201,-69.62714661,44.55170741,Birch,Good ,2,Ornamental,Bartlett
+202,-69.62718863,44.55115757,Birch,Good ,2,Ornamental,Bartlett
+203,-69.62722403,44.55123127,Birch,Good ,2,Ornamental,Bartlett
+204,-69.66265294,44.52884177,Cherry,Good ,2,Fruiting / Flowering,Bartlett
+205,-69.66227158,44.52868892,Cherry,Fair ,2,Fruiting / Flowering,Bartlett
+206,-69.66119577,44.5274077,Cherry,Poor ,2,Fruiting / Flowering,Bartlett
+207,-69.66226028,44.52868306,Cherry,Fair ,2,Fruiting / Flowering,Bartlett
+208,-69.66054024,44.53417572,Crabapple,Fair ,2,Fruiting / Flowering,Bartlett
+209,-69.62746248,44.55081672,Crabapple,Good ,2,Fruiting / Flowering,Bartlett
+210,-69.63363084,44.55084216,Elm,Good ,2,Ornamental,Bartlett
+211,-69.63375148,44.55085845,Elm,Good ,2,Ornamental,Bartlett
+212,-69.6427559,44.53467235,Elm,Poor ,2,Ornamental,Bartlett
+213,-69.62918076,44.54953646,Linden,Good ,2,Fruiting / Flowering,Bartlett
+214,-69.62833024,44.55019436,Maple,Poor ,2,Ornamental,Bartlett
+215,-69.64368957,44.53447074,Maple,Fair ,2,Ornamental,Bartlett
+216,-69.63054984,44.56715868,Maple,Good ,2,Ornamental,Bartlett
+217,-69.63026018,44.56711401,Maple,Good ,2,Ornamental,Bartlett
+218,-69.65886908,44.53409077,Maple,Fair ,2,Ornamental,Bartlett
+219,-69.66046955,44.53369862,Maple,Good ,2,Ornamental,Bartlett
+220,-69.62819122,44.55231878,Maple,Fair ,2,Ornamental,Bartlett
+221,-69.62817355,44.55267313,Maple,Good ,2,Ornamental,Bartlett
+222,-69.62820363,44.55232415,Maple,Good ,2,Ornamental,Bartlett
+223,-69.62818192,44.55213462,Maple,Good ,2,Ornamental,Bartlett
+224,-69.62822573,44.55196625,Maple,Poor ,2,Ornamental,Bartlett
+225,-69.62822185,44.55153132,Maple,Good ,2,Ornamental,Bartlett
+226,-69.66043364,44.53360227,Maple,Good ,2,Ornamental,Bartlett
+227,-69.6281979,44.55212828,Maple,Good ,2,Ornamental,Bartlett
+228,-69.64617043,44.56322208,Maple,Good ,2,Ornamental,Bartlett
+229,-69.62817362,44.55274113,Maple,Good ,2,Ornamental,Bartlett
+230,-69.64633235,44.56335366,Maple,Good ,2,Ornamental,Bartlett
+231,-69.64320039,44.53460532,Maple,Good ,2,Ornamental,Bartlett
+232,-69.64270538,44.53475359,Maple,Fair ,2,Ornamental,Bartlett
+233,-69.64356065,44.53453711,Maple,Good ,2,Ornamental,Bartlett
+234,-69.66145628,44.5296817,Maple,Good ,2,Ornamental,Bartlett
+235,-69.6551006,44.58026169,Maple,Good ,2,Ornamental,Bartlett
+236,-69.65919484,44.53417385,Maple,Fair ,2,Ornamental,Bartlett
+237,-69.63581713,44.54761293,Maple,Good ,2,Fruiting / Flowering,Bartlett
+238,-69.64528497,44.56175893,Maple,Good ,2,Fruiting / Flowering,Bartlett
+239,-69.64539458,44.56167186,Maple,Good ,2,Fruiting / Flowering,Bartlett
+240,-69.63086446,44.56725279,Maple,Poor ,2,Fruiting / Flowering,Bartlett
+241,-69.62744377,44.55283141,Maple,Good ,2,Fruiting / Flowering,Bartlett
+242,-69.6273906,44.55294809,Maple,Good ,2,Fruiting / Flowering,Bartlett
+243,-69.62746233,44.55296135,Maple,Good ,2,Fruiting / Flowering,Bartlett
+244,-69.62743727,44.55309552,Maple,Good ,2,Fruiting / Flowering,Bartlett
+245,-69.62719854,44.55291042,Oak,Good ,2,Ornamental,Bartlett
+246,-69.65590094,44.58044206,Oak,Good ,2,Ornamental,Bartlett
+247,-69.66053115,44.53378262,Oak,Fair ,2,Ornamental,Bartlett
+248,-69.65588901,44.58049187,Oak,Good ,2,Ornamental,Bartlett
+249,-69.65518239,44.58016492,Oak,Good ,2,Ornamental,Bartlett
+250,-69.66018735,44.53423968,Oak,Good ,2,Ornamental,Bartlett
+251,-69.65527727,44.58044174,Oak,Good ,2,Ornamental,Bartlett
+252,-69.65520043,44.58015056,Oak,Good ,2,Ornamental,Bartlett
+253,-69.6543411,44.57859909,Oak,Good ,2,Ornamental,Bartlett
+254,-69.65451481,44.57905045,Oak,Good ,2,Ornamental,Bartlett
+255,-69.63101194,44.56768366,Oak,Good ,2,Ornamental,Bartlett
+256,-69.65458121,44.57921965,Oak,Good ,2,Ornamental,Bartlett
+257,-69.62778401,44.55094834,Oak,Poor ,2,Ornamental,Bartlett
+258,-69.62743392,44.5511538,Oak,Good ,2,Ornamental,Bartlett
+259,-69.65900871,44.53403201,Poplar,Fair ,2,Ornamental,Bartlett
+260,-69.66074716,44.52720981,Poplar,Fair ,2,Ornamental,Bartlett
+261,-69.66046343,44.52706387,Poplar,Good ,2,Ornamental,Bartlett
+262,-69.66071334,44.53418194,Poplar,Good ,2,Ornamental,Bartlett
+263,-69.66031406,44.52703225,Poplar,Fair ,2,Ornamental,Bartlett
+264,-69.64589251,44.56243805,Ash,Fair ,0,Ornamental,Bartlett
+265,-69.646085,44.56239003,Ash,Good ,0,Ornamental,Bartlett
+266,-69.64594883,44.5624836,Ash,Fair ,0,Ornamental,Bartlett
+267,-69.62809589,44.55312133,Ash,Good ,0,Ornamental,Bartlett
+268,-69.66212271,44.52864173,Ash,Good ,0,Ornamental,Bartlett
+269,-69.66228142,44.52871313,Ash,Good ,0,Ornamental,Bartlett
+270,-69.66127985,44.52756641,Ash,Good ,0,Ornamental,Bartlett
+271,-69.66212275,44.52862035,Ash,Good ,0,Ornamental,Bartlett
+272,-69.66125741,44.52765066,Ash,Good ,0,Ornamental,Bartlett
+273,-69.66127555,44.52751999,Ash,Good ,0,Ornamental,Bartlett
+274,-69.66036438,44.5335723,Ash,Good ,0,Ornamental,Bartlett
+275,-69.66131876,44.52755742,Ash,Good ,0,Ornamental,Bartlett
+276,-69.6613195,44.52755911,Ash,Good ,0,Ornamental,Bartlett
+277,-69.66091603,44.52730561,Ash,Good ,0,Ornamental,Bartlett
+278,-69.63278761,44.54601561,Ash,Fair ,0,Ornamental,Bartlett
+279,-69.66224096,44.52869393,Ash,Good ,0,Ornamental,Bartlett
+280,-69.64601761,44.56237073,Ash,Good ,0,Ornamental,Bartlett
+281,-69.6613353,44.52773077,Ash,Good ,0,Ornamental,Bartlett
+282,-69.63287827,44.54607363,Ash,Good ,0,Ornamental,Bartlett
+283,-69.66214485,44.52868195,Ash,Good ,0,Ornamental,Bartlett
+284,-69.63057267,44.56236789,Ash,Good ,0,Ornamental,Bartlett
+285,-69.63049274,44.56249971,Ash,Good ,0,Ornamental,Bartlett
+286,-69.65500827,44.57985172,Ash,Good ,0,Ornamental,Bartlett
+287,-69.66213098,44.52868401,Ash,Good ,0,Ornamental,Bartlett
+288,-69.64499615,44.56214932,Ash,Good ,0,Ornamental,Bartlett
+289,-69.66023061,44.53345698,Ash,Fair ,0,Ornamental,Bartlett
+290,-69.64793841,44.56468515,Ash,Good ,0,Ornamental,Bartlett
+291,-69.64648709,44.56202372,Ash,Good ,0,Ornamental,Bartlett
+292,-69.64641177,44.56196783,Ash,Good ,0,Ornamental,Bartlett
+293,-69.64667151,44.56212773,Ash,Poor ,0,Ornamental,Bartlett
+294,-69.64813773,44.56485917,Ash,Good ,0,Ornamental,Bartlett
+295,-69.64670203,44.56220275,Ash,Good ,0,Ornamental,Bartlett
+296,-69.64659459,44.56208688,Ash,Poor ,0,Ornamental,Bartlett
+297,-69.64625049,44.56185291,Ash,Good ,0,Ornamental,Bartlett
+298,-69.62817896,44.5507748,Ash,Good ,0,Ornamental,Bartlett
+299,-69.6592438,44.52755863,Ash,Poor ,0,Ornamental,Bartlett
+300,-69.66049002,44.53373404,Ash,Good ,0,Ornamental,Bartlett
+301,-69.66052149,44.53379658,Ash,Poor ,0,Ornamental,Bartlett
+302,-69.65919482,44.52761053,Ash,Poor ,0,Ornamental,Bartlett
+303,-69.65908037,44.53410169,Ash,Good ,0,Ornamental,Bartlett
+304,-69.65903201,44.53405363,Ash,Good ,0,Ornamental,Bartlett
+305,-69.65657839,44.581199,Ash,Good ,0,Ornamental,Bartlett
+306,-69.65470291,44.57912686,Ash,Good ,0,Ornamental,Bartlett
+307,-69.65496195,44.5800711,Ash,Good ,0,Ornamental,Bartlett
+308,-69.62814937,44.55061341,Ash,Good ,0,Ornamental,Bartlett
+309,-69.660664,44.53388939,Ash,Poor ,0,Ornamental,Bartlett
+310,-69.65924315,44.52745821,Ash,Poor ,0,Ornamental,Bartlett
+311,-69.65962359,44.53418581,Ash,Good ,0,Ornamental,Bartlett
+312,-69.65896764,44.53412625,Ash,Good ,0,Ornamental,Bartlett
+313,-69.65455173,44.57907147,Ash,Poor ,0,Ornamental,Bartlett
+314,-69.66053675,44.53381194,Ash,Fair ,0,Ornamental,Bartlett
+315,-69.65930333,44.5273026,Ash,Poor ,0,Ornamental,Bartlett
+316,-69.65882396,44.53406609,Ash,Fair ,0,Ornamental,Bartlett
+317,-69.65487207,44.57998129,Ash,Good ,0,Ornamental,Bartlett
+318,-69.63458309,44.54596771,Ash,Poor ,0,Ornamental,Bartlett
+319,-69.66076853,44.53402976,Ash,Good ,0,Ornamental,Bartlett
+320,-69.65891494,44.53409026,Ash,Fair ,0,Ornamental,Bartlett
+321,-69.65471286,44.57915674,Ash,Good ,0,Ornamental,Bartlett
+322,-69.66071671,44.53403109,Ash,Good ,0,Ornamental,Bartlett
+323,-69.65536307,44.58031352,Ash,Good ,0,Ornamental,Bartlett
+324,-69.65497191,44.57971781,Ash,Good ,0,Ornamental,Bartlett
+325,-69.63481117,44.54577818,Ash,Fair ,0,Ornamental,Bartlett
+326,-69.66056451,44.53379963,Ash,Fair ,0,Ornamental,Bartlett
+327,-69.66056436,44.53381506,Ash,Fair ,0,Ornamental,Bartlett
+328,-69.66071255,44.53399366,Ash,Good ,0,Ornamental,Bartlett
+329,-69.66077438,44.53402674,Ash,Good ,0,Ornamental,Bartlett
+330,-69.65464951,44.57900704,Ash,Fair ,0,Ornamental,Bartlett
+331,-69.66125904,44.52744635,Ash,Good ,0,Ornamental,Bartlett
+332,-69.66026335,44.53435602,Ash,Good ,0,Ornamental,Bartlett
+333,-69.66072207,44.53402718,Ash,Good ,0,Ornamental,Bartlett
+334,-69.65496013,44.5796295,Ash,Good ,0,Ornamental,Bartlett
+335,-69.66066448,44.53392025,Ash,Good ,0,Ornamental,Bartlett
+336,-69.65526482,44.58025061,Ash,Good ,0,Ornamental,Bartlett
+337,-69.62773993,44.55078428,Ash,Good ,0,Ornamental,Bartlett
+338,-69.62767459,44.55070357,Ash,Fair ,0,Ornamental,Bartlett
+339,-69.65954621,44.52694167,Ash,Good ,0,Ornamental,Bartlett
+340,-69.62768555,44.55084344,Ash,Fair ,0,Ornamental,Bartlett
+341,-69.66049525,44.53371769,Beech,Fair ,0,Ornamental,Bartlett
+342,-69.65459642,44.57922567,Birch,Good ,0,Ornamental,Bartlett
+343,-69.6560053,44.58062281,Birch,Good ,0,Ornamental,Bartlett
+344,-69.65463902,44.57929706,Birch,Good ,0,Ornamental,Bartlett
+345,-69.66029106,44.53347953,Birch,Good ,0,Ornamental,Bartlett
+346,-69.65468104,44.57941279,Birch,Good ,0,Ornamental,Bartlett
+347,-69.63355749,44.5464196,Birch,Good ,0,Ornamental,Bartlett
+348,-69.65975225,44.52693828,Birch,Poor ,0,Ornamental,Bartlett
+349,-69.62726698,44.55263141,Birch,Poor ,0,Ornamental,Bartlett
+350,-69.62722375,44.55251928,Birch,Good ,0,Ornamental,Bartlett
+351,-69.62716716,44.55257609,Birch,Good ,0,Ornamental,Bartlett
+352,-69.62704316,44.5515117,Birch,Good ,0,Ornamental,Bartlett
+353,-69.62719541,44.55166743,Birch,Good ,0,Ornamental,Bartlett
+354,-69.62712477,44.55228637,Birch,Good ,0,Ornamental,Bartlett
+355,-69.62722306,44.55235753,Birch,Good ,0,Ornamental,Bartlett
+356,-69.62715494,44.5524321,Birch,Good ,0,Ornamental,Bartlett
+357,-69.62719614,44.55231663,Birch,Good ,0,Ornamental,Bartlett
+358,-69.6271921,44.55268889,Birch,Good ,0,Ornamental,Bartlett
+359,-69.62741295,44.5528875,Birch,Good ,0,Ornamental,Bartlett
+360,-69.62723514,44.55127531,Birch,Fair ,0,Ornamental,Bartlett
+361,-69.62738108,44.5526602,Birch,Good ,0,Ornamental,Bartlett
+362,-69.62734546,44.55291072,Birch,Fair ,0,Ornamental,Bartlett
+363,-69.62739787,44.55291468,Birch,Good ,0,Ornamental,Bartlett
+364,-69.66257096,44.52881244,Cherry,Poor ,0,Fruiting / Flowering,Bartlett
+365,-69.66125847,44.52740197,Cherry,Dead ,0,Fruiting / Flowering,Bartlett
+366,-69.66113757,44.52734815,Cherry,Fair ,0,Fruiting / Flowering,Bartlett
+367,-69.63290179,44.55084571,Elm,Fair ,0,Ornamental,Bartlett
+368,-69.63336672,44.55080302,Elm,Fair ,0,Ornamental,Bartlett
+369,-69.64579829,44.56226307,Elm,Dead ,0,Ornamental,Bartlett
+370,-69.65986478,44.52698952,Elm,Poor ,0,Ornamental,Bartlett
+371,-69.64302478,44.53468325,Elm,Poor ,0,Ornamental,Bartlett
+372,-69.63353144,44.55100537,Ginkgo,Good ,0,Ornamental,Bartlett
+373,-69.6271779,44.55135179,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+374,-69.62713498,44.55146478,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+375,-69.62717293,44.55159065,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+376,-69.64730043,44.56412779,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+377,-69.63302203,44.54616133,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+378,-69.64739607,44.56422083,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+379,-69.63315978,44.55124643,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+380,-69.62749804,44.5526394,Honeylocust,Fair ,0,Fruiting / Flowering,Bartlett
+381,-69.62750592,44.55256399,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+382,-69.6275226,44.55247297,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+383,-69.62746561,44.55239309,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+384,-69.62738693,44.5523417,Honeylocust,Fair ,0,Fruiting / Flowering,Bartlett
+385,-69.6273077,44.55230811,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+386,-69.62962292,44.54958675,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+387,-69.64836331,44.56501944,Honeylocust,Good ,0,Fruiting / Flowering,Bartlett
+388,-69.63315023,44.55112273,Horsechestnut,Fair ,0,Fruiting / Flowering,Bartlett
+389,-69.63371266,44.55132367,Lilac,Good ,0,Fruiting / Flowering,Bartlett
+390,-69.66029276,44.53327968,Linden,Good ,0,Fruiting / Flowering,Bartlett
+391,-69.62902753,44.54952102,Linden,Good ,0,Fruiting / Flowering,Bartlett
+392,-69.62902942,44.54959769,Linden,Good ,0,Fruiting / Flowering,Bartlett
+393,-69.64717981,44.56404483,Linden,Good ,0,Fruiting / Flowering,Bartlett
+394,-69.62905829,44.54946569,Linden,Fair ,0,Fruiting / Flowering,Bartlett
+395,-69.63463146,44.54580237,Linden,Poor ,0,Fruiting / Flowering,Bartlett
+396,-69.63461065,44.54561383,Linden,Fair ,0,Fruiting / Flowering,Bartlett
+397,-69.64804215,44.5647744,Linden,Good ,0,Fruiting / Flowering,Bartlett
+398,-69.6328552,44.54621844,Locust,Good ,0,Fruiting / Flowering,Bartlett
+399,-69.6333794,44.54638352,Locust,Good ,0,Fruiting / Flowering,Bartlett
+400,-69.63368534,44.54647386,Locust,Fair ,0,Fruiting / Flowering,Bartlett
+401,-69.63372459,44.54646835,Locust,Good ,0,Fruiting / Flowering,Bartlett
+402,-69.6332622,44.54627605,Locust,Good ,0,Fruiting / Flowering,Bartlett
+403,-69.63361944,44.5464475,Locust,Good ,0,Fruiting / Flowering,Bartlett
+404,-69.63374075,44.54646066,Locust,Good ,0,Fruiting / Flowering,Bartlett
+405,-69.63329641,44.54627963,Locust,Good ,0,Fruiting / Flowering,Bartlett
+406,-69.63334217,44.54638278,Locust,Good ,0,Fruiting / Flowering,Bartlett
+407,-69.63356545,44.54643262,Locust,Good ,0,Fruiting / Flowering,Bartlett
+408,-69.66123037,44.52787699,Maple,Fair ,0,Ornamental,Bartlett
+409,-69.64326011,44.53459879,Maple,Good ,0,Ornamental,Bartlett
+410,-69.64256249,44.53501675,Maple,Fair ,0,Ornamental,Bartlett
+411,-69.64342227,44.53455206,Maple,Poor ,0,Ornamental,Bartlett
+412,-69.65999375,44.52703713,Maple,Poor ,0,Ornamental,Bartlett
+413,-69.64334724,44.53454887,Maple,Poor ,0,Ornamental,Bartlett
+414,-69.64272214,44.53471499,Maple,Poor ,0,Ornamental,Bartlett
+415,-69.64266331,44.53472552,Maple,Poor ,0,Ornamental,Bartlett
+416,-69.63071042,44.56718859,Maple,Good ,0,Ornamental,Bartlett
+417,-69.63861643,44.53793262,Maple,Good ,0,Ornamental,Bartlett
+418,-69.63063244,44.56716256,Maple,Good ,0,Ornamental,Bartlett
+419,-69.6303465,44.56710716,Maple,Good ,0,Ornamental,Bartlett
+420,-69.63045771,44.56715136,Maple,Fair ,0,Ornamental,Bartlett
+421,-69.6386266,44.53800454,Maple,Good ,0,Ornamental,Bartlett
+422,-69.63006394,44.56710058,Maple,Good ,0,Ornamental,Bartlett
+423,-69.63889521,44.53781538,Maple,Good ,0,Ornamental,Bartlett
+424,-69.6386728,44.53786054,Maple,Good ,0,Ornamental,Bartlett
+425,-69.63858019,44.5380571,Maple,Good ,0,Ornamental,Bartlett
+426,-69.63020158,44.56711241,Maple,Good ,0,Ornamental,Bartlett
+427,-69.63002,44.56705826,Maple,Good ,0,Ornamental,Bartlett
+428,-69.63331682,44.55085895,Maple,Good ,0,Ornamental,Bartlett
+429,-69.63589461,44.54762061,Maple,Good ,0,Ornamental,Bartlett
+430,-69.66175257,44.52854729,Maple,Good ,0,Ornamental,Bartlett
+431,-69.63390284,44.55138589,Maple,Good ,0,Ornamental,Bartlett
+432,-69.63372764,44.54535486,Maple,Good ,0,Ornamental,Bartlett
+433,-69.63329828,44.54628923,Maple,Good ,0,Ornamental,Bartlett
+434,-69.63365708,44.54647788,Maple,Fair ,0,Ornamental,Bartlett
+435,-69.6281684,44.5524669,Maple,Good ,0,Ornamental,Bartlett
+436,-69.62819048,44.55241391,Maple,Fair ,0,Ornamental,Bartlett
+437,-69.65937075,44.53413968,Maple,Good ,0,Ornamental,Bartlett
+438,-69.63371142,44.54647356,Maple,Good ,0,Ornamental,Bartlett
+439,-69.62820539,44.55232666,Maple,Fair ,0,Ornamental,Bartlett
+440,-69.62820807,44.55213434,Maple,Fair ,0,Ornamental,Bartlett
+441,-69.66038122,44.53364227,Maple,Good ,0,Ornamental,Bartlett
+442,-69.65905731,44.53410232,Maple,Good ,0,Ornamental,Bartlett
+443,-69.65939488,44.53410101,Maple,Good ,0,Ornamental,Bartlett
+444,-69.65969233,44.53417682,Maple,Good ,0,Ornamental,Bartlett
+445,-69.65470062,44.57943086,Maple,Good ,0,Ornamental,Bartlett
+446,-69.6333227,44.54631953,Maple,Good ,0,Ornamental,Bartlett
+447,-69.63422512,44.54619594,Maple,Good ,0,Ornamental,Bartlett
+448,-69.63460312,44.54594094,Maple,Good ,0,Ornamental,Bartlett
+449,-69.62821225,44.55215308,Maple,Good ,0,Ornamental,Bartlett
+450,-69.65896232,44.53418763,Maple,Good ,0,Ornamental,Bartlett
+451,-69.65474051,44.57922792,Maple,Good ,0,Ornamental,Bartlett
+452,-69.63401391,44.54631335,Maple,Good ,0,Ornamental,Bartlett
+453,-69.63461321,44.54596156,Maple,Good ,0,Ornamental,Bartlett
+454,-69.64671208,44.56367408,Maple,Good ,0,Ornamental,Bartlett
+455,-69.64309064,44.55164845,Maple,Fair ,0,Ornamental,Bartlett
+456,-69.62817826,44.55215685,Maple,Good ,0,Ornamental,Bartlett
+457,-69.65953031,44.53418113,Maple,Good ,0,Ornamental,Bartlett
+458,-69.6342978,44.54616962,Maple,Poor ,0,Ornamental,Bartlett
+459,-69.6281902,44.55218148,Maple,Fair ,0,Ornamental,Bartlett
+460,-69.65911292,44.53409457,Maple,Good ,0,Ornamental,Bartlett
+461,-69.63425038,44.54619189,Maple,Good ,0,Ornamental,Bartlett
+462,-69.62820801,44.55153929,Maple,Fair ,0,Ornamental,Bartlett
+463,-69.65949103,44.52698646,Maple,Good ,0,Ornamental,Bartlett
+464,-69.64648815,44.56347963,Maple,Fair ,0,Ornamental,Bartlett
+465,-69.64664797,44.56361455,Maple,Good ,0,Ornamental,Bartlett
+466,-69.6465797,44.56355262,Maple,Good ,0,Ornamental,Bartlett
+467,-69.62819165,44.55204287,Maple,Good ,0,Ornamental,Bartlett
+468,-69.63470439,44.54569451,Maple,Good ,0,Ornamental,Bartlett
+469,-69.63417941,44.54623037,Maple,Fair ,0,Ornamental,Bartlett
+470,-69.62792949,44.5506272,Maple,Good ,0,Ornamental,Bartlett
+471,-69.63453822,44.54553113,Maple,Good ,0,Ornamental,Bartlett
+472,-69.63445819,44.54547729,Maple,Fair ,0,Ornamental,Bartlett
+473,-69.63303671,44.55069348,Maple,Good ,0,Ornamental,Bartlett
+474,-69.63390118,44.5510491,Maple,Good ,0,Ornamental,Bartlett
+475,-69.62975644,44.54960304,Maple,Good ,0,Ornamental,Bartlett
+476,-69.6342989,44.54533784,Maple,Fair ,0,Ornamental,Bartlett
+477,-69.63373802,44.55102391,Maple,Good ,0,Ornamental,Bartlett
+478,-69.63328662,44.55095784,Maple,Good ,0,Ornamental,Bartlett
+479,-69.6333238,44.54525793,Maple,Fair ,0,Ornamental,Bartlett
+480,-69.63276773,44.55101145,Maple,Fair ,0,Ornamental,Bartlett
+481,-69.64353336,44.53454246,Maple,Good ,0,Ornamental,Bartlett
+482,-69.64349706,44.53455149,Maple,Poor ,0,Ornamental,Bartlett
+483,-69.64344598,44.53456475,Maple,Good ,0,Ornamental,Bartlett
+484,-69.64338189,44.53457238,Maple,Fair ,0,Ornamental,Bartlett
+485,-69.64320682,44.5346077,Maple,Fair ,0,Ornamental,Bartlett
+486,-69.64318114,44.53458154,Maple,Good ,0,Ornamental,Bartlett
+487,-69.64352913,44.53454964,Maple,Good ,0,Ornamental,Bartlett
+488,-69.64334845,44.53457698,Maple,Fair ,0,Ornamental,Bartlett
+489,-69.64328551,44.5345948,Maple,Good ,0,Ornamental,Bartlett
+490,-69.64313165,44.53462185,Maple,Good ,0,Ornamental,Bartlett
+491,-69.64230887,44.53531566,Maple,Good ,0,Ornamental,Bartlett
+492,-69.64257299,44.53501076,Maple,Fair ,0,Ornamental,Bartlett
+493,-69.64262405,44.53480587,Maple,Good ,0,Ornamental,Bartlett
+494,-69.64272362,44.53472453,Maple,Good ,0,Ornamental,Bartlett
+495,-69.64361338,44.53450418,Maple,Good ,0,Ornamental,Bartlett
+496,-69.64274184,44.53468001,Maple,Good ,0,Ornamental,Bartlett
+497,-69.64359378,44.53454761,Maple,Fair ,0,Ornamental,Bartlett
+498,-69.64317976,44.53462483,Maple,Fair ,0,Ornamental,Bartlett
+499,-69.64235559,44.53529669,Maple,Good ,0,Ornamental,Bartlett
+500,-69.64269917,44.5347537,Maple,Fair ,0,Ornamental,Bartlett
+501,-69.64317502,44.53464393,Maple,Good ,0,Ornamental,Bartlett
+502,-69.64264796,44.53483439,Maple,Good ,0,Ornamental,Bartlett
+503,-69.64230205,44.53537953,Maple,Good ,0,Ornamental,Bartlett
+504,-69.64263646,44.53490603,Maple,Fair ,0,Ornamental,Bartlett
+505,-69.64238849,44.53523868,Maple,Fair ,0,Ornamental,Bartlett
+506,-69.64342738,44.53458264,Maple,Good ,0,Ornamental,Bartlett
+507,-69.64239857,44.53525082,Maple,Fair ,0,Ornamental,Bartlett
+508,-69.64239196,44.5352082,Maple,Good ,0,Ornamental,Bartlett
+509,-69.65969443,44.52693741,Maple,Good ,0,Ornamental,Bartlett
+510,-69.62876178,44.54941921,Maple,Good ,0,Ornamental,Bartlett
+511,-69.6287653,44.54949374,Maple,Good ,0,Ornamental,Bartlett
+512,-69.63310436,44.54543136,Maple,Good ,0,Ornamental,Bartlett
+513,-69.6281027,44.55025992,Maple,Good ,0,Ornamental,Bartlett
+514,-69.62808311,44.55014118,Maple,Good ,0,Ornamental,Bartlett
+515,-69.63907348,44.53803848,Maple,Good ,0,Ornamental,Bartlett
+516,-69.63917058,44.53822385,Maple,Good ,0,Ornamental,Bartlett
+517,-69.64275606,44.55107723,Maple,Good ,0,Ornamental,Bartlett
+518,-69.64335151,44.55101145,Maple,Good ,0,Ornamental,Bartlett
+519,-69.64311374,44.55098204,Maple,Good ,0,Ornamental,Bartlett
+520,-69.6548316,44.57973804,Maple,Good ,0,Ornamental,Bartlett
+521,-69.64439896,44.56121992,Maple,Good ,0,Ornamental,Bartlett
+522,-69.64425967,44.5613081,Maple,Good ,0,Ornamental,Bartlett
+523,-69.64454186,44.56112626,Maple,Good ,0,Ornamental,Bartlett
+524,-69.65490524,44.58001249,Maple,Good ,0,Ornamental,Bartlett
+525,-69.65487176,44.57982492,Maple,Good ,0,Ornamental,Bartlett
+526,-69.65481867,44.57979996,Maple,Good ,0,Ornamental,Bartlett
+527,-69.65483946,44.57976069,Maple,Fair ,0,Ornamental,Bartlett
+528,-69.64276354,44.55128251,Maple,Good ,0,Ornamental,Bartlett
+529,-69.64400863,44.56133151,Maple,Good ,0,Ornamental,Bartlett
+530,-69.64444365,44.56177962,Maple,Good ,0,Ornamental,Bartlett
+531,-69.64573697,44.56285747,Maple,Good ,0,Ornamental,Bartlett
+532,-69.64573242,44.56222013,Maple,Good ,0,Ornamental,Bartlett
+533,-69.6456567,44.56278073,Maple,Good ,0,Ornamental,Bartlett
+534,-69.64461863,44.5619405,Maple,Good ,0,Ornamental,Bartlett
+535,-69.64418364,44.56141461,Maple,Good ,0,Ornamental,Bartlett
+536,-69.65484788,44.57980563,Maple,Fair ,0,Ornamental,Bartlett
+537,-69.63304568,44.54552593,Maple,Poor ,0,Ornamental,Bartlett
+538,-69.64423633,44.56160908,Maple,Good ,0,Ornamental,Bartlett
+539,-69.64436237,44.56170881,Maple,Good ,0,Ornamental,Bartlett
+540,-69.63879801,44.53782851,Maple,Good ,0,Ornamental,Bartlett
+541,-69.64453966,44.56184921,Maple,Good ,0,Ornamental,Bartlett
+542,-69.62983177,44.5670452,Maple,Good ,0,Ornamental,Bartlett
+543,-69.63899434,44.53784446,Maple,Good ,0,Ornamental,Bartlett
+544,-69.6302281,44.56254839,Maple,Fair ,0,Ornamental,Bartlett
+545,-69.66251899,44.5287757,Maple,Good ,0,Ornamental,Bartlett
+546,-69.63016546,44.56265488,Maple,Fair ,0,Ornamental,Bartlett
+547,-69.64451086,44.56150788,Maple,Good ,0,Ornamental,Bartlett
+548,-69.62733837,44.55100255,Maple,Fair ,0,Ornamental,Bartlett
+549,-69.63329081,44.5452914,Maple,Fair ,0,Ornamental,Bartlett
+550,-69.62723591,44.55314357,Maple,Good ,0,Fruiting / Flowering,Bartlett
+551,-69.63911017,44.53794242,Maple,Good ,0,Fruiting / Flowering,Bartlett
+552,-69.63904152,44.53813477,Maple,Good ,0,Fruiting / Flowering,Bartlett
+553,-69.63751572,44.53904151,Maple,Fair ,0,Fruiting / Flowering,Bartlett
+554,-69.6590599,44.5340518,Maple,Fair ,0,Fruiting / Flowering,Bartlett
+555,-69.63319352,44.55073933,Maple,Fair ,0,Fruiting / Flowering,Bartlett
+556,-69.62749411,44.55273771,Maple,Good ,0,Fruiting / Flowering,Bartlett
+557,-69.63282115,44.54589188,Oak,Fair ,0,Ornamental,Bartlett
+558,-69.66023132,44.53327615,Oak,Fair ,0,Ornamental,Bartlett
+559,-69.66076403,44.53406335,Oak,Good ,0,Ornamental,Bartlett
+560,-69.66008333,44.53419321,Oak,Good ,0,Ornamental,Bartlett
+561,-69.65966529,44.53410914,Oak,Good ,0,Ornamental,Bartlett
+562,-69.65955788,44.53413367,Oak,Good ,0,Ornamental,Bartlett
+563,-69.65466851,44.57935092,Oak,Good ,0,Ornamental,Bartlett
+564,-69.64538086,44.56225119,Oak,Good ,0,Ornamental,Bartlett
+565,-69.6548322,44.57984672,Oak,Good ,0,Ornamental,Bartlett
+566,-69.64531562,44.55243591,Oak,Good ,0,Ornamental,Bartlett
+567,-69.64527566,44.55243306,Oak,Good ,0,Ornamental,Bartlett
+568,-69.64519408,44.55237162,Oak,Good ,0,Ornamental,Bartlett
+569,-69.62785319,44.55084898,Oak,Good ,0,Ornamental,Bartlett
+570,-69.6277022,44.55321821,Oak,Good ,0,Ornamental,Bartlett
+571,-69.6598445,44.52696046,Oak,Good ,0,Ornamental,Bartlett
+572,-69.6452416,44.5524109,Oak,Good ,0,Ornamental,Bartlett
+573,-69.64608247,44.56168098,Pine,Fair ,0,Ornamental,Bartlett
+574,-69.64614689,44.5616547,Pine,Good ,0,Ornamental,Bartlett
+575,-69.64575626,44.56182928,Pine,Poor ,0,Ornamental,Bartlett
+576,-69.64585753,44.56177075,Pine,Fair ,0,Ornamental,Bartlett
+577,-69.64596133,44.5617074,Pine,Good ,0,Ornamental,Bartlett
+578,-69.64568197,44.56183894,Pine,Good ,0,Ornamental,Bartlett
+579,-69.63354304,44.55131818,Plum,Fair ,0,Fruiting / Flowering,Bartlett
+580,-69.66059928,44.52713289,Poplar,Good ,0,Ornamental,Bartlett
+581,-69.66051077,44.52714467,Poplar,Good ,0,Ornamental,Bartlett
+582,-69.66074635,44.52719968,Poplar,Good ,0,Ornamental,Bartlett
+583,-69.66072488,44.52719338,Poplar,Fair ,0,Ornamental,Bartlett
+584,-69.66198926,44.52864108,Poplar,Dead ,0,Ornamental,Bartlett
+585,-69.66085346,44.52718974,Poplar,Good ,0,Ornamental,Bartlett
+586,-69.66200001,44.52864352,Poplar,Fair ,0,Ornamental,Bartlett
+587,-69.6604245,44.52698349,Poplar,Fair ,0,Ornamental,Bartlett
+588,-69.66071906,44.52714758,Poplar,Fair ,0,Ornamental,Bartlett
+589,-69.6619868,44.52853338,Poplar,Poor ,0,Ornamental,Bartlett
+590,-69.66016599,44.52699364,Poplar,Fair ,0,Ornamental,Bartlett
+591,-69.66034805,44.52695053,Poplar,Fair ,0,Ornamental,Bartlett
+592,-69.65466741,44.57946194,Poplar,Good ,0,Ornamental,Bartlett
+593,-69.65592382,44.58055315,Poplar,Fair ,0,Ornamental,Bartlett
+594,-69.65465143,44.57944651,Poplar,Good ,0,Ornamental,Bartlett
+595,-69.65465933,44.57933404,Poplar,Fair ,0,Ornamental,Bartlett
+596,-69.65598038,44.58059185,Poplar,Good ,0,Ornamental,Bartlett
+597,-69.65472922,44.5795227,Poplar,Good ,0,Ornamental,Bartlett
+598,-69.65476461,44.57960751,Poplar,Good ,0,Ornamental,Bartlett
+599,-69.63052019,44.56215683,Spruce,Good ,0,Ornamental,Bartlett
+600,-69.63051818,44.56226306,Spruce,Good ,0,Ornamental,Bartlett
+601,-69.64233038,44.53534107,Willow,Fair ,0,Ornamental,Bartlett

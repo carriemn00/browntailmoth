@@ -1,0 +1,333 @@
+,lon,lat,common_name,obs_btm_trees,tree_type,entry_source
+0,-69.640555,44.560474,,0.0,,Citizen Survey
+1,-69.652439,44.552399,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+2,-69.641394,44.540578,,0.0,,Citizen Survey
+3,-69.644153,44.549889,,0.0,,Citizen Survey
+4,-69.630605,44.553242,"Oak, Maple, Ash, Birch, ",4.0,Ornamental,Citizen Survey
+5,-69.628226,44.556896,,0.0,,Citizen Survey
+6,-69.656161,44.551369,"Oak, Maple, Birch, ",3.0,Ornamental,Citizen Survey
+7,-69.644794,44.544097,"Oak, Maple, ",2.0,Ornamental,Citizen Survey
+8,-69.670326,44.548163,"Oak, Birch, Serviceberry, ",3.0,Ornamental,Citizen Survey
+9,-69.663665,44.543651,"Apple, Crabapple, ",2.0,Fruiting / Flowering,Citizen Survey
+10,-69.669199,44.548741,"Oak, Maple, Birch, Crabapple, ",4.0,Mixed,Citizen Survey
+11,-69.660484,44.545065,"Oak, Birch, ",2.0,Ornamental,Citizen Survey
+12,-69.670521,44.548684,,0.0,,Citizen Survey
+13,-69.641126,44.57523,"Oak, Birch, ",2.0,Ornamental,Citizen Survey
+14,-69.661749,44.544553,"Pear, Hawthorn, ",2.0,Fruiting / Flowering,Citizen Survey
+15,-69.670521,44.548684,,0.0,,Citizen Survey
+16,-69.662876,44.545136,"Birch, Apple, Crabapple, ",3.0,Mixed,Citizen Survey
+17,-69.661131,44.543841,,0.0,,Citizen Survey
+18,-69.660988,44.544544,"Ash, ",1.0,Ornamental,Citizen Survey
+19,-69.659686,44.546348,"Oak, Maple, Birch, ",3.0,Ornamental,Citizen Survey
+20,-69.648421,44.56697,,0.0,,Citizen Survey
+21,-69.658142,44.546195,,0.0,Ornamental,Citizen Survey
+22,-69.655729,44.549882,"Oak, ",1.0,Ornamental,Citizen Survey
+23,-69.655365,44.548844,"Oak, Birch, Apple, Crabapple, ",4.0,Mixed,Citizen Survey
+24,-69.660032,44.547426,"Oak, Maple, Ash, ",3.0,Ornamental,Citizen Survey
+25,-69.660802,44.54486,"Oak, Birch, ",2.0,Ornamental,Citizen Survey
+26,-69.658456,44.546679,"Cherry, Hawthorn, ",2.0,Fruiting / Flowering,Citizen Survey
+27,-69.662991,44.543569,"Apple, Crabapple, ",2.0,,Citizen Survey
+28,-69.658765,44.547812,,0.0,Ornamental,Citizen Survey
+29,-69.657145,44.549833,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+30,-69.661074,44.538287,"Maple, Birch, ",2.0,Ornamental,Citizen Survey
+31,-69.661214,44.537522,"Oak, Maple, ",2.0,Ornamental,Citizen Survey
+32,-69.661799,44.537256,,0.0,,Citizen Survey
+33,-69.661322,44.538465,,0.0,Ornamental,Citizen Survey
+34,-69.661564,44.537685,"Oak, Maple, ",2.0,Ornamental,Citizen Survey
+35,-69.663935,44.537501,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+36,-69.647373,44.57294,,0.0,Ornamental,Citizen Survey
+37,-69.638146,44.549743,,0.0,,Citizen Survey
+38,-69.654421,44.555066,,0.0,,Citizen Survey
+39,-69.660287,44.547128,"Oak, Birch, ",2.0,Ornamental,Citizen Survey
+40,-69.65705,44.539751,"Maple, Pear, ",2.0,Mixed,Citizen Survey
+41,-69.641926,44.552913,"Maple, Crabapple, ",2.0,Mixed,Citizen Survey
+42,-69.654996,44.549692,"Oak, Maple, ",2.0,Ornamental,Citizen Survey
+43,-69.636663,44.539029,,0.0,,Citizen Survey
+44,-69.652681,44.551506,"Birch, ",1.0,Ornamental,Citizen Survey
+45,-69.638212,44.55929,"Crabapple, ",1.0,,Citizen Survey
+46,-69.661101,44.543418,"Oak, ",1.0,Ornamental,Citizen Survey
+47,-69.639582,44.555051,,0.0,,Citizen Survey
+48,-69.641519,44.573693,,0.0,Mixed,Citizen Survey
+49,-69.66126,44.545853,"Birch, Crabapple, ",2.0,Mixed,Citizen Survey
+50,-69.659267,44.539342,"Cherry, ",1.0,Fruiting / Flowering,Citizen Survey
+51,-69.6402,44.555124,"Oak, Crabapple, ",2.0,Mixed,Citizen Survey
+52,-69.637085,44.576554,,0.0,,Citizen Survey
+53,-69.647681,44.558138,"Maple, Crabapple, ",2.0,Mixed,Citizen Survey
+54,-69.647021,44.555909,,0.0,,Citizen Survey
+55,-69.656476,44.549738,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+56,-69.645603,44.557555,,0.0,,Citizen Survey
+57,-69.641329,44.555338,"Oak, Pear, ",2.0,Mixed,Citizen Survey
+58,-69.646415,44.549539,,0.0,,Citizen Survey
+59,-69.646404,44.549687,,0.0,,Citizen Survey
+60,-69.656639,44.550227,"Oak, Maple, Birch, ",3.0,Ornamental,Citizen Survey
+61,-69.637755,44.541066,,0.0,,Citizen Survey
+62,-69.650073,44.555266,"Apple, Crabapple, ",2.0,Fruiting / Flowering,Citizen Survey
+63,-69.640596,44.555626,"Oak, Crabapple, ",2.0,Mixed,Citizen Survey
+64,-69.65439,44.551145,"Oak, ",1.0,,Citizen Survey
+65,-69.637661,44.538807,"Oak, ",1.0,,Citizen Survey
+66,-69.653292,44.554906,"Crabapple, ",1.0,,Citizen Survey
+67,-69.659029,44.54054,"Pear, Cherry, ",2.0,Fruiting / Flowering,Citizen Survey
+68,-69.647864,44.546789,"Oak, ",1.0,Ornamental,Citizen Survey
+69,-69.637144,44.547943,,0.0,,Citizen Survey
+70,-69.660389,44.547838,"Maple, ",1.0,Ornamental,Citizen Survey
+71,-69.647114,44.544493,,0.0,,Citizen Survey
+72,-69.655198,44.542984,,0.0,,Citizen Survey
+73,-69.661916,44.545358,,0.0,Ornamental,Citizen Survey
+74,-69.63307,44.576293,"Apple, Pear, Cherry, ",3.0,Fruiting / Flowering,Citizen Survey
+75,-69.651354,44.552747,,0.0,Fruiting / Flowering,Citizen Survey
+76,-69.6482,44.549335,"Maple, ",1.0,Ornamental,Citizen Survey
+77,-69.636044,44.576402,"Maple, ",1.0,Ornamental,Citizen Survey
+78,-69.658715,44.546169,"Oak, Maple, Apple, ",3.0,Mixed,Citizen Survey
+79,-69.668401,44.54925,"Oak, Pear, ",2.0,Mixed,Citizen Survey
+80,-69.65095,44.541883,,0.0,Mixed,Citizen Survey
+81,-69.647034,44.549161,,0.0,,Citizen Survey
+82,-69.647286,44.549187,,0.0,,Citizen Survey
+83,-69.676661,44.516855,,0.0,,Citizen Survey
+84,-69.642028,44.557585,"Apple, Pear, ",2.0,,Citizen Survey
+85,-69.651192,44.553423,,0.0,,Citizen Survey
+86,-69.647596,44.555001,,0.0,,Citizen Survey
+87,-69.656045,44.551676,"Oak, Maple, Crabapple, ",3.0,Mixed,Citizen Survey
+88,-69.636208,44.577558,"Oak, Apple, Crabapple, Pear, ",4.0,Mixed,Citizen Survey
+89,-69.657362,44.549571,"Oak, Birch, ",2.0,Ornamental,Citizen Survey
+90,-69.637432,44.574319,"Oak, Maple, Apple, Crabapple, ",4.0,Mixed,Citizen Survey
+91,-69.643683,44.553565,,0.0,,Citizen Survey
+92,-69.655078,44.550817,"Oak, ",1.0,Ornamental,Citizen Survey
+93,-69.634238,44.57535,,0.0,,Citizen Survey
+94,-69.645013,44.553737,,0.0,,Citizen Survey
+95,-69.642965,44.53925,"Oak, Apple, ",2.0,Mixed,Citizen Survey
+96,-69.643043,44.543976,,0.0,Ornamental,Citizen Survey
+97,-69.635133,44.561562,,0.0,,Citizen Survey
+98,-69.661397,44.545136,"Birch, ",1.0,Ornamental,Citizen Survey
+99,-69.637366,44.552133,,0.0,,Citizen Survey
+100,-69.689079,44.537922,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+101,-69.626889,44.5707,,0.0,,Citizen Survey
+102,-69.640901,44.542723,,0.0,,Citizen Survey
+103,-69.654962,44.543233,,0.0,,Citizen Survey
+104,-69.639648,44.551256,,0.0,,Citizen Survey
+105,-69.637837,44.552562,"Crabapple, ",1.0,,Citizen Survey
+106,-69.658721,44.540011,,0.0,,Citizen Survey
+107,-69.657098,44.546286,,0.0,,Citizen Survey
+108,-69.638273,44.540622,,0.0,,Citizen Survey
+109,-69.649545,44.545123,,0.0,,Citizen Survey
+110,-69.640406,44.557256,"Oak, ",1.0,Ornamental,Citizen Survey
+111,-69.673414,44.547992,"Maple, Birch, ",2.0,Ornamental,Citizen Survey
+112,-69.639093,44.552938,,0.0,,Citizen Survey
+113,-69.669347,44.549533,"Ash, ",1.0,Ornamental,Citizen Survey
+114,-69.680826,44.506117,"Apple, ",1.0,,Citizen Survey
+115,-69.65652,44.54687,,0.0,,Citizen Survey
+116,-69.648662,44.548351,"Oak, Maple, Birch, Apple, Pear, ",5.0,Mixed,Citizen Survey
+117,-69.654746,44.548681,"Oak, ",1.0,Ornamental,Citizen Survey
+118,-69.645876,44.550248,,0.0,,Citizen Survey
+119,-69.641345,44.561941,,0.0,,Citizen Survey
+120,-69.64218,44.56281,,0.0,,Citizen Survey
+121,-69.638232,44.578402,"Oak, Apple, Crabapple, Pear, Cherry, Serviceberry, ",6.0,Mixed,Citizen Survey
+122,-69.655002,44.545128,"Ash, Cherry, ",2.0,Mixed,Citizen Survey
+123,-69.649959,44.546692,,0.0,,Citizen Survey
+124,-69.638543,44.5803,,0.0,,Citizen Survey
+125,-69.646256,44.549954,,0.0,,Citizen Survey
+126,-69.657846,44.545593,"Oak, ",1.0,Ornamental,Citizen Survey
+127,-69.65589,44.545744,,0.0,,Citizen Survey
+128,-69.658909,44.547235,,0.0,,Citizen Survey
+129,-69.656928,44.546274,"Oak, ",1.0,Ornamental,Citizen Survey
+130,-69.661223,44.537524,"Oak, Crabapple, ",2.0,Mixed,Citizen Survey
+131,-69.647874,44.538664,,0.0,,Citizen Survey
+132,-69.656636,44.532596,"Oak, Maple, ",2.0,Ornamental,Citizen Survey
+133,-69.638006,44.560578,,0.0,,Citizen Survey
+134,-69.645117,44.553404,,0.0,,Citizen Survey
+135,-69.654103,44.555869,,0.0,,Citizen Survey
+136,-69.63323,44.562549,,0.0,,Citizen Survey
+137,-69.675013,44.548491,"Apple, Pear, ",2.0,Fruiting / Flowering,Citizen Survey
+138,-69.653161,44.553299,,0.0,Mixed,Citizen Survey
+139,-69.639236,44.561895,,0.0,,Citizen Survey
+140,-69.672021,44.552132,"Oak, Cherry, ",2.0,Mixed,Citizen Survey
+141,-69.637363,44.560474,,0.0,,Citizen Survey
+142,-69.655654,44.540947,,0.0,,Citizen Survey
+143,-69.631943,44.559991,,0.0,,Citizen Survey
+144,-69.655624,44.555693,"Apple, ",1.0,Fruiting / Flowering,Citizen Survey
+145,-69.647618,44.556441,,0.0,,Citizen Survey
+146,-69.656036,44.545311,,0.0,,Citizen Survey
+147,-69.640557,44.561829,,0.0,,Citizen Survey
+148,-69.656372,44.544976,"Apple, ",1.0,,Citizen Survey
+149,-69.671433,44.521261,,0.0,,Citizen Survey
+150,-69.644969,44.562835,,0.0,Ornamental,Citizen Survey
+151,-69.641631,44.555881,"Oak, Apple, ",2.0,,Citizen Survey
+152,-69.642145,44.539655,,0.0,,Citizen Survey
+153,-69.646082,44.549005,"Oak, ",1.0,Ornamental,Citizen Survey
+154,-69.635969,44.561413,,0.0,,Citizen Survey
+155,-69.645345,44.540483,,0.0,Ornamental,Citizen Survey
+156,-69.654741,44.554438,,0.0,,Citizen Survey
+157,-69.639772,44.555104,,0.0,,Citizen Survey
+158,-69.634679,44.560921,,0.0,,Citizen Survey
+159,-69.673268,44.52102,,0.0,,Citizen Survey
+160,-69.649965,44.544391,"Apple, ",1.0,,Citizen Survey
+161,-69.64021,44.550267,,0.0,,Citizen Survey
+162,-69.642826,44.563184,,0.0,,Citizen Survey
+163,-69.636513,44.575513,,0.0,,Citizen Survey
+164,-69.659131,44.536218,"Oak, Ash, ",2.0,Ornamental,Citizen Survey
+165,-69.651375,44.554601,,0.0,,Citizen Survey
+166,-69.635279,44.551276,,0.0,,Citizen Survey
+167,-69.659389,44.54734,"Oak, Maple, Birch, Crabapple, Cherry, ",5.0,Mixed,Citizen Survey
+168,-69.63794,44.550486,,0.0,,Citizen Survey
+169,-69.64134,44.562643,,0.0,,Citizen Survey
+170,-69.641268,44.556081,"Cherry, ",1.0,Fruiting / Flowering,Citizen Survey
+171,-69.654447,44.547877,,0.0,,Citizen Survey
+172,-69.674377,44.552834,,0.0,,Citizen Survey
+173,-69.634901,44.575544,,0.0,,Citizen Survey
+174,-69.652952,44.553764,"Maple, ",1.0,,Citizen Survey
+175,-69.713565,44.513763,,0.0,,Citizen Survey
+176,-69.628029,44.564896,,0.0,,Citizen Survey
+177,-69.658623,44.535227,,0.0,Ornamental,Citizen Survey
+178,-69.651814,44.548824,,0.0,,Citizen Survey
+179,-69.664057,44.543793,"Apple, Crabapple, Hawthorn, ",3.0,Fruiting / Flowering,Citizen Survey
+180,-69.668398,44.549403,"Oak, Maple, Ash, Birch, Crabapple, ",5.0,Mixed,Citizen Survey
+181,-69.650917,44.552524,,0.0,,Citizen Survey
+182,-69.635747,44.542774,,0.0,,Citizen Survey
+183,-69.645608,44.548256,,0.0,,Citizen Survey
+184,-69.641892,44.556073,,0.0,Ornamental,Citizen Survey
+185,-69.655127,44.554616,"Oak, ",1.0,Ornamental,Citizen Survey
+186,-69.641385,44.572983,,0.0,,Citizen Survey
+187,-69.628631,44.529517,,0.0,,Citizen Survey
+188,-69.63632,44.554893,"Cherry, ",1.0,Fruiting / Flowering,Citizen Survey
+189,-69.638445,44.555269,,0.0,,Citizen Survey
+190,-69.637729,44.550798,,0.0,,Citizen Survey
+191,-69.655512,44.532841,"Crabapple, ",1.0,,Citizen Survey
+192,-69.645482,44.557979,,0.0,,Citizen Survey
+193,-69.659813,44.543642,"Oak, ",1.0,Ornamental,Citizen Survey
+194,-69.630627,44.551787,"Ash, Crabapple, ",2.0,Mixed,Citizen Survey
+195,-69.639593,44.555451,"Apple, ",1.0,Fruiting / Flowering,Citizen Survey
+196,-69.644782,44.550975,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+197,-69.642801,44.543793,"Oak, ",1.0,Ornamental,Citizen Survey
+198,-69.659022,44.545474,"Oak, Apple, ",2.0,Mixed,Citizen Survey
+199,-69.714351,44.514712,"Maple, ",1.0,Ornamental,Citizen Survey
+200,-69.67041,44.544561,"Maple, Cherry, ",2.0,Fruiting / Flowering,Citizen Survey
+201,-69.658989,44.540383,"Apple, Cherry, ",2.0,Fruiting / Flowering,Citizen Survey
+202,-69.649152,44.548888,,0.0,,Citizen Survey
+203,-69.669037,44.548877,,0.0,,Citizen Survey
+204,-69.639072,44.563043,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+205,-69.636633,44.543193,"Apple, ",1.0,Fruiting / Flowering,Citizen Survey
+206,-69.674516,44.550195,,0.0,Fruiting / Flowering,Citizen Survey
+207,-69.66183,44.546088,"Oak, Birch, ",2.0,Ornamental,Citizen Survey
+208,-69.668389,44.549337,"Oak, Ash, Crabapple, ",3.0,Ornamental,Citizen Survey
+209,-69.645203,44.543581,"Oak, Maple, Birch, Apple, ",4.0,Mixed,Citizen Survey
+210,-69.635651,44.557638,,0.0,,Citizen Survey
+211,-69.637756,44.574578,"Crabapple, ",1.0,,Citizen Survey
+212,-69.636521,44.559506,,0.0,,Citizen Survey
+213,-69.668583,44.549321,"Oak, Ash, Apple, Crabapple, ",4.0,Mixed,Citizen Survey
+214,-69.633289,44.558736,,0.0,,Citizen Survey
+215,-69.644682,44.555094,"Oak, ",1.0,Ornamental,Citizen Survey
+216,-69.632085,44.562042,,0.0,,Citizen Survey
+217,-69.635022,44.544349,,0.0,,Citizen Survey
+218,-69.664114,44.538296,,0.0,Mixed,Citizen Survey
+219,-69.639209,44.560075,,0.0,,Citizen Survey
+220,-69.657731,44.547115,,0.0,,Citizen Survey
+221,-69.639883,44.550849,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+222,-69.67736,44.510936,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+223,-69.641568,44.561611,,0.0,,Citizen Survey
+224,-69.637193,44.540885,,0.0,,Citizen Survey
+225,-69.635739,44.55477,,0.0,,Citizen Survey
+226,-69.642751,44.575248,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+227,-69.654463,44.5358,,0.0,,Citizen Survey
+228,-69.655159,44.55124,"Oak, Maple, Ash, ",3.0,Ornamental,Citizen Survey
+229,-69.633816,44.559679,,0.0,,Citizen Survey
+230,-69.646765,44.557887,,0.0,,Citizen Survey
+231,-69.639117,44.540127,,0.0,,Citizen Survey
+232,-69.661126,44.538431,,0.0,,Citizen Survey
+233,-69.650274,44.581206,,0.0,,Citizen Survey
+234,-69.640848,44.570596,"Birch, Apple, Crabapple, Serviceberry, ",4.0,Mixed,Citizen Survey
+235,-69.656337,44.550765,"Oak, Maple, ",2.0,Ornamental,Citizen Survey
+236,-69.644374,44.556239,,0.0,,Citizen Survey
+237,-69.64969,44.543475,,0.0,,Citizen Survey
+238,-69.657779,44.540192,"Maple, ",1.0,Ornamental,Citizen Survey
+239,-69.657586,44.543767,,0.0,,Citizen Survey
+240,-69.655425,44.550847,,0.0,,Citizen Survey
+241,-69.642683,44.558175,"Oak, ",1.0,Ornamental,Citizen Survey
+242,-69.63492,44.546047,,0.0,Ornamental,Citizen Survey
+243,-69.693755,44.534766,,0.0,Ornamental,Citizen Survey
+244,-69.63015,44.557187,"Crabapple, ",1.0,,Citizen Survey
+245,-69.650029,44.554123,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+246,-69.674505,44.549777,"Oak, ",1.0,Ornamental,Citizen Survey
+247,-69.642501,44.556389,"Oak, Maple, ",2.0,Ornamental,Citizen Survey
+248,-69.638816,44.561528,"Serviceberry, ",1.0,,Citizen Survey
+249,-69.658118,44.535126,,0.0,,Citizen Survey
+250,-69.641362,44.559779,,0.0,,Citizen Survey
+251,-69.65535,44.549821,"Oak, Maple, Crabapple, ",3.0,Mixed,Citizen Survey
+252,-69.674461,44.511651,"Apple, Crabapple, Pear, Cherry, Serviceberry, ",5.0,,Citizen Survey
+253,-69.657976,44.547677,,0.0,,Citizen Survey
+254,-69.65187,44.547027,,0.0,,Citizen Survey
+255,-69.663514,44.536972,"Oak, Crabapple, ",2.0,Mixed,Citizen Survey
+256,-69.637476,44.554747,,0.0,,Citizen Survey
+257,-69.66986,44.52294,,0.0,Fruiting / Flowering,Citizen Survey
+258,-69.639981,44.550646,"Birch, ",1.0,Ornamental,Citizen Survey
+259,-69.647368,44.542394,,0.0,Ornamental,Citizen Survey
+260,-69.644547,44.556499,,0.0,,Citizen Survey
+261,-69.660478,44.540163,,0.0,,Citizen Survey
+262,-69.653753,44.554778,"Apple, ",1.0,Fruiting / Flowering,Citizen Survey
+263,-69.637223,44.546493,,0.0,,Citizen Survey
+264,-69.638723,44.562249,,0.0,,Citizen Survey
+265,-69.672799,44.554095,"Oak, Maple, Ash, Birch, Apple, Pear, ",6.0,Mixed,Citizen Survey
+266,-69.640287,44.550955,,0.0,,Citizen Survey
+267,-69.627258,44.566399,,0.0,,Citizen Survey
+268,-69.617809,44.554321,"Oak, Maple, ",2.0,Ornamental,Citizen Survey
+269,-69.637834,44.552364,,0.0,,Citizen Survey
+270,-69.658342,44.547733,"Maple, Cherry, ",2.0,Mixed,Citizen Survey
+271,-69.658566,44.545823,"Oak, Crabapple, ",2.0,Mixed,Citizen Survey
+272,-69.641433,44.536094,"Oak, Crabapple, Cherry, ",3.0,Mixed,Citizen Survey
+273,-69.657623,44.547598,"Birch, ",1.0,Ornamental,Citizen Survey
+274,-69.650101,44.550958,,0.0,,Citizen Survey
+275,-69.652325,44.542145,"Maple, Crabapple, ",2.0,,Citizen Survey
+276,-69.628121,44.564612,"Apple, ",1.0,Ornamental,Citizen Survey
+277,-69.652271,44.554187,"Oak, Maple, ",2.0,Ornamental,Citizen Survey
+278,-69.638682,44.576297,"Maple, Apple, ",2.0,Mixed,Citizen Survey
+279,-69.643165,44.56253,,0.0,,Citizen Survey
+280,-69.641127,44.558161,,0.0,Ornamental,Citizen Survey
+281,-69.64557,44.551078,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+282,-69.645423,44.556049,"Crabapple, ",1.0,Fruiting / Flowering,Citizen Survey
+283,-69.651458,44.583999,"Ash, Apple, Crabapple, Pear, ",4.0,Mixed,Citizen Survey
+284,-69.660137,44.537833,"Oak, Maple, Birch, ",3.0,Ornamental,Citizen Survey
+285,-69.635415,44.57528,"Birch, Crabapple, ",2.0,Mixed,Citizen Survey
+286,-69.638878,44.548789,,0.0,,Citizen Survey
+287,-69.631768,44.548437,,0.0,,Citizen Survey
+288,-69.650531,44.581713,"Oak, ",1.0,Ornamental,Citizen Survey
+289,-69.627805,44.56569,,,,Citizen Survey
+290,-69.647373,44.57294,"Oak, Maple, ",,,Citizen Survey
+291,-69.637476,44.554747,"Maple, ",,,Citizen Survey
+292,-69.656161,44.551369,"Oak, Maple, Birch, ",,,Citizen Survey
+293,-69.650842,44.554226,,,,Citizen Survey
+294,-69.637468,44.555139,,,,Citizen Survey
+295,-69.639806,44.552497,"Oak, Maple, Ash, ",,,Citizen Survey
+296,-69.640182,44.551154,"Maple, ",,,Citizen Survey
+297,-69.647373,44.57294,"Oak, Maple, ",,,Citizen Survey
+298,-69.655619,44.550233,"Oak, Maple, ",,,Citizen Survey
+299,-69.625076,44.568972,,,,Citizen Survey
+300,-69.65633,44.5499,"Oak, Birch, ",,,Citizen Survey
+301,-69.65568,44.53437,"Crabapple, ",,,Citizen Survey
+302,-69.65601,44.53378,"Oak, Apple, ",,,Citizen Survey
+303,-69.63965,44.55899,"Oak, Maple, Ash, Crabapple, ",,,Citizen Survey
+304,-69.67416,44.54855,"Oak, ",,,Citizen Survey
+305,-69.6613049,44.5464554,,,,Citizen Survey
+306,-69.6610623,44.5467089,,,,Citizen Survey
+307,-69.6557809,44.5562056,,,,Citizen Survey
+308,-69.6544947,44.5566046,,,,Citizen Survey
+309,-69.6765813,44.550228,,,,Citizen Survey
+310,-69.6429653,44.53925,,,,Citizen Survey
+311,-69.6519612,44.5546655,,,,Citizen Survey
+312,-69.6592533,44.5459271,,,,Citizen Survey
+314,-69.6623593,44.54563,,,,Citizen Survey
+315,-69.65958,44.546992,,,,Citizen Survey
+316,-69.6400932,44.5545526,,,,Citizen Survey
+317,-69.641001,44.555568,,,,Citizen Survey
+318,-69.6599706,44.5470213,,,,Citizen Survey
+319,-69.6587647,44.5478115,,,,Citizen Survey
+321,-69.6579763,44.5476765,,,,Citizen Survey
+322,-69.6581422,44.5461946,,,,Citizen Survey
+323,-69.6626245,44.5445932,,,,Citizen Survey
+324,-69.6623124,44.5448246,,,,Citizen Survey
+325,-69.6528622,44.5541787,,,,Citizen Survey
+326,-69.6743767,44.5528338,,,,Citizen Survey
+327,-69.6549964,44.5496922,,,,Citizen Survey
+328,-69.655564,44.5548339,,,,Citizen Survey
+329,-69.6610908,44.5442195,,,,Citizen Survey
+330,-69.6384453,44.5552685,,,,Citizen Survey
+331,-69.6623593,44.54563,,,,Citizen Survey
+332,-69.6720205,44.552132,,,,Citizen Survey
+333,-69.6407775,44.5561062,,,,Citizen Survey
