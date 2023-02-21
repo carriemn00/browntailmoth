@@ -29,7 +29,7 @@
 - Begin GIS tutorials
 
 **2/19:**
--2/21: Completed 3 GIS tutorials
+- 2/21: Completed 3 GIS tutorials
 - Add new datasets to visualizations
 - Determine if any regression/ analyses can be performed at this stage
 **2/26:**
