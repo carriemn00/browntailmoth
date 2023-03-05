@@ -1,0 +1,291 @@
+InvID,TreeID,CommonName,ScientName,Condition,Longitude,Latitude,Dbh1,Dbh2,Dbh3,ObservedBT
+ 11474,1,Maple-Red ,Acer rubrum ,Good ,-69.645753960 ,44.562864130 ,10.00 ,0.00 ,0.00 ,1
+11474,3,Maple-Red ,Acer rubrum ,Good ,-69.645387590 ,44.562254900 ,16.00 ,0.00 ,0.00 ,2
+11474,16,Maple-Red ,Acer rubrum ,Good ,-69.645746760 ,44.562224200 ,11.00 ,0.00 ,0.00 ,1
+11474,24,Elm-American ,Ulmus americana ,Good ,-69.627910300 ,44.550823240 ,5.00 ,0.00 ,0.00 ,1
+11474,28,Elm-American ,Ulmus americana ,Good ,-69.627578920 ,44.550806430 ,12.00 ,0.00 ,0.00 ,3
+11474,29,Crabapple ,Malus sp ,Good ,-69.627539440 ,44.550835840 ,5.00 ,0.00 ,0.00 ,1
+11474,30,Crabapple ,Malus sp ,Good ,-69.627498200 ,44.550839850 ,4.00 ,0.00 ,0.00 ,1
+11474,31,Crabapple ,Malus sp ,Good ,-69.627470040 ,44.550824060 ,5.00 ,0.00 ,0.00 ,1
+11474,32,Elm-American ,Ulmus americana ,Good ,-69.627733290 ,44.550692750 ,6.00 ,0.00 ,0.00 ,1
+11474,33,Elm-American ,Ulmus americana ,Good ,-69.627710250 ,44.550647650 ,5.00 ,0.00 ,0.00 ,2
+11474,35,Crabapple ,Malus sp ,Good ,-69.627596230 ,44.550692510 ,5.00 ,0.00 ,0.00 ,2
+11474,36,Crabapple ,Malus sp ,Good ,-69.627571420 ,44.550670300 ,4.00 ,0.00 ,0.00 ,5
+11474,37,Crabapple ,Malus sp ,Good ,-69.627541060 ,44.550659610 ,5.00 ,0.00 ,0.00 ,5
+11474,38,Crabapple ,Malus sp ,Good ,-69.627493820 ,44.550655160 ,5.00 ,0.00 ,0.00 ,3
+11474,39,Crabapple ,Malus sp ,Good ,-69.627452900 ,44.550661590 ,4.00 ,0.00 ,0.00 ,2
+11474,40,Crabapple ,Malus sp ,Good ,-69.627338730 ,44.550701850 ,8.00 ,0.00 ,0.00 ,2
+11474,42,Oak-Northern Red ,Quercus rubra ,Good ,-69.627553580 ,44.551072170 ,4.00 ,0.00 ,0.00 ,2
+11474,43,Oak-Northern Red ,Quercus rubra ,Good ,-69.627864630 ,44.550859220 ,3.00 ,0.00 ,0.00 ,1
+11474,46,Crabapple ,Malus sp ,Good ,-69.627828260 ,44.551109450 ,3.00 ,0.00 ,0.00 ,6
+11474,56,Birch-River ,Betula nigra ,Good ,-69.627172140 ,44.551639700 ,4.00 ,0.00 ,0.00 ,2
+11474,57,Birch-River ,Betula nigra ,Good ,-69.627214140 ,44.551679800 ,4.00 ,0.00 ,0.00 ,1
+11474,58,Birch-River ,Betula nigra ,Good ,-69.627172210 ,44.551714040 ,4.00 ,0.00 ,0.00 ,1
+11474,59,Elm-American ,Ulmus americana ,Good ,-69.627138040 ,44.551968670 ,5.00 ,0.00 ,0.00 ,30
+11474,60,Elm-American ,Ulmus americana ,Good ,-69.627154480 ,44.552114800 ,5.00 ,0.00 ,0.00 ,1
+11474,64,Serviceberry ,Amelanchier sp ,Good ,-69.627127840 ,44.552265070 ,1.00 ,0.00 ,0.00 ,1
+11474,66,Birch-River ,Betula nigra ,Good ,-69.627224500 ,44.552329250 ,3.00 ,0.00 ,0.00 ,5
+11474,73,Birch-River ,Betula nigra ,Good ,-69.627191760 ,44.552569530 ,3.00 ,0.00 ,0.00 ,4
+11474,74,Serviceberry ,Amelanchier sp ,Good ,-69.627192630 ,44.552663060 ,1.00 ,0.00 ,0.00 ,1
+11474,77,Serviceberry ,Amelanchier sp ,Good ,-69.627239810 ,44.552660750 ,1.00 ,0.00 ,0.00 ,1
+11474,78,Serviceberry ,Amelanchier sp ,Good ,-69.627318120 ,44.552655750 ,1.00 ,0.00 ,0.00 ,1
+11474,88,Elm-American ,Ulmus americana ,Good ,-69.627263230 ,44.552247250 ,5.00 ,0.00 ,0.00 ,8
+11474,100,Maple-Sugar ,Acer saccharum ,Good ,-69.627526800 ,44.553038270 ,2.00 ,0.00 ,0.00 ,2
+11474,101,Crabapple ,Malus sp ,Good ,-69.629745620 ,44.549559300 ,19.00 ,0.00 ,0.00 ,11
+11474,105,Elm-American ,Ulmus americana ,Good ,-69.629348040 ,44.549594710 ,44.00 ,0.00 ,0.00 ,60
+11474,114,Elm-American ,Ulmus americana ,Good ,-69.632942220 ,44.550799700 ,8.00 ,0.00 ,0.00 ,8
+11474,115,Maple-Norway ,Acer platanoides ,Good ,-69.633036540 ,44.550702850 ,24.00 ,0.00 ,0.00 ,3
+11474,121,Elm-American ,Ulmus americana ,Good ,-69.633510300 ,44.550844980 ,5.00 ,0.00 ,0.00 ,1
+11474,122,Elm-American ,Ulmus americana ,Good ,-69.633645480 ,44.550859280 ,6.00 ,0.00 ,0.00 ,1
+11474,123,Elm-American ,Ulmus americana ,Good ,-69.633775250 ,44.550865680 ,7.00 ,0.00 ,0.00 ,1
+11474,128,Lilac-Japanese Tree ,Syringa reticulata ,Good ,-69.633686100 ,44.551306670 ,8.00 ,0.00 ,0.00 ,5
+11474,130,Crabapple ,Malus sp ,Good ,-69.633431530 ,44.551282730 ,10.00 ,0.00 ,0.00 ,15
+11474,136,Linden-Littleleaf ,Tilia cordata ,Good ,-69.634622880 ,44.545809870 ,27.00 ,0.00 ,0.00 ,3
+11474,137,Maple-Norway ,Acer platanoides ,Good ,-69.634701700 ,44.545707330 ,19.00 ,0.00 ,0.00 ,2
+11474,138,Linden-Littleleaf ,Tilia cordata ,Good ,-69.634626710 ,44.545626860 ,25.00 ,0.00 ,0.00 ,3
+11474,139,Maple-Norway ,Acer platanoides ,Good ,-69.634541790 ,44.545544780 ,19.00 ,0.00 ,0.00 ,2
+11474,140,Maple-Norway ,Acer platanoides ,Good ,-69.634472500 ,44.545483670 ,22.00 ,0.00 ,0.00 ,2
+11474,146,Maple-Red ,Acer rubrum ,Good ,-69.633058360 ,44.545523960 ,8.00 ,0.00 ,0.00 ,3
+11474,167,Maple-Norway ,Acer platanoides ,Good ,-69.634193780 ,44.546221460 ,18.00 ,0.00 ,0.00 ,4
+11474,175,Maple-Norway ,Acer platanoides ,Good ,-69.646205240 ,44.563241560 ,14.00 ,0.00 ,0.00 ,8
+11474,176,Maple-Norway ,Acer platanoides ,Good ,-69.646357350 ,44.563355110 ,17.00 ,0.00 ,0.00 ,4
+11474,177,Maple-Norway ,Acer platanoides ,Good ,-69.646509060 ,44.563485600 ,12.00 ,0.00 ,0.00 ,2
+11474,178,Maple-Norway ,Acer platanoides ,Good ,-69.646591630 ,44.563553830 ,17.00 ,0.00 ,0.00 ,1
+11474,179,Maple-Norway ,Acer platanoides ,Good ,-69.646668430 ,44.563618820 ,15.00 ,0.00 ,0.00 ,2
+11474,180,Maple-Norway ,Acer platanoides ,Good ,-69.646742850 ,44.563680220 ,8.00 ,0.00 ,0.00 ,1
+11474,181,Linden-Littleleaf ,Tilia cordata ,Good ,-69.647189950 ,44.564052070 ,20.00 ,0.00 ,0.00 ,2
+11474,189,Oak-Northern Red ,Quercus rubra ,Good ,-69.645236420 ,44.552414930 ,22.00 ,0.00 ,0.00 ,6
+11474,190,Oak-Northern Red ,Quercus rubra ,Good ,-69.645262440 ,44.552443700 ,20.00 ,0.00 ,0.00 ,3
+11474,191,Oak-Northern Red ,Quercus rubra ,Good ,-69.645289490 ,44.552444900 ,16.00 ,0.00 ,0.00 ,2
+11474,192,Oak-Northern Red ,Quercus rubra ,Good ,-69.645181790 ,44.552381330 ,30.00 ,0.00 ,0.00 ,15
+11474,195,Elm-American ,Ulmus americana ,Good ,-69.642789290 ,44.550957960 ,13.00 ,0.00 ,0.00 ,6
+11474,196,Pear-Callery ,Pyrus calleryana ,Good ,-69.629946330 ,44.568099870 ,15.00 ,0.00 ,0.00 ,7
+11474,197,Pear-Callery ,Pyrus calleryana ,Good ,-69.630137360 ,44.568125100 , , , ,8
+11474,198,Pear-Callery ,Pyrus calleryana ,Good ,-69.630246870 ,44.568144870 ,15.00 ,0.00 ,0.00 ,2
+11474,199,Pear-Callery ,Pyrus calleryana ,Good ,-69.630429640 ,44.568171350 ,13.00 ,0.00 ,0.00 ,4
+11474,200,Pear-Callery ,Pyrus calleryana ,Good ,-69.630515010 ,44.568184670 ,13.00 ,0.00 ,0.00 ,6
+11474,202,Elm-American ,Ulmus americana ,Good ,-69.627521680 ,44.553199740 ,4.00 ,0.00 ,0.00 ,4
+11474,204,Elm-American ,Ulmus americana ,Good ,-69.627628400 ,44.553303450 ,3.00 ,0.00 ,0.00 ,3
+11474,206,Maple-Red ,Acer rubrum ,Good ,-69.628115360 ,44.553202190 ,13.00 ,0.00 ,0.00 ,5
+11474,207,Maple-Sugar ,Acer saccharum ,Good ,-69.628145860 ,44.553207710 ,15.00 ,0.00 ,0.00 ,6
+11474,212,Maple-Norway ,Acer platanoides ,Good ,-69.628175010 ,44.552439870 ,5.00 ,0.00 ,0.00 ,2
+11474,224,Elm-American ,Ulmus americana ,Good ,-69.628186910 ,44.551831350 ,9.00 ,0.00 ,0.00 ,2
+11474,226,Maple-Norway ,Acer platanoides ,Good ,-69.628199180 ,44.551584540 ,25.00 ,0.00 ,0.00 ,1
+11474,230,Maple-Norway ,Acer platanoides ,Good ,-69.627959890 ,44.550630830 ,15.00 ,0.00 ,0.00 ,2
+11474,231,Elm-American ,Ulmus americana ,Good ,-69.628128720 ,44.550424990 ,20.00 ,0.00 ,0.00 ,25
+11474,277,Oak-Northern Red ,Quercus rubra ,Good ,-69.643773250 ,44.534560570 ,14.00 ,0.00 ,0.00 ,20
+11474,289,Oak-Northern Red ,Quercus rubra ,Good ,-69.631146510 ,44.567438500 ,13.00 ,0.00 ,0.00 ,4
+11474,296,Maple-Norway ,Acer platanoides ,Good ,-69.643169090 ,44.534626450 ,8.00 ,0.00 ,0.00 ,3
+11474,299,Cherry-Black ,Prunus serotina ,Good ,-69.643121190 ,44.534634570 ,5.00 ,0.00 ,0.00 ,6
+11474,301,Oak-Northern Red ,Quercus rubra ,Good ,-69.630622850 ,44.568195450 ,8.00 ,0.00 ,0.00 ,4
+11474,304,Oak-Northern Red ,Quercus rubra ,Good ,-69.631116390 ,44.567445570 ,11.00 ,0.00 ,0.00 ,3
+11474,338,Cherry-Black ,Prunus serotina ,Good ,-69.663110490 ,44.529141650 ,11.00 ,0.00 ,0.00 ,6
+11474,339,Maple-Sugar ,Acer saccharum ,Good ,-69.662967080 ,44.529104920 ,10.00 ,0.00 ,0.00 ,3
+11474,341,Cherry-Black ,Prunus serotina ,Good ,-69.662864310 ,44.528958130 ,6.00 ,0.00 ,0.00 ,2
+11474,343,Cherry-Black ,Prunus serotina ,Good ,-69.662769040 ,44.528898910 ,5.00 ,0.00 ,0.00 ,4
+11474,345,Elm-American ,Ulmus americana ,Good ,-69.662606310 ,44.528867740 ,7.00 ,0.00 ,0.00 ,5
+11474,353,Oak-Northern Red ,Quercus rubra ,Good ,-69.662332370 ,44.528734260 ,23.00 ,0.00 ,0.00 ,15
+11474,356,Linden-Littleleaf ,Tilia cordata ,Good ,-69.660235640 ,44.533243150 ,11.00 ,0.00 ,0.00 ,2
+11474,383,Oak-Northern Red ,Quercus rubra ,Good ,-69.660606340 ,44.534247570 ,22.00 ,0.00 ,0.00 ,20
+11474,385,Oak-Northern Red ,Quercus rubra ,Good ,-69.660214650 ,44.534222090 ,22.00 ,0.00 ,0.00 ,20
+11474,394,Cherry-Black ,Prunus serotina ,Good ,-69.659398120 ,44.526959250 ,13.00 ,0.00 ,0.00 ,6
+11474,395,Oak-Northern Red ,Quercus rubra ,Good ,-69.659452530 ,44.526953310 ,18.00 ,0.00 ,0.00 ,10
+11474,397,Oak-Northern Red ,Quercus rubra ,Good ,-69.659529010 ,44.526930910 ,21.00 ,0.00 ,0.00 ,8
+11474,399,Oak-Northern Red ,Quercus rubra ,Good ,-69.659678870 ,44.526935300 ,26.00 ,0.00 ,0.00 ,25
+11474,402,Oak-Northern Red ,Quercus rubra ,Good ,-69.643138880 ,44.534569650 ,19.00 ,0.00 ,0.00 ,10
+11474,403,Oak-Northern Red ,Quercus rubra ,Good ,-69.643124490 ,44.534555730 ,21.00 ,0.00 ,0.00 ,25
+11474,404,Oak-Northern Red ,Quercus rubra ,Good ,-69.643110680 ,44.534552030 ,22.00 ,0.00 ,0.00 ,10
+11474,405,Oak-Northern Red ,Quercus rubra ,Good ,-69.643100050 ,44.534546530 ,21.00 ,0.00 ,0.00 ,10
+11474,406,Crabapple ,Malus sp ,Good ,-69.661499070 ,44.528508400 ,16.00 ,0.00 ,0.00 ,45
+11474,407,Crabapple ,Malus sp ,Good ,-69.661551930 ,44.528506180 ,10.00 ,0.00 ,0.00 ,35
+11474,409,Oak-Northern Red ,Quercus rubra ,Good ,-69.661987670 ,44.528519350 ,22.00 ,0.00 ,0.00 ,15
+ 11474,412,Poplar-Eastern ,Populus deltoides ,Good ,-69.662074270 ,44.528617470 ,12.00 ,0.00 ,0.00 ,3
+11474,445,Cherry-Black ,Prunus serotina ,Good ,-69.660100050 ,44.534227490 ,9.00 ,0.00 ,0.00 ,10
+11474,467,Poplar-Aspen ,Populus tremuloides ,Good ,-69.660670320 ,44.527170840 ,12.00 ,0.00 ,0.00 ,10
+11474,470,Poplar-Aspen ,Populus tremuloides ,Good ,-69.660485100 ,44.527080220 ,11.00 ,0.00 ,0.00 ,4
+11474,472,Poplar-Aspen ,Populus tremuloides ,Good ,-69.660318350 ,44.527033790 ,11.00 ,0.00 ,0.00 ,12
+11474,474,Cherry-Black ,Prunus serotina ,Good ,-69.659727040 ,44.526957470 ,14.00 ,0.00 ,0.00 ,6
+11474,477,Cherry-Black ,Prunus serotina ,Good ,-69.659847020 ,44.526969510 ,12.00 ,0.00 ,0.00 ,10
+11474,480,Oak-Northern Red ,Quercus rubra ,Good ,-69.659852730 ,44.526976060 ,19.00 ,0.00 ,0.00 ,2
+11474,504,Oak-Northern Red ,Quercus rubra ,Good ,-69.655017490 ,44.579780270 ,14.00 ,0.00 ,0.00 ,2
+11474,520,Oak-Northern Red ,Quercus rubra ,Good ,-69.654590030 ,44.579171220 ,16.00 ,0.00 ,0.00 ,10
+11474,523,Oak-Northern Red ,Quercus rubra ,Good ,-69.654526200 ,44.579068890 ,8.00 ,0.00 ,0.00 ,3
+11474,524,Oak-Northern Red ,Quercus rubra ,Good ,-69.654350800 ,44.578647770 ,15.00 ,0.00 ,0.00 ,6
+11474,525,Oak-Northern Red ,Quercus rubra ,Good ,-69.654398350 ,44.578779270 ,12.00 ,0.00 ,0.00 ,2
+11474,528,Oak-Northern Red ,Quercus rubra ,Good ,-69.654305980 ,44.578528350 ,7.00 ,0.00 ,0.00 ,4
+11474,529,Oak-Northern Red ,Quercus rubra ,Good ,-69.654094290 ,44.578259790 ,13.00 ,0.00 ,0.00 ,4
+11474,530,Oak-Northern Red ,Quercus rubra ,Good ,-69.653631870 ,44.577945980 ,22.00 ,0.00 ,0.00 ,5
+11474,531,Oak-Northern Red ,Quercus rubra ,Good ,-69.653398200 ,44.577635390 ,8.00 ,0.00 ,0.00 ,6
+11474,532,Oak-Northern Red ,Quercus rubra ,Good ,-69.653041400 ,44.577219220 ,17.00 ,0.00 ,0.00 ,2
+11474,533,Oak-Northern Red ,Quercus rubra ,Good ,-69.653046010 ,44.577219780 ,18.00 ,0.00 ,0.00 ,2
+11474,534,Oak-Northern Red ,Quercus rubra ,Good ,-69.652957820 ,44.576917350 ,15.00 ,0.00 ,0.00 ,4
+11474,535,Oak-Northern Red ,Quercus rubra ,Good ,-69.652739770 ,44.576325890 ,13.00 ,8.00 ,0.00 ,1
+11474,536,Oak-Northern Red ,Quercus rubra ,Good ,-69.652712270 ,44.576282780 ,14.00 ,10.00 ,0.00 ,1
+11474,537,Oak-Northern Red ,Quercus rubra ,Good ,-69.652683930 ,44.576241510 ,15.00 ,0.00 ,0.00 ,2
+11474,539,Oak-Northern Red ,Quercus rubra ,Good ,-69.652372930 ,44.575619940 ,16.00 ,15.00 ,0.00 ,5
+11474,540,Oak-Northern Red ,Quercus rubra ,Good ,-69.652271520 ,44.575320060 ,8.00 ,0.00 ,0.00 ,1
+11474,541,Oak-Northern Red ,Quercus rubra ,Good ,-69.652276290 ,44.575311840 ,9.00 ,0.00 ,0.00 ,4
+11474,544,Oak-Northern Red ,Quercus rubra ,Good ,-69.652421270 ,44.574994850 ,8.00 ,0.00 ,0.00 ,2
+11474,545,Oak-Northern Red ,Quercus rubra ,Good ,-69.652364990 ,44.574940350 ,11.00 ,0.00 ,0.00 ,3
+11474,546,Oak-Northern Red ,Quercus rubra ,Good ,-69.652297500 ,44.574683740 ,12.00 ,0.00 ,0.00 ,2
+11474,547,Oak-Northern Red ,Quercus rubra ,Good ,-69.652163430 ,44.574461410 ,11.00 ,0.00 ,0.00 ,1
+11474,548,Oak-Northern Red ,Quercus rubra ,Good ,-69.652195730 ,44.574383760 ,28.00 ,0.00 ,0.00 ,2
+11474,549,Oak-Northern Red ,Quercus rubra ,Good ,-69.652176190 ,44.574329050 ,14.00 ,0.00 ,0.00 ,1
+11474,550,Oak-Northern Red ,Quercus rubra ,Good ,-69.652043650 ,44.574059040 ,11.00 ,10.00 ,9.00 ,2
+11474,551,Oak-Northern Red ,Quercus rubra ,Good ,-69.652102730 ,44.573983160 ,26.00 ,0.00 ,0.00 ,4
+11474,552,Oak-Northern Red ,Quercus rubra ,Good ,-69.652071340 ,44.573942640 ,20.00 ,0.00 ,0.00 ,1
+11474,553,Oak-Northern Red ,Quercus rubra ,Good ,-69.652036310 ,44.573815820 ,8.00 ,0.00 ,0.00 ,2
+11474,554,Oak-Northern Red ,Quercus rubra ,Good ,-69.652729350 ,44.576341590 ,15.00 ,0.00 ,0.00 ,3
+11474,603,Oak-Northern Red ,Quercus rubra ,Good ,-69.655218520 ,44.580409670 , , , ,2
+11474,613,Oak-Northern Red ,Quercus rubra ,Good ,-69.654967200 ,44.580113340 ,19.00 ,0.00 ,0.00 ,10
+11474,615,Oak-Northern Red ,Quercus rubra ,Good ,-69.654949240 ,44.580080990 , , , ,4
+11474,619,Oak-Northern Red ,Quercus rubra ,Good ,-69.654672440 ,44.579397170 ,11.00 ,7.00 ,0.00 ,2
+11474,629,Oak-Northern Red ,Quercus rubra ,Good ,-69.653216000 ,44.577452950 ,28.00 ,0.00 ,0.00 ,8
+11474,630,Oak-Northern Red ,Quercus rubra ,Good ,-69.652674000 ,44.576208530 ,17.00 ,10.00 ,0.00 ,3
+11474,631,Oak-Northern Red ,Quercus rubra ,Good ,-69.652652760 ,44.576177120 ,7.00 ,0.00 ,0.00 ,2
+11474,632,Oak-Northern Red ,Quercus rubra ,Good ,-69.652647080 ,44.576132850 ,23.00 ,0.00 ,0.00 ,10
+11474,633,Oak-Northern Red ,Quercus rubra ,Good ,-69.652315760 ,44.575512710 ,17.00 ,0.00 ,0.00 ,2
+11474,638,Oak-Northern Red ,Quercus rubra ,Good ,-69.652068550 ,44.574682710 ,11.00 ,0.00 ,0.00 ,5
+11474,639,Oak-Northern Red ,Quercus rubra ,Good ,-69.652008730 ,44.574478590 ,24.00 ,0.00 ,0.00 ,2
+11474,640,Oak-Northern Red ,Quercus rubra ,Good ,-69.651994630 ,44.574377850 ,28.00 ,0.00 ,0.00 ,2
+11474,641,Oak-Northern Red ,Quercus rubra ,Good ,-69.651957250 ,44.574168140 ,19.00 ,0.00 ,0.00 ,1
+11474,642,Oak-Northern Red ,Quercus rubra ,Good ,-69.652068940 ,44.573735920 ,14.00 ,0.00 ,0.00 ,10
+11474,646,Oak-Northern Red ,Quercus rubra ,Good ,-69.655505180 ,44.581186650 ,18.00 ,0.00 ,0.00 ,2
+11474,647,Oak-Northern Red ,Quercus rubra ,Good ,-69.655506480 ,44.581161730 ,10.00 ,0.00 ,0.00 ,2
+11474,648,Oak-Northern Red ,Quercus rubra ,Good ,-69.655489300 ,44.581136370 ,20.00 ,0.00 ,0.00 ,5
+11474,649,Oak-Northern Red ,Quercus rubra ,Good ,-69.655364630 ,44.580831280 ,25.00 ,0.00 ,0.00 ,10
+11474,650,Oak-Northern Red ,Quercus rubra ,Good ,-69.654741360 ,44.579741340 ,13.00 ,0.00 ,0.00 ,3
+11474,651,Oak-Northern Red ,Quercus rubra ,Good ,-69.654669660 ,44.579378070 ,12.00 ,0.00 ,0.00 ,3
+11474,652,Oak-Northern Red ,Quercus rubra ,Good ,-69.654601590 ,44.579232860 ,10.00 ,0.00 ,0.00 ,3
+11474,653,Oak-Northern Red ,Quercus rubra ,Good ,-69.651921360 ,44.574178840 ,30.00 ,0.00 ,0.00 ,2
+11474,654,Oak-Northern Red ,Quercus rubra ,Good ,-69.651362120 ,44.572179120 ,21.00 ,0.00 ,0.00 ,2
+11474,655,Oak-Northern Red ,Quercus rubra ,Good ,-69.651157950 ,44.571207770 ,23.00 ,0.00 ,0.00 ,10
+11474,656,Oak-Northern Red ,Quercus rubra ,Good ,-69.651123400 ,44.571192590 ,9.00 ,0.00 ,0.00 ,1
+11474,657,Oak-Northern Red ,Quercus rubra ,Good ,-69.651051470 ,44.570983770 ,4.00 ,0.00 ,0.00 ,2
+11474,658,Oak-Northern Red ,Quercus rubra ,Good ,-69.651078910 ,44.570998610 ,19.00 ,0.00 ,0.00 ,5
+11474,659,Oak-Northern Red ,Quercus rubra ,Good ,-69.651137950 ,44.571028670 ,18.00 ,0.00 ,0.00 ,3
+11474,660,Oak-Northern Red ,Quercus rubra ,Good ,-69.655704960 ,44.581401980 ,24.00 ,0.00 ,0.00 ,12
+11474,661,Oak-Northern Red ,Quercus rubra ,Good ,-69.655664120 ,44.581429180 ,10.00 ,0.00 ,0.00 ,2
+11474,662,Oak-Northern Red ,Quercus rubra ,Good ,-69.656297320 ,44.582419800 ,26.00 ,0.00 ,0.00 ,6
+11474,663,Oak-Northern Red ,Quercus rubra ,Good ,-69.656371150 ,44.582524980 ,11.00 ,0.00 ,0.00 ,2
+11474,664,Oak-Northern Red ,Quercus rubra ,Good ,-69.656290270 ,44.582615010 ,28.00 ,0.00 ,0.00 ,8
+11474,665,Oak-Northern Red ,Quercus rubra ,Good ,-69.655970750 ,44.582880640 ,9.00 ,0.00 ,0.00 ,4
+11474,666,Elm-American ,Ulmus americana ,Good ,-69.642344750 ,44.550888680 ,16.00 ,0.00 ,0.00 ,15
+11474,667,Maple-Norway ,Acer platanoides ,Good ,-69.642152030 ,44.550993330 ,19.00 ,0.00 ,0.00 ,4
+11474,668,Elm-American ,Ulmus americana ,Good ,-69.657099090 ,44.581771710 ,9.00 ,6.00 ,0.00 ,3
+11474,669,Oak-Northern Red ,Quercus rubra ,Good ,-69.654424030 ,44.578815940 ,11.00 ,0.00 ,0.00 ,10
+11474,670,Oak-Northern Red ,Quercus rubra ,Good ,-69.650826190 ,44.570963590 ,13.00 ,0.00 ,0.00 ,2
+11474,671,Oak-Northern Red ,Quercus rubra ,Good ,-69.655930890 ,44.581295970 ,14.00 ,0.00 ,0.00 ,5
+11474,672,Crabapple ,Malus sp ,Good ,-69.629776300 ,44.549686000 ,8.00 ,0.00 ,0.00 ,10
+11474,673,Maple-Norway ,Acer platanoides ,Good ,-69.629754260 ,44.549640600 ,20.00 ,0.00 ,0.00 ,2
+11474,674,Maple-Norway ,Acer platanoides ,Good ,-69.633730850 ,44.551030500 ,21.00 ,0.00 ,0.00 ,3
+11474,675,Oak-Northern Red ,Quercus rubra ,Good ,-69.643187260 ,44.534537800 ,18.00 ,0.00 ,0.00 ,30
+11474,676,Elm-American ,Ulmus americana ,Good ,-69.633145170 ,44.550927590 ,18.00 ,0.00 ,0.00 ,35
+11474,677,Oak-Northern Red ,Quercus rubra ,Good ,-69.643200540 ,44.534539720 ,12.00 ,0.00 ,0.00 ,8
+11474,678,Cherry-Black ,Prunus serotina ,Good ,-69.642328750 ,44.535164950 ,12.00 ,0.00 ,0.00 ,25
+11474,679,Maple-Red ,Acer rubrum ,Good ,-69.633154500 ,44.550760780 ,30.00 ,0.00 ,0.00 ,2
+11474,680,Cherry-Black ,Prunus serotina ,Good ,-69.660205980 ,44.533408320 ,5.00 ,0.00 ,0.00 ,2
+11474,681,Birch-Paper ,Betula papyrifera ,Good ,-69.660184350 ,44.533231560 ,3.00 ,0.00 ,0.00 ,1
+11474,682,Oak-Northern Red ,Quercus rubra ,Good ,-69.661395110 ,44.527999820 ,13.00 ,0.00 ,0.00 ,7
+11474,683,Cherry-Black ,Prunus serotina ,Good ,-69.661420880 ,44.527992450 ,6.00 ,0.00 ,0.00 ,3
+11474,684,Elm-American ,Ulmus americana ,Good ,-69.661191480 ,44.527778060 ,5.00 ,0.00 ,0.00 ,6
+11474,685,Poplar-Aspen ,Populus tremuloides ,Good ,-69.660617400 ,44.527096230 ,13.00 ,0.00 ,0.00 ,15
+11474,686,Crabapple ,Malus sp ,Good ,-69.661134810 ,44.527561730 ,4.00 ,0.00 ,0.00 ,10
+11474,687,Ash-White ,Fraxinus americana ,Good ,-69.659221420 ,44.527612120 ,5.00 ,0.00 ,0.00 ,2
+11474,700,Oak-Northern Red ,Quercus rubra ,Poor ,-69.656067750 ,44.580589850 ,13.00 ,0.00 ,0.00 ,5
+11474,701,Maple-Red ,Acer rubrum ,Poor ,-69.656070100 ,44.580559960 ,10.00 ,0.00 ,0.00 ,5
+11474,702,Oak-Northern Red ,Quercus rubra ,Poor ,-69.655910890 ,44.580256120 ,6.00 ,0.00 ,0.00 ,3
+11474,703,Oak-Northern Red ,Quercus rubra ,Poor ,-69.656073880 ,44.579978920 ,13.00 ,0.00 ,0.00 ,2
+11474,704,Oak-Northern Red ,Quercus rubra ,Poor ,-69.655757450 ,44.579889590 ,11.00 ,0.00 ,0.00 ,1
+11474,705,Poplar-Aspen ,Populus tremuloides ,Good ,-69.655555840 ,44.579888330 ,14.00 ,0.00 ,0.00 ,3
+11474,706,Poplar-Aspen ,Populus tremuloides ,Good ,-69.655536400 ,44.579863280 ,12.00 ,0.00 ,0.00 ,3
+ 11474,707,Oak-Northern Red ,Quercus rubra ,Good ,-69.655476940 ,44.579792590 ,24.00 ,0.00 ,0.00 ,6
+11474,708,Oak-Northern Red ,Quercus rubra ,Good ,-69.655556940 ,44.579675500 ,16.00 ,0.00 ,0.00 ,8
+11474,709,Oak-Northern Red ,Quercus rubra ,Good ,-69.655475010 ,44.579601920 ,9.00 ,0.00 ,0.00 ,1
+11474,710,Oak-Northern Red ,Quercus rubra ,Good ,-69.655437360 ,44.579574390 ,12.00 ,0.00 ,0.00 ,3
+11474,711,Oak-Northern Red ,Quercus rubra ,Good ,-69.655582640 ,44.579474690 ,16.00 ,0.00 ,0.00 ,4
+11474,712,Oak-Northern Red ,Quercus rubra ,Good ,-69.655658450 ,44.579412390 ,8.00 ,0.00 ,0.00 ,3
+11474,713,Poplar-Bigtooth Aspen ,Populus grandidentata ,Good ,-69.655471840 ,44.579312190 ,14.00 ,0.00 ,0.00 ,1
+11474,714,Oak-Northern Red ,Quercus rubra ,Good ,-69.655499030 ,44.579251440 ,13.00 ,0.00 ,0.00 ,6
+11474,715,Oak-Northern Red ,Quercus rubra ,Good ,-69.655140020 ,44.578856860 ,8.00 ,0.00 ,0.00 ,2
+11474,716,Oak-Northern Red ,Quercus rubra ,Good ,-69.654865030 ,44.578483130 ,25.00 ,0.00 ,0.00 ,3
+11474,717,Oak-Northern Red ,Quercus rubra ,Good ,-69.654844540 ,44.578445150 ,30.00 ,0.00 ,0.00 ,3
+11474,718,Oak-Northern Red ,Quercus rubra ,Good ,-69.654666200 ,44.578211640 ,7.00 ,0.00 ,0.00 ,1
+11474,719,Oak-Northern Red ,Quercus rubra ,Good ,-69.654517560 ,44.577762020 ,18.00 ,0.00 ,0.00 ,5
+11474,720,Oak-Northern Red ,Quercus rubra ,Good ,-69.654202720 ,44.577665110 ,9.00 ,0.00 ,0.00 ,2
+11474,721,Oak-Northern Red ,Quercus rubra ,Good ,-69.654003550 ,44.577195620 ,8.00 ,0.00 ,0.00 ,2
+11474,722,Oak-Northern Red ,Quercus rubra ,Good ,-69.653983510 ,44.577170610 ,9.00 ,0.00 ,0.00 ,4
+11474,723,Oak-Northern Red ,Quercus rubra ,Good ,-69.653906940 ,44.577000290 ,18.00 ,0.00 ,0.00 ,5
+11474,724,Oak-Northern Red ,Quercus rubra ,Good ,-69.653986490 ,44.576734960 ,15.00 ,0.00 ,0.00 ,8
+11474,725,Oak-Northern Red ,Quercus rubra ,Good ,-69.653853980 ,44.576666940 ,14.00 ,0.00 ,0.00 ,4
+11474,726,Oak-Northern Red ,Quercus rubra ,Good ,-69.653544520 ,44.575553540 ,9.00 ,0.00 ,0.00 ,3
+11474,727,Oak-Northern Red ,Quercus rubra ,Good ,-69.653753700 ,44.575431450 ,12.00 ,0.00 ,0.00 ,3
+11474,728,Oak-Northern Red ,Quercus rubra ,Good ,-69.653613840 ,44.575279580 ,20.00 ,0.00 ,0.00 ,6
+11474,729,Oak-Northern Red ,Quercus rubra ,Good ,-69.653510300 ,44.575237330 ,45.00 ,0.00 ,0.00 ,5
+11474,730,Oak-Northern Red ,Quercus rubra ,Good ,-69.653630160 ,44.574945280 ,18.00 ,0.00 ,0.00 ,1
+11474,731,Oak-Northern Red ,Quercus rubra ,Good ,-69.653589020 ,44.574825400 ,8.00 ,0.00 ,0.00 ,2
+11474,732,Oak-Northern Red ,Quercus rubra ,Good ,-69.653620110 ,44.574381730 ,15.00 ,0.00 ,0.00 ,2
+11474,733,Oak-Northern Red ,Quercus rubra ,Good ,-69.652688380 ,44.573850000 ,16.00 ,0.00 ,0.00 ,5
+11474,734,Oak-Northern Red ,Quercus rubra ,Good ,-69.652763450 ,44.573833550 ,21.00 ,0.00 ,0.00 ,3
+11474,735,Oak-Northern Red ,Quercus rubra ,Good ,-69.652837850 ,44.573691640 ,10.00 ,0.00 ,0.00 ,8
+11474,736,Oak-Northern Red ,Quercus rubra ,Good ,-69.652778350 ,44.573635040 ,21.00 ,0.00 ,0.00 ,3
+11474,737,Oak-Northern Red ,Quercus rubra ,Good ,-69.652718290 ,44.573597520 ,18.00 ,0.00 ,0.00 ,5
+11474,738,Oak-Northern Red ,Quercus rubra ,Good ,-69.652483420 ,44.573453730 ,14.00 ,0.00 ,0.00 ,4
+11474,739,Oak-Northern Red ,Quercus rubra ,Good ,-69.652242950 ,44.573322530 ,16.00 ,0.00 ,0.00 ,6
+11474,740,Oak-Northern Red ,Quercus rubra ,Good ,-69.652168140 ,44.573380420 ,20.00 ,0.00 ,0.00 ,8
+11474,741,Oak-Northern Red ,Quercus rubra ,Good ,-69.652211470 ,44.573538060 ,12.00 ,0.00 ,0.00 ,6
+11474,742,Oak-Northern Red ,Quercus rubra ,Good ,-69.652193420 ,44.573663190 ,19.00 ,0.00 ,0.00 ,12
+11474,743,Oak-Northern Red ,Quercus rubra ,Good ,-69.652317490 ,44.574117480 ,22.00 ,0.00 ,0.00 ,7
+11474,744,Birch-Paper ,Betula papyrifera ,Good ,-69.652404980 ,44.574157170 ,10.00 ,0.00 ,0.00 ,4
+11474,745,Oak-Northern Red ,Quercus rubra ,Good ,-69.652651670 ,44.574331620 ,12.00 ,0.00 ,0.00 ,8
+11474,746,Oak-Northern Red ,Quercus rubra ,Good ,-69.652726350 ,44.574269020 ,14.00 ,0.00 ,0.00 ,10
+11474,747,Oak-Northern Red ,Quercus rubra ,Good ,-69.652922740 ,44.574277020 ,13.00 ,0.00 ,0.00 ,8
+11474,748,Oak-Northern Red ,Quercus rubra ,Good ,-69.653068420 ,44.574282100 ,16.00 ,0.00 ,0.00 ,4
+11474,749,Oak-Northern Red ,Quercus rubra ,Good ,-69.653150090 ,44.574367980 ,12.00 ,0.00 ,0.00 ,4
+11474,750,Oak-Northern Red ,Quercus rubra ,Good ,-69.653137650 ,44.574429360 ,14.00 ,0.00 ,0.00 ,3
+11474,751,Oak-Northern Red ,Quercus rubra ,Good ,-69.653172600 ,44.574487100 ,25.00 ,0.00 ,0.00 ,5
+11474,752,Oak-Northern Red ,Quercus rubra ,Good ,-69.653262220 ,44.574726920 ,13.00 ,0.00 ,0.00 ,3
+11474,753,Oak-Northern Red ,Quercus rubra ,Good ,-69.653096820 ,44.574750350 ,8.00 ,0.00 ,0.00 ,3
+11474,754,Oak-Northern Red ,Quercus rubra ,Good ,-69.653019880 ,44.574776650 ,15.00 ,0.00 ,0.00 ,7
+11474,755,Oak-Northern Red ,Quercus rubra ,Good ,-69.653019570 ,44.574834910 ,13.00 ,0.00 ,0.00 ,10
+11474,756,Oak-Northern Red ,Quercus rubra ,Good ,-69.652946220 ,44.574819090 ,13.00 ,0.00 ,0.00 ,8
+11474,757,Oak-Northern Red ,Quercus rubra ,Good ,-69.652838900 ,44.574767370 ,14.00 ,0.00 ,0.00 ,10
+11474,758,Oak-Northern Red ,Quercus rubra ,Good ,-69.652808350 ,44.574795540 ,14.00 ,0.00 ,0.00 ,12
+11474,759,Oak-Northern Red ,Quercus rubra ,Good ,-69.652768850 ,44.574892570 ,9.00 ,0.00 ,0.00 ,4
+11474,760,Oak-Northern Red ,Quercus rubra ,Good ,-69.653173860 ,44.575511420 ,15.00 ,0.00 ,0.00 ,10
+11474,761,Oak-Northern Red ,Quercus rubra ,Good ,-69.653142050 ,44.575649460 ,29.00 ,0.00 ,0.00 ,9
+11474,762,Maple-Red ,Acer rubrum ,Good ,-69.654145170 ,44.577977630 ,22.00 ,0.00 ,0.00 ,2
+11474,763,Oak-Northern Red ,Quercus rubra ,Good ,-69.654251640 ,44.578018080 ,15.00 ,0.00 ,0.00 ,3
+11474,764,Oak-Northern Red ,Quercus rubra ,Good ,-69.654400170 ,44.578335810 ,17.00 ,0.00 ,0.00 ,3
+11474,765,Oak-Northern Red ,Quercus rubra ,Good ,-69.654654240 ,44.578541650 ,10.00 ,0.00 ,0.00 ,3
+11474,766,Oak-Northern Red ,Quercus rubra ,Good ,-69.654953770 ,44.579396960 ,11.00 ,0.00 ,0.00 ,3
+11474,767,Oak-Northern Red ,Quercus rubra ,Good ,-69.654988670 ,44.579458570 ,12.00 ,0.00 ,0.00 ,4
+11474,768,Oak-Northern Red ,Quercus rubra ,Good ,-69.655415500 ,44.579946690 ,13.00 ,0.00 ,0.00 ,3
+11474,769,Oak-Northern Red ,Quercus rubra ,Good ,-69.655483080 ,44.580013080 ,11.00 ,0.00 ,0.00 ,4
+11474,770,Oak-Northern Red ,Quercus rubra ,Good ,-69.655398020 ,44.580176960 ,16.00 ,0.00 ,0.00 ,4
+11474,771,Oak-Northern Red ,Quercus rubra ,Good ,-69.655862590 ,44.581477050 ,18.00 ,0.00 ,0.00 ,6
+11474,772,Oak-Northern Red ,Quercus rubra ,Good ,-69.655839460 ,44.581513050 ,23.00 ,0.00 ,0.00 ,3
+11474,773,Oak-Northern Red ,Quercus rubra ,Good ,-69.656155150 ,44.582923120 ,13.00 ,0.00 ,0.00 ,12
+11474,774,Poplar-Bigtooth Aspen ,Populus grandidentata ,Good ,-69.656535170 ,44.582672120 ,18.00 ,0.00 ,0.00 ,3
+11474,775,Oak-Northern Red ,Quercus rubra ,Good ,-69.656700270 ,44.582641980 ,15.00 ,0.00 ,0.00 ,3
+11474,776,Cherry-Black ,Prunus serotina ,Good ,-69.657131830 ,44.582484660 ,7.00 ,0.00 ,0.00 ,4
+11474,777,Oak-Northern Red ,Quercus rubra ,Good ,-69.657214790 ,44.582580960 ,8.00 ,0.00 ,0.00 ,2
+11474,778,Oak-Northern Red ,Quercus rubra ,Good ,-69.657016390 ,44.583197740 ,33.00 ,0.00 ,0.00 ,20
+11474,779,Oak-Northern Red ,Quercus rubra ,Good ,-69.657204870 ,44.583537460 ,11.00 ,0.00 ,0.00 ,10
+11474,780,Poplar-Bigtooth Aspen ,Populus grandidentata ,Good ,-69.658870050 ,44.583900590 ,12.00 ,0.00 ,0.00 ,5
+11474,781,Crabapple ,Malus sp ,Good ,-69.647539140 ,44.563202130 ,8.00 ,0.00 ,0.00 ,2
+11474,782,Elm-American ,Ulmus americana ,Good ,-69.647700200 ,44.563682570 ,8.00 ,0.00 ,0.00 ,2
+11474,783,Oak-Northern Red ,Quercus rubra ,Good ,-69.646477260 ,44.561677600 ,13.00 ,0.00 ,0.00 ,5
+11474,784,Oak-Northern Red ,Quercus rubra ,Good ,-69.646351810 ,44.561447190 ,16.00 ,0.00 ,0.00 ,8
+11474,785,Oak-Northern Red ,Quercus rubra ,Good ,-69.646307000 ,44.561417300 ,7.00 ,0.00 ,0.00 ,3
+11474,786,Oak-Northern Red ,Quercus rubra ,Good ,-69.652301840 ,44.573933980 ,13.00 ,0.00 ,0.00 ,3
+11474,787,Maple-Norway ,Acer platanoides ,Good ,-69.633347710 ,44.545273250 ,24.00 ,0.00 ,0.00 ,8
+11474,788,Oak-Northern Red ,Quercus rubra ,Good ,-69.644256360 ,44.533561500 ,13.00 ,0.00 ,0.00 ,3
+11474,789,Maple-Red ,Acer rubrum ,Good ,-69.644215520 ,44.533445150 ,10.00 ,0.00 ,0.00 ,1
+11474,790,Maple-Silver ,Acer saccharinum ,Good ,-69.644175800 ,44.533323770 ,17.00 ,0.00 ,0.00 ,1
+11474,791,Maple-Red ,Acer rubrum ,Good ,-69.643992840 ,44.533266910 ,8.00 ,0.00 ,0.00 ,10
+11474,792,Maple-Red ,Acer rubrum ,Good ,-69.643805900 ,44.533334430 ,9.00 ,0.00 ,0.00 ,4
+11474,793,Oak-Northern Red ,Quercus rubra ,Good ,-69.643858160 ,44.533528780 ,15.00 ,0.00 ,0.00 ,12
+11474,794,Oak-Northern Red ,Quercus rubra ,Good ,-69.643940090 ,44.533594190 ,10.00 ,0.00 ,0.00 ,6
+11474,795,Cherry-Black ,Prunus serotina ,Good ,-69.643908450 ,44.533780430 ,13.00 ,0.00 ,0.00 ,40
+
