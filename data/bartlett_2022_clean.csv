@@ -1,0 +1,290 @@
+,lon,lat,name,common_name,tree_type,obs_btm,dbh1,condition,entry_source
+0,-69.64575396,44.56286413,Maple-Red ,Maple,Ornamental,1,10.00 ,Good ,Bartlett 2022
+1,-69.64538759,44.5622549,Maple-Red ,Maple,Ornamental,2,16.00 ,Good ,Bartlett 2022
+2,-69.64574676,44.5622242,Maple-Red ,Maple,Ornamental,1,11.00 ,Good ,Bartlett 2022
+3,-69.6279103,44.55082324,Elm-American ,Elm,Ornamental,1,5.00 ,Good ,Bartlett 2022
+4,-69.62757892,44.55080643,Elm-American ,Elm,Ornamental,3,12.00 ,Good ,Bartlett 2022
+5,-69.62753944,44.55083584,Crabapple ,Crabapple,Fruiting / Flowering,1,5.00 ,Good ,Bartlett 2022
+6,-69.6274982,44.55083985,Crabapple ,Crabapple,Fruiting / Flowering,1,4.00 ,Good ,Bartlett 2022
+7,-69.62747004,44.55082406,Crabapple ,Crabapple,Fruiting / Flowering,1,5.00 ,Good ,Bartlett 2022
+8,-69.62773329,44.55069275,Elm-American ,Elm,Ornamental,1,6.00 ,Good ,Bartlett 2022
+9,-69.62771025,44.55064765,Elm-American ,Elm,Ornamental,2,5.00 ,Good ,Bartlett 2022
+10,-69.62759623,44.55069251,Crabapple ,Crabapple,Fruiting / Flowering,2,5.00 ,Good ,Bartlett 2022
+11,-69.62757142,44.5506703,Crabapple ,Crabapple,Fruiting / Flowering,5,4.00 ,Good ,Bartlett 2022
+12,-69.62754106,44.55065961,Crabapple ,Crabapple,Fruiting / Flowering,5,5.00 ,Good ,Bartlett 2022
+13,-69.62749382,44.55065516,Crabapple ,Crabapple,Fruiting / Flowering,3,5.00 ,Good ,Bartlett 2022
+14,-69.6274529,44.55066159,Crabapple ,Crabapple,Fruiting / Flowering,2,4.00 ,Good ,Bartlett 2022
+15,-69.62733873,44.55070185,Crabapple ,Crabapple,Fruiting / Flowering,2,8.00 ,Good ,Bartlett 2022
+16,-69.62755358,44.55107217,Oak-Northern Red ,Oak,Ornamental,2,4.00 ,Good ,Bartlett 2022
+17,-69.62786463,44.55085922,Oak-Northern Red ,Oak,Ornamental,1,3.00 ,Good ,Bartlett 2022
+18,-69.62782826,44.55110945,Crabapple ,Crabapple,Fruiting / Flowering,6,3.00 ,Good ,Bartlett 2022
+19,-69.62717214,44.5516397,Birch-River ,Birch,Ornamental,2,4.00 ,Good ,Bartlett 2022
+20,-69.62721414,44.5516798,Birch-River ,Birch,Ornamental,1,4.00 ,Good ,Bartlett 2022
+21,-69.62717221,44.55171404,Birch-River ,Birch,Ornamental,1,4.00 ,Good ,Bartlett 2022
+22,-69.62713804,44.55196867,Elm-American ,Elm,Ornamental,30,5.00 ,Good ,Bartlett 2022
+23,-69.62715448,44.5521148,Elm-American ,Elm,Ornamental,1,5.00 ,Good ,Bartlett 2022
+24,-69.62712784,44.55226507,Serviceberry ,Serviceberry,Ornamental,1,1.00 ,Good ,Bartlett 2022
+25,-69.6272245,44.55232925,Birch-River ,Birch,Ornamental,5,3.00 ,Good ,Bartlett 2022
+26,-69.62719176,44.55256953,Birch-River ,Birch,Ornamental,4,3.00 ,Good ,Bartlett 2022
+27,-69.62719263,44.55266306,Serviceberry ,Serviceberry,Ornamental,1,1.00 ,Good ,Bartlett 2022
+28,-69.62723981,44.55266075,Serviceberry ,Serviceberry,Ornamental,1,1.00 ,Good ,Bartlett 2022
+29,-69.62731812,44.55265575,Serviceberry ,Serviceberry,Ornamental,1,1.00 ,Good ,Bartlett 2022
+30,-69.62726323,44.55224725,Elm-American ,Elm,Ornamental,8,5.00 ,Good ,Bartlett 2022
+31,-69.6275268,44.55303827,Maple-Sugar ,Maple,Ornamental,2,2.00 ,Good ,Bartlett 2022
+32,-69.62974562,44.5495593,Crabapple ,Crabapple,Fruiting / Flowering,11,19.00 ,Good ,Bartlett 2022
+33,-69.62934804,44.54959471,Elm-American ,Elm,Ornamental,60,44.00 ,Good ,Bartlett 2022
+34,-69.63294222,44.5507997,Elm-American ,Elm,Ornamental,8,8.00 ,Good ,Bartlett 2022
+35,-69.63303654,44.55070285,Maple-Norway ,Maple,Ornamental,3,24.00 ,Good ,Bartlett 2022
+36,-69.6335103,44.55084498,Elm-American ,Elm,Ornamental,1,5.00 ,Good ,Bartlett 2022
+37,-69.63364548,44.55085928,Elm-American ,Elm,Ornamental,1,6.00 ,Good ,Bartlett 2022
+38,-69.63377525,44.55086568,Elm-American ,Elm,Ornamental,1,7.00 ,Good ,Bartlett 2022
+39,-69.6336861,44.55130667,Lilac-Japanese Tree ,Lilac,Fruiting / Flowering,5,8.00 ,Good ,Bartlett 2022
+40,-69.63343153,44.55128273,Crabapple ,Crabapple,Fruiting / Flowering,15,10.00 ,Good ,Bartlett 2022
+41,-69.63462288,44.54580987,Linden-Littleleaf ,Linden,Fruiting / Flowering,3,27.00 ,Good ,Bartlett 2022
+42,-69.6347017,44.54570733,Maple-Norway ,Maple,Ornamental,2,19.00 ,Good ,Bartlett 2022
+43,-69.63462671,44.54562686,Linden-Littleleaf ,Linden,Fruiting / Flowering,3,25.00 ,Good ,Bartlett 2022
+44,-69.63454179,44.54554478,Maple-Norway ,Maple,Ornamental,2,19.00 ,Good ,Bartlett 2022
+45,-69.6344725,44.54548367,Maple-Norway ,Maple,Ornamental,2,22.00 ,Good ,Bartlett 2022
+46,-69.63305836,44.54552396,Maple-Red ,Maple,Ornamental,3,8.00 ,Good ,Bartlett 2022
+47,-69.63419378,44.54622146,Maple-Norway ,Maple,Ornamental,4,18.00 ,Good ,Bartlett 2022
+48,-69.64620524,44.56324156,Maple-Norway ,Maple,Ornamental,8,14.00 ,Good ,Bartlett 2022
+49,-69.64635735,44.56335511,Maple-Norway ,Maple,Ornamental,4,17.00 ,Good ,Bartlett 2022
+50,-69.64650906,44.5634856,Maple-Norway ,Maple,Ornamental,2,12.00 ,Good ,Bartlett 2022
+51,-69.64659163,44.56355383,Maple-Norway ,Maple,Ornamental,1,17.00 ,Good ,Bartlett 2022
+52,-69.64666843,44.56361882,Maple-Norway ,Maple,Ornamental,2,15.00 ,Good ,Bartlett 2022
+53,-69.64674285,44.56368022,Maple-Norway ,Maple,Ornamental,1,8.00 ,Good ,Bartlett 2022
+54,-69.64718995,44.56405207,Linden-Littleleaf ,Linden,Fruiting / Flowering,2,20.00 ,Good ,Bartlett 2022
+55,-69.64523642,44.55241493,Oak-Northern Red ,Oak,Ornamental,6,22.00 ,Good ,Bartlett 2022
+56,-69.64526244,44.5524437,Oak-Northern Red ,Oak,Ornamental,3,20.00 ,Good ,Bartlett 2022
+57,-69.64528949,44.5524449,Oak-Northern Red ,Oak,Ornamental,2,16.00 ,Good ,Bartlett 2022
+58,-69.64518179,44.55238133,Oak-Northern Red ,Oak,Ornamental,15,30.00 ,Good ,Bartlett 2022
+59,-69.64278929,44.55095796,Elm-American ,Elm,Ornamental,6,13.00 ,Good ,Bartlett 2022
+60,-69.62994633,44.56809987,Pear-Callery ,Pear,Fruiting / Flowering,7,15.00 ,Good ,Bartlett 2022
+61,-69.63013736,44.5681251,Pear-Callery ,Pear,Fruiting / Flowering,8, ,Good ,Bartlett 2022
+62,-69.63024687,44.56814487,Pear-Callery ,Pear,Fruiting / Flowering,2,15.00 ,Good ,Bartlett 2022
+63,-69.63042964,44.56817135,Pear-Callery ,Pear,Fruiting / Flowering,4,13.00 ,Good ,Bartlett 2022
+64,-69.63051501,44.56818467,Pear-Callery ,Pear,Fruiting / Flowering,6,13.00 ,Good ,Bartlett 2022
+65,-69.62752168,44.55319974,Elm-American ,Elm,Ornamental,4,4.00 ,Good ,Bartlett 2022
+66,-69.6276284,44.55330345,Elm-American ,Elm,Ornamental,3,3.00 ,Good ,Bartlett 2022
+67,-69.62811536,44.55320219,Maple-Red ,Maple,Ornamental,5,13.00 ,Good ,Bartlett 2022
+68,-69.62814586,44.55320771,Maple-Sugar ,Maple,Ornamental,6,15.00 ,Good ,Bartlett 2022
+69,-69.62817501,44.55243987,Maple-Norway ,Maple,Ornamental,2,5.00 ,Good ,Bartlett 2022
+70,-69.62818691,44.55183135,Elm-American ,Elm,Ornamental,2,9.00 ,Good ,Bartlett 2022
+71,-69.62819918,44.55158454,Maple-Norway ,Maple,Ornamental,1,25.00 ,Good ,Bartlett 2022
+72,-69.62795989,44.55063083,Maple-Norway ,Maple,Ornamental,2,15.00 ,Good ,Bartlett 2022
+73,-69.62812872,44.55042499,Elm-American ,Elm,Ornamental,25,20.00 ,Good ,Bartlett 2022
+74,-69.64377325,44.53456057,Oak-Northern Red ,Oak,Ornamental,20,14.00 ,Good ,Bartlett 2022
+75,-69.63114651,44.5674385,Oak-Northern Red ,Oak,Ornamental,4,13.00 ,Good ,Bartlett 2022
+76,-69.64316909,44.53462645,Maple-Norway ,Maple,Ornamental,3,8.00 ,Good ,Bartlett 2022
+77,-69.64312119,44.53463457,Cherry-Black ,Cherry,Fruiting / Flowering,6,5.00 ,Good ,Bartlett 2022
+78,-69.63062285,44.56819545,Oak-Northern Red ,Oak,Ornamental,4,8.00 ,Good ,Bartlett 2022
+79,-69.63111639,44.56744557,Oak-Northern Red ,Oak,Ornamental,3,11.00 ,Good ,Bartlett 2022
+80,-69.66311049,44.52914165,Cherry-Black ,Cherry,Fruiting / Flowering,6,11.00 ,Good ,Bartlett 2022
+81,-69.66296708,44.52910492,Maple-Sugar ,Maple,Ornamental,3,10.00 ,Good ,Bartlett 2022
+82,-69.66286431,44.52895813,Cherry-Black ,Cherry,Fruiting / Flowering,2,6.00 ,Good ,Bartlett 2022
+83,-69.66276904,44.52889891,Cherry-Black ,Cherry,Fruiting / Flowering,4,5.00 ,Good ,Bartlett 2022
+84,-69.66260631,44.52886774,Elm-American ,Elm,Ornamental,5,7.00 ,Good ,Bartlett 2022
+85,-69.66233237,44.52873426,Oak-Northern Red ,Oak,Ornamental,15,23.00 ,Good ,Bartlett 2022
+86,-69.66023564,44.53324315,Linden-Littleleaf ,Linden,Fruiting / Flowering,2,11.00 ,Good ,Bartlett 2022
+87,-69.66060634,44.53424757,Oak-Northern Red ,Oak,Ornamental,20,22.00 ,Good ,Bartlett 2022
+88,-69.66021465,44.53422209,Oak-Northern Red ,Oak,Ornamental,20,22.00 ,Good ,Bartlett 2022
+89,-69.65939812,44.52695925,Cherry-Black ,Cherry,Fruiting / Flowering,6,13.00 ,Good ,Bartlett 2022
+90,-69.65945253,44.52695331,Oak-Northern Red ,Oak,Ornamental,10,18.00 ,Good ,Bartlett 2022
+91,-69.65952901,44.52693091,Oak-Northern Red ,Oak,Ornamental,8,21.00 ,Good ,Bartlett 2022
+92,-69.65967887,44.5269353,Oak-Northern Red ,Oak,Ornamental,25,26.00 ,Good ,Bartlett 2022
+93,-69.64313888,44.53456965,Oak-Northern Red ,Oak,Ornamental,10,19.00 ,Good ,Bartlett 2022
+94,-69.64312449,44.53455573,Oak-Northern Red ,Oak,Ornamental,25,21.00 ,Good ,Bartlett 2022
+95,-69.64311068,44.53455203,Oak-Northern Red ,Oak,Ornamental,10,22.00 ,Good ,Bartlett 2022
+96,-69.64310005,44.53454653,Oak-Northern Red ,Oak,Ornamental,10,21.00 ,Good ,Bartlett 2022
+97,-69.66149907,44.5285084,Crabapple ,Crabapple,Fruiting / Flowering,45,16.00 ,Good ,Bartlett 2022
+98,-69.66155193,44.52850618,Crabapple ,Crabapple,Fruiting / Flowering,35,10.00 ,Good ,Bartlett 2022
+99,-69.66198767,44.52851935,Oak-Northern Red ,Oak,Ornamental,15,22.00 ,Good ,Bartlett 2022
+100,-69.66207427,44.52861747,Poplar-Eastern ,Poplar-Eastern ,,3,12.00 ,Good ,Bartlett 2022
+101,-69.66010005,44.53422749,Cherry-Black ,Cherry,Fruiting / Flowering,10,9.00 ,Good ,Bartlett 2022
+102,-69.66067032,44.52717084,Poplar-Aspen ,Poplar,Ornamental,10,12.00 ,Good ,Bartlett 2022
+103,-69.6604851,44.52708022,Poplar-Aspen ,Poplar,Ornamental,4,11.00 ,Good ,Bartlett 2022
+104,-69.66031835,44.52703379,Poplar-Aspen ,Poplar,Ornamental,12,11.00 ,Good ,Bartlett 2022
+105,-69.65972704,44.52695747,Cherry-Black ,Cherry,Fruiting / Flowering,6,14.00 ,Good ,Bartlett 2022
+106,-69.65984702,44.52696951,Cherry-Black ,Cherry,Fruiting / Flowering,10,12.00 ,Good ,Bartlett 2022
+107,-69.65985273,44.52697606,Oak-Northern Red ,Oak,Ornamental,2,19.00 ,Good ,Bartlett 2022
+108,-69.65501749,44.57978027,Oak-Northern Red ,Oak,Ornamental,2,14.00 ,Good ,Bartlett 2022
+109,-69.65459003,44.57917122,Oak-Northern Red ,Oak,Ornamental,10,16.00 ,Good ,Bartlett 2022
+110,-69.6545262,44.57906889,Oak-Northern Red ,Oak,Ornamental,3,8.00 ,Good ,Bartlett 2022
+111,-69.6543508,44.57864777,Oak-Northern Red ,Oak,Ornamental,6,15.00 ,Good ,Bartlett 2022
+112,-69.65439835,44.57877927,Oak-Northern Red ,Oak,Ornamental,2,12.00 ,Good ,Bartlett 2022
+113,-69.65430598,44.57852835,Oak-Northern Red ,Oak,Ornamental,4,7.00 ,Good ,Bartlett 2022
+114,-69.65409429,44.57825979,Oak-Northern Red ,Oak,Ornamental,4,13.00 ,Good ,Bartlett 2022
+115,-69.65363187,44.57794598,Oak-Northern Red ,Oak,Ornamental,5,22.00 ,Good ,Bartlett 2022
+116,-69.6533982,44.57763539,Oak-Northern Red ,Oak,Ornamental,6,8.00 ,Good ,Bartlett 2022
+117,-69.6530414,44.57721922,Oak-Northern Red ,Oak,Ornamental,2,17.00 ,Good ,Bartlett 2022
+118,-69.65304601,44.57721978,Oak-Northern Red ,Oak,Ornamental,2,18.00 ,Good ,Bartlett 2022
+119,-69.65295782,44.57691735,Oak-Northern Red ,Oak,Ornamental,4,15.00 ,Good ,Bartlett 2022
+120,-69.65273977,44.57632589,Oak-Northern Red ,Oak,Ornamental,1,13.00 ,Good ,Bartlett 2022
+121,-69.65271227,44.57628278,Oak-Northern Red ,Oak,Ornamental,1,14.00 ,Good ,Bartlett 2022
+122,-69.65268393,44.57624151,Oak-Northern Red ,Oak,Ornamental,2,15.00 ,Good ,Bartlett 2022
+123,-69.65237293,44.57561994,Oak-Northern Red ,Oak,Ornamental,5,16.00 ,Good ,Bartlett 2022
+124,-69.65227152,44.57532006,Oak-Northern Red ,Oak,Ornamental,1,8.00 ,Good ,Bartlett 2022
+125,-69.65227629,44.57531184,Oak-Northern Red ,Oak,Ornamental,4,9.00 ,Good ,Bartlett 2022
+126,-69.65242127,44.57499485,Oak-Northern Red ,Oak,Ornamental,2,8.00 ,Good ,Bartlett 2022
+127,-69.65236499,44.57494035,Oak-Northern Red ,Oak,Ornamental,3,11.00 ,Good ,Bartlett 2022
+128,-69.6522975,44.57468374,Oak-Northern Red ,Oak,Ornamental,2,12.00 ,Good ,Bartlett 2022
+129,-69.65216343,44.57446141,Oak-Northern Red ,Oak,Ornamental,1,11.00 ,Good ,Bartlett 2022
+130,-69.65219573,44.57438376,Oak-Northern Red ,Oak,Ornamental,2,28.00 ,Good ,Bartlett 2022
+131,-69.65217619,44.57432905,Oak-Northern Red ,Oak,Ornamental,1,14.00 ,Good ,Bartlett 2022
+132,-69.65204365,44.57405904,Oak-Northern Red ,Oak,Ornamental,2,11.00 ,Good ,Bartlett 2022
+133,-69.65210273,44.57398316,Oak-Northern Red ,Oak,Ornamental,4,26.00 ,Good ,Bartlett 2022
+134,-69.65207134,44.57394264,Oak-Northern Red ,Oak,Ornamental,1,20.00 ,Good ,Bartlett 2022
+135,-69.65203631,44.57381582,Oak-Northern Red ,Oak,Ornamental,2,8.00 ,Good ,Bartlett 2022
+136,-69.65272935,44.57634159,Oak-Northern Red ,Oak,Ornamental,3,15.00 ,Good ,Bartlett 2022
+137,-69.65521852,44.58040967,Oak-Northern Red ,Oak,Ornamental,2, ,Good ,Bartlett 2022
+138,-69.6549672,44.58011334,Oak-Northern Red ,Oak,Ornamental,10,19.00 ,Good ,Bartlett 2022
+139,-69.65494924,44.58008099,Oak-Northern Red ,Oak,Ornamental,4, ,Good ,Bartlett 2022
+140,-69.65467244,44.57939717,Oak-Northern Red ,Oak,Ornamental,2,11.00 ,Good ,Bartlett 2022
+141,-69.653216,44.57745295,Oak-Northern Red ,Oak,Ornamental,8,28.00 ,Good ,Bartlett 2022
+142,-69.652674,44.57620853,Oak-Northern Red ,Oak,Ornamental,3,17.00 ,Good ,Bartlett 2022
+143,-69.65265276,44.57617712,Oak-Northern Red ,Oak,Ornamental,2,7.00 ,Good ,Bartlett 2022
+144,-69.65264708,44.57613285,Oak-Northern Red ,Oak,Ornamental,10,23.00 ,Good ,Bartlett 2022
+145,-69.65231576,44.57551271,Oak-Northern Red ,Oak,Ornamental,2,17.00 ,Good ,Bartlett 2022
+146,-69.65206855,44.57468271,Oak-Northern Red ,Oak,Ornamental,5,11.00 ,Good ,Bartlett 2022
+147,-69.65200873,44.57447859,Oak-Northern Red ,Oak,Ornamental,2,24.00 ,Good ,Bartlett 2022
+148,-69.65199463,44.57437785,Oak-Northern Red ,Oak,Ornamental,2,28.00 ,Good ,Bartlett 2022
+149,-69.65195725,44.57416814,Oak-Northern Red ,Oak,Ornamental,1,19.00 ,Good ,Bartlett 2022
+150,-69.65206894,44.57373592,Oak-Northern Red ,Oak,Ornamental,10,14.00 ,Good ,Bartlett 2022
+151,-69.65550518,44.58118665,Oak-Northern Red ,Oak,Ornamental,2,18.00 ,Good ,Bartlett 2022
+152,-69.65550648,44.58116173,Oak-Northern Red ,Oak,Ornamental,2,10.00 ,Good ,Bartlett 2022
+153,-69.6554893,44.58113637,Oak-Northern Red ,Oak,Ornamental,5,20.00 ,Good ,Bartlett 2022
+154,-69.65536463,44.58083128,Oak-Northern Red ,Oak,Ornamental,10,25.00 ,Good ,Bartlett 2022
+155,-69.65474136,44.57974134,Oak-Northern Red ,Oak,Ornamental,3,13.00 ,Good ,Bartlett 2022
+156,-69.65466966,44.57937807,Oak-Northern Red ,Oak,Ornamental,3,12.00 ,Good ,Bartlett 2022
+157,-69.65460159,44.57923286,Oak-Northern Red ,Oak,Ornamental,3,10.00 ,Good ,Bartlett 2022
+158,-69.65192136,44.57417884,Oak-Northern Red ,Oak,Ornamental,2,30.00 ,Good ,Bartlett 2022
+159,-69.65136212,44.57217912,Oak-Northern Red ,Oak,Ornamental,2,21.00 ,Good ,Bartlett 2022
+160,-69.65115795,44.57120777,Oak-Northern Red ,Oak,Ornamental,10,23.00 ,Good ,Bartlett 2022
+161,-69.6511234,44.57119259,Oak-Northern Red ,Oak,Ornamental,1,9.00 ,Good ,Bartlett 2022
+162,-69.65105147,44.57098377,Oak-Northern Red ,Oak,Ornamental,2,4.00 ,Good ,Bartlett 2022
+163,-69.65107891,44.57099861,Oak-Northern Red ,Oak,Ornamental,5,19.00 ,Good ,Bartlett 2022
+164,-69.65113795,44.57102867,Oak-Northern Red ,Oak,Ornamental,3,18.00 ,Good ,Bartlett 2022
+165,-69.65570496,44.58140198,Oak-Northern Red ,Oak,Ornamental,12,24.00 ,Good ,Bartlett 2022
+166,-69.65566412,44.58142918,Oak-Northern Red ,Oak,Ornamental,2,10.00 ,Good ,Bartlett 2022
+167,-69.65629732,44.5824198,Oak-Northern Red ,Oak,Ornamental,6,26.00 ,Good ,Bartlett 2022
+168,-69.65637115,44.58252498,Oak-Northern Red ,Oak,Ornamental,2,11.00 ,Good ,Bartlett 2022
+169,-69.65629027,44.58261501,Oak-Northern Red ,Oak,Ornamental,8,28.00 ,Good ,Bartlett 2022
+170,-69.65597075,44.58288064,Oak-Northern Red ,Oak,Ornamental,4,9.00 ,Good ,Bartlett 2022
+171,-69.64234475,44.55088868,Elm-American ,Elm,Ornamental,15,16.00 ,Good ,Bartlett 2022
+172,-69.64215203,44.55099333,Maple-Norway ,Maple,Ornamental,4,19.00 ,Good ,Bartlett 2022
+173,-69.65709909,44.58177171,Elm-American ,Elm,Ornamental,3,9.00 ,Good ,Bartlett 2022
+174,-69.65442403,44.57881594,Oak-Northern Red ,Oak,Ornamental,10,11.00 ,Good ,Bartlett 2022
+175,-69.65082619,44.57096359,Oak-Northern Red ,Oak,Ornamental,2,13.00 ,Good ,Bartlett 2022
+176,-69.65593089,44.58129597,Oak-Northern Red ,Oak,Ornamental,5,14.00 ,Good ,Bartlett 2022
+177,-69.6297763,44.549686,Crabapple ,Crabapple,Fruiting / Flowering,10,8.00 ,Good ,Bartlett 2022
+178,-69.62975426,44.5496406,Maple-Norway ,Maple,Ornamental,2,20.00 ,Good ,Bartlett 2022
+179,-69.63373085,44.5510305,Maple-Norway ,Maple,Ornamental,3,21.00 ,Good ,Bartlett 2022
+180,-69.64318726,44.5345378,Oak-Northern Red ,Oak,Ornamental,30,18.00 ,Good ,Bartlett 2022
+181,-69.63314517,44.55092759,Elm-American ,Elm,Ornamental,35,18.00 ,Good ,Bartlett 2022
+182,-69.64320054,44.53453972,Oak-Northern Red ,Oak,Ornamental,8,12.00 ,Good ,Bartlett 2022
+183,-69.64232875,44.53516495,Cherry-Black ,Cherry,Fruiting / Flowering,25,12.00 ,Good ,Bartlett 2022
+184,-69.6331545,44.55076078,Maple-Red ,Maple,Ornamental,2,30.00 ,Good ,Bartlett 2022
+185,-69.66020598,44.53340832,Cherry-Black ,Cherry,Fruiting / Flowering,2,5.00 ,Good ,Bartlett 2022
+186,-69.66018435,44.53323156,Birch-Paper ,Birch,Ornamental,1,3.00 ,Good ,Bartlett 2022
+187,-69.66139511,44.52799982,Oak-Northern Red ,Oak,Ornamental,7,13.00 ,Good ,Bartlett 2022
+188,-69.66142088,44.52799245,Cherry-Black ,Cherry,Fruiting / Flowering,3,6.00 ,Good ,Bartlett 2022
+189,-69.66119148,44.52777806,Elm-American ,Elm,Ornamental,6,5.00 ,Good ,Bartlett 2022
+190,-69.6606174,44.52709623,Poplar-Aspen ,Poplar,Ornamental,15,13.00 ,Good ,Bartlett 2022
+191,-69.66113481,44.52756173,Crabapple ,Crabapple,Fruiting / Flowering,10,4.00 ,Good ,Bartlett 2022
+192,-69.65922142,44.52761212,Ash-White ,Ash,Ornamental,2,5.00 ,Good ,Bartlett 2022
+193,-69.65606775,44.58058985,Oak-Northern Red ,Oak,Ornamental,5,13.00 ,Poor ,Bartlett 2022
+194,-69.6560701,44.58055996,Maple-Red ,Maple,Ornamental,5,10.00 ,Poor ,Bartlett 2022
+195,-69.65591089,44.58025612,Oak-Northern Red ,Oak,Ornamental,3,6.00 ,Poor ,Bartlett 2022
+196,-69.65607388,44.57997892,Oak-Northern Red ,Oak,Ornamental,2,13.00 ,Poor ,Bartlett 2022
+197,-69.65575745,44.57988959,Oak-Northern Red ,Oak,Ornamental,1,11.00 ,Poor ,Bartlett 2022
+198,-69.65555584,44.57988833,Poplar-Aspen ,Poplar,Ornamental,3,14.00 ,Good ,Bartlett 2022
+199,-69.6555364,44.57986328,Poplar-Aspen ,Poplar,Ornamental,3,12.00 ,Good ,Bartlett 2022
+200,-69.65547694,44.57979259,Oak-Northern Red ,Oak,Ornamental,6,24.00 ,Good ,Bartlett 2022
+201,-69.65555694,44.5796755,Oak-Northern Red ,Oak,Ornamental,8,16.00 ,Good ,Bartlett 2022
+202,-69.65547501,44.57960192,Oak-Northern Red ,Oak,Ornamental,1,9.00 ,Good ,Bartlett 2022
+203,-69.65543736,44.57957439,Oak-Northern Red ,Oak,Ornamental,3,12.00 ,Good ,Bartlett 2022
+204,-69.65558264,44.57947469,Oak-Northern Red ,Oak,Ornamental,4,16.00 ,Good ,Bartlett 2022
+205,-69.65565845,44.57941239,Oak-Northern Red ,Oak,Ornamental,3,8.00 ,Good ,Bartlett 2022
+206,-69.65547184,44.57931219,Poplar-Bigtooth Aspen ,Poplar,Ornamental,1,14.00 ,Good ,Bartlett 2022
+207,-69.65549903,44.57925144,Oak-Northern Red ,Oak,Ornamental,6,13.00 ,Good ,Bartlett 2022
+208,-69.65514002,44.57885686,Oak-Northern Red ,Oak,Ornamental,2,8.00 ,Good ,Bartlett 2022
+209,-69.65486503,44.57848313,Oak-Northern Red ,Oak,Ornamental,3,25.00 ,Good ,Bartlett 2022
+210,-69.65484454,44.57844515,Oak-Northern Red ,Oak,Ornamental,3,30.00 ,Good ,Bartlett 2022
+211,-69.6546662,44.57821164,Oak-Northern Red ,Oak,Ornamental,1,7.00 ,Good ,Bartlett 2022
+212,-69.65451756,44.57776202,Oak-Northern Red ,Oak,Ornamental,5,18.00 ,Good ,Bartlett 2022
+213,-69.65420272,44.57766511,Oak-Northern Red ,Oak,Ornamental,2,9.00 ,Good ,Bartlett 2022
+214,-69.65400355,44.57719562,Oak-Northern Red ,Oak,Ornamental,2,8.00 ,Good ,Bartlett 2022
+215,-69.65398351,44.57717061,Oak-Northern Red ,Oak,Ornamental,4,9.00 ,Good ,Bartlett 2022
+216,-69.65390694,44.57700029,Oak-Northern Red ,Oak,Ornamental,5,18.00 ,Good ,Bartlett 2022
+217,-69.65398649,44.57673496,Oak-Northern Red ,Oak,Ornamental,8,15.00 ,Good ,Bartlett 2022
+218,-69.65385398,44.57666694,Oak-Northern Red ,Oak,Ornamental,4,14.00 ,Good ,Bartlett 2022
+219,-69.65354452,44.57555354,Oak-Northern Red ,Oak,Ornamental,3,9.00 ,Good ,Bartlett 2022
+220,-69.6537537,44.57543145,Oak-Northern Red ,Oak,Ornamental,3,12.00 ,Good ,Bartlett 2022
+221,-69.65361384,44.57527958,Oak-Northern Red ,Oak,Ornamental,6,20.00 ,Good ,Bartlett 2022
+222,-69.6535103,44.57523733,Oak-Northern Red ,Oak,Ornamental,5,45.00 ,Good ,Bartlett 2022
+223,-69.65363016,44.57494528,Oak-Northern Red ,Oak,Ornamental,1,18.00 ,Good ,Bartlett 2022
+224,-69.65358902,44.5748254,Oak-Northern Red ,Oak,Ornamental,2,8.00 ,Good ,Bartlett 2022
+225,-69.65362011,44.57438173,Oak-Northern Red ,Oak,Ornamental,2,15.00 ,Good ,Bartlett 2022
+226,-69.65268838,44.57385,Oak-Northern Red ,Oak,Ornamental,5,16.00 ,Good ,Bartlett 2022
+227,-69.65276345,44.57383355,Oak-Northern Red ,Oak,Ornamental,3,21.00 ,Good ,Bartlett 2022
+228,-69.65283785,44.57369164,Oak-Northern Red ,Oak,Ornamental,8,10.00 ,Good ,Bartlett 2022
+229,-69.65277835,44.57363504,Oak-Northern Red ,Oak,Ornamental,3,21.00 ,Good ,Bartlett 2022
+230,-69.65271829,44.57359752,Oak-Northern Red ,Oak,Ornamental,5,18.00 ,Good ,Bartlett 2022
+231,-69.65248342,44.57345373,Oak-Northern Red ,Oak,Ornamental,4,14.00 ,Good ,Bartlett 2022
+232,-69.65224295,44.57332253,Oak-Northern Red ,Oak,Ornamental,6,16.00 ,Good ,Bartlett 2022
+233,-69.65216814,44.57338042,Oak-Northern Red ,Oak,Ornamental,8,20.00 ,Good ,Bartlett 2022
+234,-69.65221147,44.57353806,Oak-Northern Red ,Oak,Ornamental,6,12.00 ,Good ,Bartlett 2022
+235,-69.65219342,44.57366319,Oak-Northern Red ,Oak,Ornamental,12,19.00 ,Good ,Bartlett 2022
+236,-69.65231749,44.57411748,Oak-Northern Red ,Oak,Ornamental,7,22.00 ,Good ,Bartlett 2022
+237,-69.65240498,44.57415717,Birch-Paper ,Birch,Ornamental,4,10.00 ,Good ,Bartlett 2022
+238,-69.65265167,44.57433162,Oak-Northern Red ,Oak,Ornamental,8,12.00 ,Good ,Bartlett 2022
+239,-69.65272635,44.57426902,Oak-Northern Red ,Oak,Ornamental,10,14.00 ,Good ,Bartlett 2022
+240,-69.65292274,44.57427702,Oak-Northern Red ,Oak,Ornamental,8,13.00 ,Good ,Bartlett 2022
+241,-69.65306842,44.5742821,Oak-Northern Red ,Oak,Ornamental,4,16.00 ,Good ,Bartlett 2022
+242,-69.65315009,44.57436798,Oak-Northern Red ,Oak,Ornamental,4,12.00 ,Good ,Bartlett 2022
+243,-69.65313765,44.57442936,Oak-Northern Red ,Oak,Ornamental,3,14.00 ,Good ,Bartlett 2022
+244,-69.6531726,44.5744871,Oak-Northern Red ,Oak,Ornamental,5,25.00 ,Good ,Bartlett 2022
+245,-69.65326222,44.57472692,Oak-Northern Red ,Oak,Ornamental,3,13.00 ,Good ,Bartlett 2022
+246,-69.65309682,44.57475035,Oak-Northern Red ,Oak,Ornamental,3,8.00 ,Good ,Bartlett 2022
+247,-69.65301988,44.57477665,Oak-Northern Red ,Oak,Ornamental,7,15.00 ,Good ,Bartlett 2022
+248,-69.65301957,44.57483491,Oak-Northern Red ,Oak,Ornamental,10,13.00 ,Good ,Bartlett 2022
+249,-69.65294622,44.57481909,Oak-Northern Red ,Oak,Ornamental,8,13.00 ,Good ,Bartlett 2022
+250,-69.6528389,44.57476737,Oak-Northern Red ,Oak,Ornamental,10,14.00 ,Good ,Bartlett 2022
+251,-69.65280835,44.57479554,Oak-Northern Red ,Oak,Ornamental,12,14.00 ,Good ,Bartlett 2022
+252,-69.65276885,44.57489257,Oak-Northern Red ,Oak,Ornamental,4,9.00 ,Good ,Bartlett 2022
+253,-69.65317386,44.57551142,Oak-Northern Red ,Oak,Ornamental,10,15.00 ,Good ,Bartlett 2022
+254,-69.65314205,44.57564946,Oak-Northern Red ,Oak,Ornamental,9,29.00 ,Good ,Bartlett 2022
+255,-69.65414517,44.57797763,Maple-Red ,Maple,Ornamental,2,22.00 ,Good ,Bartlett 2022
+256,-69.65425164,44.57801808,Oak-Northern Red ,Oak,Ornamental,3,15.00 ,Good ,Bartlett 2022
+257,-69.65440017,44.57833581,Oak-Northern Red ,Oak,Ornamental,3,17.00 ,Good ,Bartlett 2022
+258,-69.65465424,44.57854165,Oak-Northern Red ,Oak,Ornamental,3,10.00 ,Good ,Bartlett 2022
+259,-69.65495377,44.57939696,Oak-Northern Red ,Oak,Ornamental,3,11.00 ,Good ,Bartlett 2022
+260,-69.65498867,44.57945857,Oak-Northern Red ,Oak,Ornamental,4,12.00 ,Good ,Bartlett 2022
+261,-69.6554155,44.57994669,Oak-Northern Red ,Oak,Ornamental,3,13.00 ,Good ,Bartlett 2022
+262,-69.65548308,44.58001308,Oak-Northern Red ,Oak,Ornamental,4,11.00 ,Good ,Bartlett 2022
+263,-69.65539802,44.58017696,Oak-Northern Red ,Oak,Ornamental,4,16.00 ,Good ,Bartlett 2022
+264,-69.65586259,44.58147705,Oak-Northern Red ,Oak,Ornamental,6,18.00 ,Good ,Bartlett 2022
+265,-69.65583946,44.58151305,Oak-Northern Red ,Oak,Ornamental,3,23.00 ,Good ,Bartlett 2022
+266,-69.65615515,44.58292312,Oak-Northern Red ,Oak,Ornamental,12,13.00 ,Good ,Bartlett 2022
+267,-69.65653517,44.58267212,Poplar-Bigtooth Aspen ,Poplar,Ornamental,3,18.00 ,Good ,Bartlett 2022
+268,-69.65670027,44.58264198,Oak-Northern Red ,Oak,Ornamental,3,15.00 ,Good ,Bartlett 2022
+269,-69.65713183,44.58248466,Cherry-Black ,Cherry,Fruiting / Flowering,4,7.00 ,Good ,Bartlett 2022
+270,-69.65721479,44.58258096,Oak-Northern Red ,Oak,Ornamental,2,8.00 ,Good ,Bartlett 2022
+271,-69.65701639,44.58319774,Oak-Northern Red ,Oak,Ornamental,20,33.00 ,Good ,Bartlett 2022
+272,-69.65720487,44.58353746,Oak-Northern Red ,Oak,Ornamental,10,11.00 ,Good ,Bartlett 2022
+273,-69.65887005,44.58390059,Poplar-Bigtooth Aspen ,Poplar,Ornamental,5,12.00 ,Good ,Bartlett 2022
+274,-69.64753914,44.56320213,Crabapple ,Crabapple,Fruiting / Flowering,2,8.00 ,Good ,Bartlett 2022
+275,-69.6477002,44.56368257,Elm-American ,Elm,Ornamental,2,8.00 ,Good ,Bartlett 2022
+276,-69.64647726,44.5616776,Oak-Northern Red ,Oak,Ornamental,5,13.00 ,Good ,Bartlett 2022
+277,-69.64635181,44.56144719,Oak-Northern Red ,Oak,Ornamental,8,16.00 ,Good ,Bartlett 2022
+278,-69.646307,44.5614173,Oak-Northern Red ,Oak,Ornamental,3,7.00 ,Good ,Bartlett 2022
+279,-69.65230184,44.57393398,Oak-Northern Red ,Oak,Ornamental,3,13.00 ,Good ,Bartlett 2022
+280,-69.63334771,44.54527325,Maple-Norway ,Maple,Ornamental,8,24.00 ,Good ,Bartlett 2022
+281,-69.64425636,44.5335615,Oak-Northern Red ,Oak,Ornamental,3,13.00 ,Good ,Bartlett 2022
+282,-69.64421552,44.53344515,Maple-Red ,Maple,Ornamental,1,10.00 ,Good ,Bartlett 2022
+283,-69.6441758,44.53332377,Maple-Silver ,Maple,Ornamental,1,17.00 ,Good ,Bartlett 2022
+284,-69.64399284,44.53326691,Maple-Red ,Maple,Ornamental,10,8.00 ,Good ,Bartlett 2022
+285,-69.6438059,44.53333443,Maple-Red ,Maple,Ornamental,4,9.00 ,Good ,Bartlett 2022
+286,-69.64385816,44.53352878,Oak-Northern Red ,Oak,Ornamental,12,15.00 ,Good ,Bartlett 2022
+287,-69.64394009,44.53359419,Oak-Northern Red ,Oak,Ornamental,6,10.00 ,Good ,Bartlett 2022
+288,-69.64390845,44.53378043,Cherry-Black ,Cherry,Fruiting / Flowering,40,13.00 ,Good ,Bartlett 2022

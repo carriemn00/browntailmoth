@@ -1,0 +1,603 @@
+,lon,lat,name,common_name,tree_type,obs_btm,dbh1,condition,entry_source
+0,-69.63344511,44.55127084,Crabapple ,Crabapple,Fruiting / Flowering,75,10,Good ,Bartlett 2021
+1,-69.62973408,44.5495351,Crabapple ,Crabapple,Fruiting / Flowering,50,21,Fair ,Bartlett 2021
+2,-69.6271305,44.55195911,Elm-American ,Elm,Ornamental,50,4,Good ,Bartlett 2021
+3,-69.62936061,44.54957609,Elm-American ,Elm,Ornamental,50,42,Good ,Bartlett 2021
+4,-69.66230072,44.52873009,Oak-Northern Red ,Oak,Ornamental,50,24,Good ,Bartlett 2021
+5,-69.65900935,44.52789299,Cherry-Black ,Cherry,Fruiting / Flowering,45,24,Poor ,Bartlett 2021
+6,-69.66150693,44.52850077,Crabapple ,Crabapple,Fruiting / Flowering,40,14,Good ,Bartlett 2021
+7,-69.62717064,44.5521075,Elm-American ,Elm,Ornamental,40,4,Good ,Bartlett 2021
+8,-69.6301038,44.5681192,Pear-Callery ,Pear,Fruiting / Flowering,40,8,Good ,Bartlett 2021
+9,-69.6270962,44.55225634,Serviceberry ,Serviceberry,Bush,40,2,Good ,Bartlett 2021
+10,-69.66154058,44.52850708,Crabapple ,Crabapple,Fruiting / Flowering,35,10,Fair ,Bartlett 2021
+11,-69.62727604,44.55224549,Elm-American ,Elm,Ornamental,35,5,Good ,Bartlett 2021
+12,-69.65262698,44.57611534,Oak-Northern Red ,Oak,Ornamental,35,19,Fair ,Bartlett 2021
+13,-69.62733975,44.55069452,Birch-Paper ,Birch,Ornamental,30,8,Fair ,Bartlett 2021
+14,-69.62782513,44.55110006,Crabapple ,Crabapple,Fruiting / Flowering,30,3,Good ,Bartlett 2021
+15,-69.62748217,44.55064301,Crabapple ,Crabapple,Fruiting / Flowering,30,5,Good ,Bartlett 2021
+16,-69.62744157,44.55065334,Crabapple ,Crabapple,Fruiting / Flowering,30,5,Good ,Bartlett 2021
+17,-69.65270976,44.57625846,Oak-Northern Red ,Oak,Ornamental,30,13,Good ,Bartlett 2021
+18,-69.65236748,44.57561059,Oak-Northern Red ,Oak,Ornamental,30,14,Good ,Bartlett 2021
+19,-69.66199199,44.52853189,Oak-Northern Red ,Oak,Ornamental,30,18,Good ,Bartlett 2021
+20,-69.6602494,44.53418565,Oak-Northern Red ,Oak,Ornamental,30,19,Fair ,Bartlett 2021
+21,-69.64312021,44.53454138,Oak-Northern Red ,Oak,Ornamental,30,22,Fair ,Bartlett 2021
+22,-69.6272928,44.5527073,Serviceberry ,Serviceberry,Bush,30,1,Good ,Bartlett 2021
+23,-69.62982312,44.54962414,Crabapple ,Crabapple,Fruiting / Flowering,25,8,Good ,Bartlett 2021
+24,-69.62752049,44.55065079,Crabapple ,Crabapple,Fruiting / Flowering,25,5,Good ,Bartlett 2021
+25,-69.63316194,44.55088523,Elm-American ,Elm,Ornamental,25,19,Good ,Bartlett 2021
+26,-69.62812371,44.55040987,Elm-American ,Elm,Ornamental,25,21,Good ,Bartlett 2021
+27,-69.65218834,44.5743552,Oak-Northern Red ,Oak,Ornamental,25,2,Good ,Bartlett 2021
+28,-69.66124895,44.5277905,Oak-Northern Red ,Oak,Ornamental,25,17,Good ,Bartlett 2021
+29,-69.66060913,44.53424287,Oak-Northern Red ,Oak,Ornamental,25,18,Good ,Bartlett 2021
+30,-69.64313773,44.53452574,Oak-Northern Red ,Oak,Ornamental,25,18,Fair ,Bartlett 2021
+31,-69.64238261,44.53506726,Oak-Northern Red ,Oak,Ornamental,25,19,Good ,Bartlett 2021
+32,-69.6272516,44.55264931,Serviceberry ,Serviceberry,Bush,25,2,Good ,Bartlett 2021
+33,-69.62729552,44.55263123,Serviceberry ,Serviceberry,Bush,25,2,Good ,Bartlett 2021
+34,-69.65940466,44.52692271,Cherry-Black ,Cherry,Fruiting / Flowering,20,16,Fair ,Bartlett 2021
+35,-69.62756106,44.55066051,Crabapple ,Crabapple,Fruiting / Flowering,20,4,Good ,Bartlett 2021
+36,-69.62758786,44.55068272,Crabapple ,Crabapple,Fruiting / Flowering,20,6,Good ,Bartlett 2021
+37,-69.62723581,44.55280444,Elm-American ,Elm,Ornamental,20,3,Good ,Bartlett 2021
+38,-69.62743323,44.55288368,Elm-American ,Elm,Ornamental,20,4,Good ,Bartlett 2021
+39,-69.65206597,44.57404144,Oak-Northern Red ,Oak,Ornamental,20,13,Good ,Bartlett 2021
+40,-69.65267938,44.5761987,Oak-Northern Red ,Oak,Ornamental,20,13,Good ,Bartlett 2021
+41,-69.65080745,44.57097762,Oak-Northern Red ,Oak,Ornamental,20,15,Good ,Bartlett 2021
+42,-69.65206423,44.57371678,Oak-Northern Red ,Oak,Ornamental,20,16,Good ,Bartlett 2021
+43,-69.65110417,44.57096406,Oak-Northern Red ,Oak,Ornamental,20,20,Good ,Bartlett 2021
+44,-69.65324524,44.57743118,Oak-Northern Red ,Oak,Ornamental,20,25,Good ,Bartlett 2021
+45,-69.64313456,44.53455674,Oak-Northern Red ,Oak,Ornamental,20,21,Good ,Bartlett 2021
+46,-69.64359005,44.55103734,Oak-White ,Oak,Ornamental,20,19,Good ,Bartlett 2021
+47,-69.63062361,44.56818771,Pear-Callery ,Pear,Fruiting / Flowering,20,6,Good ,Bartlett 2021
+48,-69.63042373,44.56816628,Pear-Callery ,Pear,Fruiting / Flowering,20,13,Fair ,Bartlett 2021
+49,-69.63052176,44.56818053,Pear-Callery ,Pear,Fruiting / Flowering,20,14,Fair ,Bartlett 2021
+50,-69.6299331,44.56809238,Pear-Callery ,Pear,Fruiting / Flowering,20,15,Poor ,Bartlett 2021
+51,-69.65216823,44.57445103,Oak-Northern Red ,Oak,Ornamental,18,12,Good ,Bartlett 2021
+52,-69.65107462,44.57094074,Oak-Northern Red ,Oak,Ornamental,18,14,Good ,Bartlett 2021
+53,-69.65987791,44.52698536,Oak-Northern Red ,Oak,Ornamental,18,14,Good ,Bartlett 2021
+54,-69.65459088,44.57916694,Oak-Northern Red ,Oak,Ornamental,16,16,Fair ,Bartlett 2021
+55,-69.66215938,44.52860732,Cherry-Black ,Cherry,Fruiting / Flowering,15,9,Fair ,Bartlett 2021
+56,-69.62820905,44.55183039,Elm-American ,Elm,Ornamental,15,8,Fair ,Bartlett 2021
+57,-69.6427722,44.5509343,Elm-American ,Elm,Ornamental,15,12,Good ,Bartlett 2021
+58,-69.62762859,44.55329479,Elm-American ,Elm,Ornamental,15,3,Good ,Bartlett 2021
+59,-69.62753091,44.55318014,Elm-American ,Elm,Ornamental,15,4,Good ,Bartlett 2021
+60,-69.65227054,44.57530671,Oak-Northern Red ,Oak,Ornamental,15,10,Poor ,Bartlett 2021
+61,-69.65500414,44.57974918,Oak-Northern Red ,Oak,Ornamental,15,12,Good ,Bartlett 2021
+62,-69.65402914,44.57826316,Oak-Northern Red ,Oak,Ornamental,15,12,Good ,Bartlett 2021
+63,-69.64377073,44.53456225,Oak-Northern Red ,Oak,Ornamental,15,13,Good ,Bartlett 2021
+64,-69.65120883,44.57112587,Oak-Northern Red ,Oak,Ornamental,15,14,Good ,Bartlett 2021
+65,-69.65362163,44.57792831,Oak-Northern Red ,Oak,Ornamental,15,17,Good ,Bartlett 2021
+66,-69.65497412,44.58014626,Oak-Northern Red ,Oak,Ornamental,15,18,Good ,Bartlett 2021
+67,-69.65112297,44.57101406,Oak-Northern Red ,Oak,Ornamental,15,20,Good ,Bartlett 2021
+68,-69.6549539,44.5801069,Oak-Northern Red ,Oak,Ornamental,15,20,Good ,Bartlett 2021
+69,-69.65200715,44.57447261,Oak-Northern Red ,Oak,Ornamental,15,22,Fair ,Bartlett 2021
+70,-69.65209514,44.57396555,Oak-Northern Red ,Oak,Ornamental,15,24,Good ,Bartlett 2021
+71,-69.65981635,44.52698401,Oak-Northern Red ,Oak,Ornamental,15,15,Good ,Bartlett 2021
+72,-69.64311727,44.53453753,Oak-Northern Red ,Oak,Ornamental,15,16,Poor ,Bartlett 2021
+73,-69.65951182,44.52693367,Oak-Northern Red ,Oak,Ornamental,15,20,Good ,Bartlett 2021
+74,-69.65967936,44.52694735,Oak-Northern Red ,Oak,Ornamental,15,25,Good ,Bartlett 2021
+75,-69.63023696,44.5681316,Pear-Callery ,Pear,Fruiting / Flowering,15,12,Poor ,Bartlett 2021
+76,-69.65303682,44.5772068,Oak-Northern Red ,Oak,Ornamental,14,15,Good ,Bartlett 2021
+77,-69.66273079,44.52888795,Cherry-Black ,Cherry,Fruiting / Flowering,13,6,Good ,Bartlett 2021
+78,-69.66239343,44.52878788,Cherry-Black ,Cherry,Fruiting / Flowering,12,11,Fair ,Bartlett 2021
+79,-69.62758631,44.55079453,Elm-American ,Elm,Ornamental,12,9,Good ,Bartlett 2021
+80,-69.64267103,44.53471302,Elm-American ,Elm,Ornamental,12,20,Good ,Bartlett 2021
+81,-69.6559364,44.5805621,Oak-Northern Red ,Oak,Ornamental,12,12,Good ,Bartlett 2021
+82,-69.65234994,44.5756568,Oak-Northern Red ,Oak,Ornamental,12,14,Fair ,Bartlett 2021
+83,-69.65937963,44.52722559,Oak-Northern Red ,Oak,Ornamental,11,13,Good ,Bartlett 2021
+84,-69.64236979,44.53506288,Oak-Northern Red ,Oak,Ornamental,11,20,Good ,Bartlett 2021
+85,-69.66127637,44.52777909,Cherry-Black ,Cherry,Fruiting / Flowering,10,7,Poor ,Bartlett 2021
+86,-69.66015207,44.53420321,Cherry-Black ,Cherry,Fruiting / Flowering,10,10,Fair ,Bartlett 2021
+87,-69.66236943,44.52873184,Cherry-Black ,Cherry,Fruiting / Flowering,10,12,Poor ,Bartlett 2021
+88,-69.66235045,44.52875797,Cherry-Black ,Cherry,Fruiting / Flowering,10,13,Poor ,Bartlett 2021
+89,-69.64310509,44.5346416,Cherry-Black ,Cherry,Fruiting / Flowering,10,6,Fair ,Bartlett 2021
+90,-69.62748159,44.55081456,Crabapple ,Crabapple,Fruiting / Flowering,10,5,Good ,Bartlett 2021
+91,-69.62774616,44.55068667,Elm-American ,Elm,Ornamental,10,5,Good ,Bartlett 2021
+92,-69.6629997,44.52905155,Maple-Sugar ,Maple,Fruiting / Flowering,10,10,Good ,Bartlett 2021
+93,-69.64319637,44.53456748,Maple-Sugar ,Maple,Fruiting / Flowering,10,19,Good ,Bartlett 2021
+94,-69.65513893,44.58027553,Oak-Northern Red ,Oak,Ornamental,10,11,Good ,Bartlett 2021
+95,-69.65206818,44.57468374,Oak-Northern Red ,Oak,Ornamental,10,11,Fair ,Bartlett 2021
+96,-69.65293689,44.57690561,Oak-Northern Red ,Oak,Ornamental,10,14,Good ,Bartlett 2021
+97,-69.65516585,44.58030435,Oak-Northern Red ,Oak,Ornamental,10,14,Good ,Bartlett 2021
+98,-69.65230512,44.57544751,Oak-Northern Red ,Oak,Ornamental,10,14,Good ,Bartlett 2021
+99,-69.65495702,44.58006617,Oak-Northern Red ,Oak,Ornamental,10,15,Good ,Bartlett 2021
+100,-69.65942426,44.52694902,Oak-Northern Red ,Oak,Ornamental,10,16,Good ,Bartlett 2021
+101,-69.65133159,44.5721718,Oak-Northern Red ,Oak,Ornamental,10,16,Good ,Bartlett 2021
+102,-69.65504533,44.58020694,Oak-Northern Red ,Oak,Ornamental,10,17,Good ,Bartlett 2021
+103,-69.65520689,44.58040052,Oak-Northern Red ,Oak,Ornamental,10,19,Good ,Bartlett 2021
+104,-69.64257227,44.53476168,Oak-Northern Red ,Oak,Ornamental,10,21,Good ,Bartlett 2021
+105,-69.65900227,44.5341433,Poplar-Aspen ,Poplar,Ornamental,10,8,Fair ,Bartlett 2021
+106,-69.6590225,44.53414999,Poplar-Aspen ,Poplar,Ornamental,10,10,Good ,Bartlett 2021
+107,-69.65908337,44.53413742,Poplar-Aspen ,Poplar,Ornamental,10,14,Fair ,Bartlett 2021
+108,-69.62710292,44.5522326,Serviceberry ,Serviceberry,Bush,10,2,Good ,Bartlett 2021
+109,-69.65336166,44.57763509,Oak-Northern Red ,Oak,Ornamental,9,9,Good ,Bartlett 2021
+110,-69.65241095,44.57498831,Oak-Northern Red ,Oak,Ornamental,9,10,Good ,Bartlett 2021
+111,-69.65236595,44.57493243,Oak-Northern Red ,Oak,Ornamental,9,12,Fair ,Bartlett 2021
+112,-69.65478777,44.57963848,Oak-Northern Red ,Oak,Ornamental,9,14,Poor ,Bartlett 2021
+113,-69.65268259,44.57623676,Oak-Northern Red ,Oak,Ornamental,9,16,Good ,Bartlett 2021
+114,-69.65973543,44.52693721,Cherry-Black ,Cherry,Fruiting / Flowering,8,14,Poor ,Bartlett 2021
+115,-69.65427843,44.57851488,Oak-Northern Red ,Oak,Ornamental,8,7,Good ,Bartlett 2021
+116,-69.65306835,44.57720163,Oak-Northern Red ,Oak,Ornamental,8,16,Fair ,Bartlett 2021
+117,-69.65984036,44.52696524,Oak-Northern Red ,Oak,Ornamental,8,13,Good ,Bartlett 2021
+118,-69.66260402,44.52888256,Elm-American ,Elm,Ornamental,7,6,Good ,Bartlett 2021
+119,-69.63295252,44.55078112,Elm-Chinese ,Elm,Ornamental,7,8,Fair ,Bartlett 2021
+120,-69.65230187,44.57540352,Oak-Northern Red ,Oak,Ornamental,7,6,Good ,Bartlett 2021
+121,-69.65439304,44.57881204,Oak-Northern Red ,Oak,Ornamental,7,11,Good ,Bartlett 2021
+122,-69.65277791,44.57631,Oak-Northern Red ,Oak,Ornamental,7,13,Good ,Bartlett 2021
+123,-69.65433897,44.57864415,Oak-Northern Red ,Oak,Ornamental,7,14,Fair ,Bartlett 2021
+124,-69.65195175,44.57416678,Oak-Northern Red ,Oak,Ornamental,7,14,Fair ,Bartlett 2021
+125,-69.65199138,44.57436582,Oak-Northern Red ,Oak,Ornamental,7,23,Good ,Bartlett 2021
+126,-69.62718586,44.55285557,Elm-American ,Elm,Ornamental,6,4,Good ,Bartlett 2021
+127,-69.65226799,44.57530906,Oak-Northern Red ,Oak,Ornamental,6,10,Poor ,Bartlett 2021
+128,-69.65225454,44.57537905,Oak-Northern Red ,Oak,Ornamental,6,10,Good ,Bartlett 2021
+129,-69.65229843,44.57468022,Oak-Northern Red ,Oak,Ornamental,6,10,Fair ,Bartlett 2021
+130,-69.6546466,44.57937535,Oak-Northern Red ,Oak,Ornamental,6,11,Good ,Bartlett 2021
+131,-69.65439971,44.57876519,Oak-Northern Red ,Oak,Ornamental,6,12,Fair ,Bartlett 2021
+132,-69.66076598,44.53402736,Oak-Northern Red ,Oak,Ornamental,6,13,Good ,Bartlett 2021
+133,-69.65206606,44.57393026,Oak-Northern Red ,Oak,Ornamental,6,17,Fair ,Bartlett 2021
+134,-69.6425897,44.53476084,Oak-Northern Red ,Oak,Ornamental,6,19,Good ,Bartlett 2021
+135,-69.65621874,44.58058279,Poplar-Bigtooth Aspen ,Poplar,Ornamental,6,14,Good ,Bartlett 2021
+136,-69.66122492,44.52740095,Cherry-Black ,Cherry,Fruiting / Flowering,5,8,Poor ,Bartlett 2021
+137,-69.66126843,44.52750085,Cherry-Black ,Cherry,Fruiting / Flowering,5,10,Fair ,Bartlett 2021
+138,-69.66231483,44.52871846,Cherry-Black ,Cherry,Fruiting / Flowering,5,12,Poor ,Bartlett 2021
+139,-69.65983454,44.52693969,Cherry-Black ,Cherry,Fruiting / Flowering,5,12,Poor ,Bartlett 2021
+140,-69.64232827,44.53535187,Elm-American ,Elm,Ornamental,5,15,Fair ,Bartlett 2021
+141,-69.62812148,44.55318007,Maple-Sugar ,Maple,Fruiting / Flowering,5,14,Good ,Bartlett 2021
+142,-69.62813864,44.55320396,Maple-Sugar ,Maple,Fruiting / Flowering,5,14,Fair ,Bartlett 2021
+143,-69.66005798,44.53416864,Oak-Northern Red ,Oak,Ornamental,5,6,Good ,Bartlett 2021
+144,-69.65265739,44.57618217,Oak-Northern Red ,Oak,Ornamental,5,8,Good ,Bartlett 2021
+145,-69.65211925,44.57474833,Oak-Northern Red ,Oak,Ornamental,5,8,Good ,Bartlett 2021
+146,-69.65205625,44.57379336,Oak-Northern Red ,Oak,Ornamental,5,9,Good ,Bartlett 2021
+147,-69.65504194,44.58023014,Oak-Northern Red ,Oak,Ornamental,5,9,Good ,Bartlett 2021
+148,-69.65229882,44.57544782,Oak-Northern Red ,Oak,Ornamental,5,11,Good ,Bartlett 2021
+149,-69.65229111,44.5754978,Oak-Northern Red ,Oak,Ornamental,5,13,Good ,Bartlett 2021
+150,-69.65506126,44.5802936,Oak-Northern Red ,Oak,Ornamental,5,17,Good ,Bartlett 2021
+151,-69.62771206,44.55104351,Oak-Northern Red ,Oak,Ornamental,5,3,Fair ,Bartlett 2021
+152,-69.65893409,44.53416552,Poplar-Aspen ,Poplar,Ornamental,5,16,Poor ,Bartlett 2021
+153,-69.62718877,44.55265543,Serviceberry ,Serviceberry,Bush,5,1,Good ,Bartlett 2021
+154,-69.62713603,44.55225725,Serviceberry ,Serviceberry,Bush,5,2,Good ,Bartlett 2021
+155,-69.62716118,44.55267326,Serviceberry ,Serviceberry,Bush,5,2,Good ,Bartlett 2021
+156,-69.66239035,44.52876396,Cherry-Black ,Cherry,Fruiting / Flowering,4,6,Fair ,Bartlett 2021
+157,-69.66287648,44.52895554,Cherry-Black ,Cherry,Fruiting / Flowering,4,7,Good ,Bartlett 2021
+158,-69.66311098,44.52912631,Cherry-Black ,Cherry,Fruiting / Flowering,4,10,Good ,Bartlett 2021
+159,-69.63349676,44.55082061,Elm-American ,Elm,Ornamental,4,3,Good ,Bartlett 2021
+160,-69.62791142,44.55080465,Elm-American ,Elm,Ornamental,4,5,Good ,Bartlett 2021
+161,-69.62770598,44.55062902,Elm-American ,Elm,Ornamental,4,5,Good ,Bartlett 2021
+162,-69.62783225,44.55077055,Elm-American ,Elm,Ornamental,4,6,Fair ,Bartlett 2021
+163,-69.64368187,44.53447497,Maple-Boxelder ,Maple,Ornamental,4,9,Fair ,Bartlett 2021
+164,-69.63857977,44.53810995,Maple-Freeman's ,Maple,Ornamental,4,19,Good ,Bartlett 2021
+165,-69.62822185,44.55167588,Maple-Norway ,Maple,Ornamental,4,11,Good ,Bartlett 2021
+166,-69.65453839,44.57912047,Oak-Northern Red ,Oak,Ornamental,4,9,Good ,Bartlett 2021
+167,-69.65517702,44.58034696,Oak-Northern Red ,Oak,Ornamental,4,9,Poor ,Bartlett 2021
+168,-69.63114357,44.56742048,Oak-Northern Red ,Oak,Ornamental,4,10,Poor ,Bartlett 2021
+169,-69.65520196,44.58017348,Oak-Northern Red ,Oak,Ornamental,4,11,Good ,Bartlett 2021
+170,-69.65525538,44.58039947,Oak-Northern Red ,Oak,Ornamental,4,12,Good ,Bartlett 2021
+171,-69.65146319,44.57196822,Oak-Northern Red ,Oak,Ornamental,4,14,Good ,Bartlett 2021
+172,-69.66025894,44.52700934,Poplar-Aspen ,Poplar,Ornamental,4,9,Poor ,Bartlett 2021
+173,-69.66013014,44.52703605,Poplar-Aspen ,Poplar,Ornamental,4,13,Poor ,Bartlett 2021
+174,-69.66074205,44.53421557,Poplar-Bigtooth Aspen ,Poplar,Ornamental,4,6,Good ,Bartlett 2021
+175,-69.63103176,44.56764717,Birch-Paper ,Birch,Ornamental,3,8,Good ,Bartlett 2021
+176,-69.6610809,44.52735703,Cherry-Black ,Cherry,Fruiting / Flowering,3,7,Fair ,Bartlett 2021
+177,-69.66285218,44.52892573,Crabapple ,Crabapple,Fruiting / Flowering,3,8,Fair ,Bartlett 2021
+178,-69.62753555,44.55082304,Crabapple ,Crabapple,Fruiting / Flowering,3,5,Good ,Bartlett 2021
+179,-69.66299602,44.52903794,Elm-American ,Elm,Ornamental,3,10,Good ,Bartlett 2021
+180,-69.64236807,44.53519495,Maple-Norway ,Maple,Ornamental,3,20,Fair ,Bartlett 2021
+181,-69.64630032,44.56156175,Maple-Red ,Maple,Ornamental,3,5,Good ,Bartlett 2021
+182,-69.62750334,44.55304226,Maple-Sugar ,Maple,Fruiting / Flowering,3,3,Good ,Bartlett 2021
+183,-69.65523216,44.58035712,Oak-Northern Red ,Oak,Ornamental,3,8,Good ,Bartlett 2021
+184,-69.6310976,44.56743681,Oak-Northern Red ,Oak,Ornamental,3,9,Good ,Bartlett 2021
+185,-69.65227066,44.5753565,Oak-Northern Red ,Oak,Ornamental,3,9,Good ,Bartlett 2021
+186,-69.6521466,44.57431279,Oak-Northern Red ,Oak,Ornamental,3,12,Good ,Bartlett 2021
+187,-69.62754872,44.55106704,Oak-Northern Red ,Oak,Ornamental,3,3,Good ,Bartlett 2021
+188,-69.65513832,44.58004836,Poplar-Aspen ,Poplar,Ornamental,3,16,Good ,Bartlett 2021
+189,-69.65517166,44.58005571,Poplar-Aspen ,Poplar,Ornamental,3,19,Good ,Bartlett 2021
+190,-69.66027416,44.52701462,Poplar-Aspen ,Poplar,Ornamental,3,8,Fair ,Bartlett 2021
+191,-69.66069974,44.5341746,Poplar-Bigtooth Aspen ,Poplar,Ornamental,3,6,Poor ,Bartlett 2021
+192,-69.65624894,44.58060958,Poplar-Bigtooth Aspen ,Poplar,Ornamental,3,12,Good ,Bartlett 2021
+193,-69.64632605,44.56190566,Ash-Green ,Ash,Ornamental,2,13,Good ,Bartlett 2021
+194,-69.65466363,44.57903512,Ash-White ,Ash,Ornamental,2,10,Good ,Bartlett 2021
+195,-69.6271846,44.55128731,Birch-River ,Birch,Ornamental,2,3,Good ,Bartlett 2021
+196,-69.62708465,44.55221229,Birch-River ,Birch,Ornamental,2,3,Good ,Bartlett 2021
+197,-69.62720395,44.55240169,Birch-River ,Birch,Ornamental,2,3,Good ,Bartlett 2021
+198,-69.62720547,44.55246532,Birch-River ,Birch,Ornamental,2,3,Good ,Bartlett 2021
+199,-69.6272434,44.55249004,Birch-River ,Birch,Ornamental,2,3,Good ,Bartlett 2021
+200,-69.62715524,44.55162685,Birch-River ,Birch,Ornamental,2,4,Good ,Bartlett 2021
+201,-69.62714661,44.55170741,Birch-River ,Birch,Ornamental,2,4,Good ,Bartlett 2021
+202,-69.62718863,44.55115757,Birch-River ,Birch,Ornamental,2,3,Good ,Bartlett 2021
+203,-69.62722403,44.55123127,Birch-River ,Birch,Ornamental,2,3,Good ,Bartlett 2021
+204,-69.66265294,44.52884177,Cherry-Black ,Cherry,Fruiting / Flowering,2,5,Good ,Bartlett 2021
+205,-69.66227158,44.52868892,Cherry-Black ,Cherry,Fruiting / Flowering,2,7,Fair ,Bartlett 2021
+206,-69.66119577,44.5274077,Cherry-Black ,Cherry,Fruiting / Flowering,2,8,Poor ,Bartlett 2021
+207,-69.66226028,44.52868306,Cherry-Black ,Cherry,Fruiting / Flowering,2,9,Fair ,Bartlett 2021
+208,-69.66054024,44.53417572,Crabapple ,Crabapple,Fruiting / Flowering,2,8,Fair ,Bartlett 2021
+209,-69.62746248,44.55081672,Crabapple ,Crabapple,Fruiting / Flowering,2,5,Good ,Bartlett 2021
+210,-69.63363084,44.55084216,Elm-American ,Elm,Ornamental,2,4,Good ,Bartlett 2021
+211,-69.63375148,44.55085845,Elm-American ,Elm,Ornamental,2,8,Good ,Bartlett 2021
+212,-69.6427559,44.53467235,Elm-American ,Elm,Ornamental,2,12,Poor ,Bartlett 2021
+213,-69.62918076,44.54953646,Linden-Littleleaf ,Linden,Fruiting / Flowering,2,2,Good ,Bartlett 2021
+214,-69.62833024,44.55019436,Maple-Boxelder ,Maple,Ornamental,2,14,Poor ,Bartlett 2021
+215,-69.64368957,44.53447074,Maple-Boxelder ,Maple,Ornamental,2,12,Fair ,Bartlett 2021
+216,-69.63054984,44.56715868,Maple-Freeman's ,Maple,Ornamental,2,14,Good ,Bartlett 2021
+217,-69.63026018,44.56711401,Maple-Freeman's ,Maple,Ornamental,2,18,Good ,Bartlett 2021
+218,-69.65886908,44.53409077,Maple-Norway ,Maple,Ornamental,2,7,Fair ,Bartlett 2021
+219,-69.66046955,44.53369862,Maple-Norway ,Maple,Ornamental,2,8,Good ,Bartlett 2021
+220,-69.62819122,44.55231878,Maple-Norway ,Maple,Ornamental,2,9,Fair ,Bartlett 2021
+221,-69.62817355,44.55267313,Maple-Norway ,Maple,Ornamental,2,10,Good ,Bartlett 2021
+222,-69.62820363,44.55232415,Maple-Norway ,Maple,Ornamental,2,10,Good ,Bartlett 2021
+223,-69.62818192,44.55213462,Maple-Norway ,Maple,Ornamental,2,10,Good ,Bartlett 2021
+224,-69.62822573,44.55196625,Maple-Norway ,Maple,Ornamental,2,10,Poor ,Bartlett 2021
+225,-69.62822185,44.55153132,Maple-Norway ,Maple,Ornamental,2,12,Good ,Bartlett 2021
+226,-69.66043364,44.53360227,Maple-Norway ,Maple,Ornamental,2,12,Good ,Bartlett 2021
+227,-69.6281979,44.55212828,Maple-Norway ,Maple,Ornamental,2,13,Good ,Bartlett 2021
+228,-69.64617043,44.56322208,Maple-Norway ,Maple,Ornamental,2,14,Good ,Bartlett 2021
+229,-69.62817362,44.55274113,Maple-Norway ,Maple,Ornamental,2,14,Good ,Bartlett 2021
+230,-69.64633235,44.56335366,Maple-Norway ,Maple,Ornamental,2,15,Good ,Bartlett 2021
+231,-69.64320039,44.53460532,Maple-Norway ,Maple,Ornamental,2,8,Good ,Bartlett 2021
+232,-69.64270538,44.53475359,Maple-Norway ,Maple,Ornamental,2,9,Fair ,Bartlett 2021
+233,-69.64356065,44.53453711,Maple-Norway ,Maple,Ornamental,2,10,Good ,Bartlett 2021
+234,-69.66145628,44.5296817,Maple-Norway ,Maple,Ornamental,2,18,Good ,Bartlett 2021
+235,-69.6551006,44.58026169,Maple-Red ,Maple,Ornamental,2,7,Good ,Bartlett 2021
+236,-69.65919484,44.53417385,Maple-Red ,Maple,Ornamental,2,14,Fair ,Bartlett 2021
+237,-69.63581713,44.54761293,Maple-Sugar ,Maple,Fruiting / Flowering,2,5,Good ,Bartlett 2021
+238,-69.64528497,44.56175893,Maple-Sugar ,Maple,Fruiting / Flowering,2,7,Good ,Bartlett 2021
+239,-69.64539458,44.56167186,Maple-Sugar ,Maple,Fruiting / Flowering,2,7,Good ,Bartlett 2021
+240,-69.63086446,44.56725279,Maple-Sugar ,Maple,Fruiting / Flowering,2,10,Poor ,Bartlett 2021
+241,-69.62744377,44.55283141,Maple-Sugar ,Maple,Fruiting / Flowering,2,3,Good ,Bartlett 2021
+242,-69.6273906,44.55294809,Maple-Sugar ,Maple,Fruiting / Flowering,2,3,Good ,Bartlett 2021
+243,-69.62746233,44.55296135,Maple-Sugar ,Maple,Fruiting / Flowering,2,3,Good ,Bartlett 2021
+244,-69.62743727,44.55309552,Maple-Sugar ,Maple,Fruiting / Flowering,2,3,Good ,Bartlett 2021
+245,-69.62719854,44.55291042,Oak-Northern Red ,Oak,Ornamental,2,3,Good ,Bartlett 2021
+246,-69.65590094,44.58044206,Oak-Northern Red ,Oak,Ornamental,2,4,Good ,Bartlett 2021
+247,-69.66053115,44.53378262,Oak-Northern Red ,Oak,Ornamental,2,5,Fair ,Bartlett 2021
+248,-69.65588901,44.58049187,Oak-Northern Red ,Oak,Ornamental,2,6,Good ,Bartlett 2021
+249,-69.65518239,44.58016492,Oak-Northern Red ,Oak,Ornamental,2,6,Good ,Bartlett 2021
+250,-69.66018735,44.53423968,Oak-Northern Red ,Oak,Ornamental,2,7,Good ,Bartlett 2021
+251,-69.65527727,44.58044174,Oak-Northern Red ,Oak,Ornamental,2,7,Good ,Bartlett 2021
+252,-69.65520043,44.58015056,Oak-Northern Red ,Oak,Ornamental,2,8,Good ,Bartlett 2021
+253,-69.6543411,44.57859909,Oak-Northern Red ,Oak,Ornamental,2,8,Good ,Bartlett 2021
+254,-69.65451481,44.57905045,Oak-Northern Red ,Oak,Ornamental,2,10,Good ,Bartlett 2021
+255,-69.63101194,44.56768366,Oak-Northern Red ,Oak,Ornamental,2,11,Good ,Bartlett 2021
+256,-69.65458121,44.57921965,Oak-Northern Red ,Oak,Ornamental,2,11,Good ,Bartlett 2021
+257,-69.62778401,44.55094834,Oak-Northern Red ,Oak,Ornamental,2,2,Poor ,Bartlett 2021
+258,-69.62743392,44.5511538,Oak-Northern Red ,Oak,Ornamental,2,3,Good ,Bartlett 2021
+259,-69.65900871,44.53403201,Poplar-Aspen ,Poplar,Ornamental,2,6,Fair ,Bartlett 2021
+260,-69.66074716,44.52720981,Poplar-Aspen ,Poplar,Ornamental,2,6,Fair ,Bartlett 2021
+261,-69.66046343,44.52706387,Poplar-Aspen ,Poplar,Ornamental,2,9,Good ,Bartlett 2021
+262,-69.66071334,44.53418194,Poplar-Bigtooth Aspen ,Poplar,Ornamental,2,7,Good ,Bartlett 2021
+263,-69.66031406,44.52703225,Poplar-Bigtooth Aspen ,Poplar,Ornamental,2,12,Fair ,Bartlett 2021
+264,-69.64589251,44.56243805,Ash-Black ,Ash,Ornamental,0,7,Fair ,Bartlett 2021
+265,-69.646085,44.56239003,Ash-Black ,Ash,Ornamental,0,7,Good ,Bartlett 2021
+266,-69.64594883,44.5624836,Ash-Black ,Ash,Ornamental,0,9,Fair ,Bartlett 2021
+267,-69.62809589,44.55312133,Ash-Black ,Ash,Ornamental,0,10,Good ,Bartlett 2021
+268,-69.66212271,44.52864173,Ash-Green ,Ash,Ornamental,0,5,Good ,Bartlett 2021
+269,-69.66228142,44.52871313,Ash-Green ,Ash,Ornamental,0,5,Good ,Bartlett 2021
+270,-69.66127985,44.52756641,Ash-Green ,Ash,Ornamental,0,5,Good ,Bartlett 2021
+271,-69.66212275,44.52862035,Ash-Green ,Ash,Ornamental,0,6,Good ,Bartlett 2021
+272,-69.66125741,44.52765066,Ash-Green ,Ash,Ornamental,0,6,Good ,Bartlett 2021
+273,-69.66127555,44.52751999,Ash-Green ,Ash,Ornamental,0,6,Good ,Bartlett 2021
+274,-69.66036438,44.5335723,Ash-Green ,Ash,Ornamental,0,7,Good ,Bartlett 2021
+275,-69.66131876,44.52755742,Ash-Green ,Ash,Ornamental,0,7,Good ,Bartlett 2021
+276,-69.6613195,44.52755911,Ash-Green ,Ash,Ornamental,0,7,Good ,Bartlett 2021
+277,-69.66091603,44.52730561,Ash-Green ,Ash,Ornamental,0,8,Good ,Bartlett 2021
+278,-69.63278761,44.54601561,Ash-Green ,Ash,Ornamental,0,9,Fair ,Bartlett 2021
+279,-69.66224096,44.52869393,Ash-Green ,Ash,Ornamental,0,10,Good ,Bartlett 2021
+280,-69.64601761,44.56237073,Ash-Green ,Ash,Ornamental,0,11,Good ,Bartlett 2021
+281,-69.6613353,44.52773077,Ash-Green ,Ash,Ornamental,0,12,Good ,Bartlett 2021
+282,-69.63287827,44.54607363,Ash-Green ,Ash,Ornamental,0,13,Good ,Bartlett 2021
+283,-69.66214485,44.52868195,Ash-Green ,Ash,Ornamental,0,13,Good ,Bartlett 2021
+284,-69.63057267,44.56236789,Ash-Green ,Ash,Ornamental,0,14,Good ,Bartlett 2021
+285,-69.63049274,44.56249971,Ash-Green ,Ash,Ornamental,0,15,Good ,Bartlett 2021
+286,-69.65500827,44.57985172,Ash-Green ,Ash,Ornamental,0,15,Good ,Bartlett 2021
+287,-69.66213098,44.52868401,Ash-Green ,Ash,Ornamental,0,17,Good ,Bartlett 2021
+288,-69.64499615,44.56214932,Ash-Green ,Ash,Ornamental,0,21,Good ,Bartlett 2021
+289,-69.66023061,44.53345698,Ash-Green ,Ash,Ornamental,0,24,Fair ,Bartlett 2021
+290,-69.64793841,44.56468515,Ash-Green ,Ash,Ornamental,0,10,Good ,Bartlett 2021
+291,-69.64648709,44.56202372,Ash-Green ,Ash,Ornamental,0,12,Good ,Bartlett 2021
+292,-69.64641177,44.56196783,Ash-Green ,Ash,Ornamental,0,13,Good ,Bartlett 2021
+293,-69.64667151,44.56212773,Ash-Green ,Ash,Ornamental,0,13,Poor ,Bartlett 2021
+294,-69.64813773,44.56485917,Ash-Green ,Ash,Ornamental,0,13,Good ,Bartlett 2021
+295,-69.64670203,44.56220275,Ash-Green ,Ash,Ornamental,0,15,Good ,Bartlett 2021
+296,-69.64659459,44.56208688,Ash-Green ,Ash,Ornamental,0,16,Poor ,Bartlett 2021
+297,-69.64625049,44.56185291,Ash-Green ,Ash,Ornamental,0,18,Good ,Bartlett 2021
+298,-69.62817896,44.5507748,Ash-White ,Ash,Ornamental,0,3,Good ,Bartlett 2021
+299,-69.6592438,44.52755863,Ash-White ,Ash,Ornamental,0,5,Poor ,Bartlett 2021
+300,-69.66049002,44.53373404,Ash-White ,Ash,Ornamental,0,6,Good ,Bartlett 2021
+301,-69.66052149,44.53379658,Ash-White ,Ash,Ornamental,0,6,Poor ,Bartlett 2021
+302,-69.65919482,44.52761053,Ash-White ,Ash,Ornamental,0,6,Poor ,Bartlett 2021
+303,-69.65908037,44.53410169,Ash-White ,Ash,Ornamental,0,6,Good ,Bartlett 2021
+304,-69.65903201,44.53405363,Ash-White ,Ash,Ornamental,0,6,Good ,Bartlett 2021
+305,-69.65657839,44.581199,Ash-White ,Ash,Ornamental,0,6,Good ,Bartlett 2021
+306,-69.65470291,44.57912686,Ash-White ,Ash,Ornamental,0,6,Good ,Bartlett 2021
+307,-69.65496195,44.5800711,Ash-White ,Ash,Ornamental,0,6,Good ,Bartlett 2021
+308,-69.62814937,44.55061341,Ash-White ,Ash,Ornamental,0,7,Good ,Bartlett 2021
+309,-69.660664,44.53388939,Ash-White ,Ash,Ornamental,0,7,Poor ,Bartlett 2021
+310,-69.65924315,44.52745821,Ash-White ,Ash,Ornamental,0,7,Poor ,Bartlett 2021
+311,-69.65962359,44.53418581,Ash-White ,Ash,Ornamental,0,7,Good ,Bartlett 2021
+312,-69.65896764,44.53412625,Ash-White ,Ash,Ornamental,0,8,Good ,Bartlett 2021
+313,-69.65455173,44.57907147,Ash-White ,Ash,Ornamental,0,8,Poor ,Bartlett 2021
+314,-69.66053675,44.53381194,Ash-White ,Ash,Ornamental,0,9,Fair ,Bartlett 2021
+315,-69.65930333,44.5273026,Ash-White ,Ash,Ornamental,0,9,Poor ,Bartlett 2021
+316,-69.65882396,44.53406609,Ash-White ,Ash,Ornamental,0,9,Fair ,Bartlett 2021
+317,-69.65487207,44.57998129,Ash-White ,Ash,Ornamental,0,9,Good ,Bartlett 2021
+318,-69.63458309,44.54596771,Ash-White ,Ash,Ornamental,0,10,Poor ,Bartlett 2021
+319,-69.66076853,44.53402976,Ash-White ,Ash,Ornamental,0,10,Good ,Bartlett 2021
+320,-69.65891494,44.53409026,Ash-White ,Ash,Ornamental,0,10,Fair ,Bartlett 2021
+321,-69.65471286,44.57915674,Ash-White ,Ash,Ornamental,0,10,Good ,Bartlett 2021
+322,-69.66071671,44.53403109,Ash-White ,Ash,Ornamental,0,11,Good ,Bartlett 2021
+323,-69.65536307,44.58031352,Ash-White ,Ash,Ornamental,0,11,Good ,Bartlett 2021
+324,-69.65497191,44.57971781,Ash-White ,Ash,Ornamental,0,11,Good ,Bartlett 2021
+325,-69.63481117,44.54577818,Ash-White ,Ash,Ornamental,0,12,Fair ,Bartlett 2021
+326,-69.66056451,44.53379963,Ash-White ,Ash,Ornamental,0,12,Fair ,Bartlett 2021
+327,-69.66056436,44.53381506,Ash-White ,Ash,Ornamental,0,12,Fair ,Bartlett 2021
+328,-69.66071255,44.53399366,Ash-White ,Ash,Ornamental,0,12,Good ,Bartlett 2021
+329,-69.66077438,44.53402674,Ash-White ,Ash,Ornamental,0,12,Good ,Bartlett 2021
+330,-69.65464951,44.57900704,Ash-White ,Ash,Ornamental,0,12,Fair ,Bartlett 2021
+331,-69.66125904,44.52744635,Ash-White ,Ash,Ornamental,0,15,Good ,Bartlett 2021
+332,-69.66026335,44.53435602,Ash-White ,Ash,Ornamental,0,16,Good ,Bartlett 2021
+333,-69.66072207,44.53402718,Ash-White ,Ash,Ornamental,0,17,Good ,Bartlett 2021
+334,-69.65496013,44.5796295,Ash-White ,Ash,Ornamental,0,20,Good ,Bartlett 2021
+335,-69.66066448,44.53392025,Ash-White ,Ash,Ornamental,0,21,Good ,Bartlett 2021
+336,-69.65526482,44.58025061,Ash-White ,Ash,Ornamental,0,21,Good ,Bartlett 2021
+337,-69.62773993,44.55078428,Ash-White ,Ash,Ornamental,0,5,Good ,Bartlett 2021
+338,-69.62767459,44.55070357,Ash-White ,Ash,Ornamental,0,6,Fair ,Bartlett 2021
+339,-69.65954621,44.52694167,Ash-White ,Ash,Ornamental,0,6,Good ,Bartlett 2021
+340,-69.62768555,44.55084344,Ash-White ,Ash,Ornamental,0,7,Fair ,Bartlett 2021
+341,-69.66049525,44.53371769,Beech-American ,Beech,Ornamental,0,12,Fair ,Bartlett 2021
+342,-69.65459642,44.57922567,Birch-Paper ,Birch,Ornamental,0,5,Good ,Bartlett 2021
+343,-69.6560053,44.58062281,Birch-Paper ,Birch,Ornamental,0,6,Good ,Bartlett 2021
+344,-69.65463902,44.57929706,Birch-Paper ,Birch,Ornamental,0,7,Good ,Bartlett 2021
+345,-69.66029106,44.53347953,Birch-Paper ,Birch,Ornamental,0,9,Good ,Bartlett 2021
+346,-69.65468104,44.57941279,Birch-Paper ,Birch,Ornamental,0,9,Good ,Bartlett 2021
+347,-69.63355749,44.5464196,Birch-Paper ,Birch,Ornamental,0,13,Good ,Bartlett 2021
+348,-69.65975225,44.52693828,Birch-Paper ,Birch,Ornamental,0,11,Poor ,Bartlett 2021
+349,-69.62726698,44.55263141,Birch-River ,Birch,Ornamental,0,1,Poor ,Bartlett 2021
+350,-69.62722375,44.55251928,Birch-River ,Birch,Ornamental,0,2,Good ,Bartlett 2021
+351,-69.62716716,44.55257609,Birch-River ,Birch,Ornamental,0,2,Good ,Bartlett 2021
+352,-69.62704316,44.5515117,Birch-River ,Birch,Ornamental,0,3,Good ,Bartlett 2021
+353,-69.62719541,44.55166743,Birch-River ,Birch,Ornamental,0,3,Good ,Bartlett 2021
+354,-69.62712477,44.55228637,Birch-River ,Birch,Ornamental,0,3,Good ,Bartlett 2021
+355,-69.62722306,44.55235753,Birch-River ,Birch,Ornamental,0,3,Good ,Bartlett 2021
+356,-69.62715494,44.5524321,Birch-River ,Birch,Ornamental,0,3,Good ,Bartlett 2021
+357,-69.62719614,44.55231663,Birch-River ,Birch,Ornamental,0,4,Good ,Bartlett 2021
+358,-69.6271921,44.55268889,Birch-River ,Birch,Ornamental,0,4,Good ,Bartlett 2021
+359,-69.62741295,44.5528875,Birch-River ,Birch,Ornamental,0,2,Good ,Bartlett 2021
+360,-69.62723514,44.55127531,Birch-River ,Birch,Ornamental,0,3,Fair ,Bartlett 2021
+361,-69.62738108,44.5526602,Birch-River ,Birch,Ornamental,0,3,Good ,Bartlett 2021
+362,-69.62734546,44.55291072,Birch-River ,Birch,Ornamental,0,3,Fair ,Bartlett 2021
+363,-69.62739787,44.55291468,Birch-River ,Birch,Ornamental,0,3,Good ,Bartlett 2021
+364,-69.66257096,44.52881244,Cherry-Black ,Cherry,Fruiting / Flowering,0,8,Poor ,Bartlett 2021
+365,-69.66125847,44.52740197,Cherry-Black ,Cherry,Fruiting / Flowering,0,8,Dead ,Bartlett 2021
+366,-69.66113757,44.52734815,Cherry-Black ,Cherry,Fruiting / Flowering,0,8,Fair ,Bartlett 2021
+367,-69.63290179,44.55084571,Elm-American ,Elm,Ornamental,0,2,Fair ,Bartlett 2021
+368,-69.63336672,44.55080302,Elm-American ,Elm,Ornamental,0,2,Fair ,Bartlett 2021
+369,-69.64579829,44.56226307,Elm-American ,Elm,Ornamental,0,5,Dead ,Bartlett 2021
+370,-69.65986478,44.52698952,Elm-American ,Elm,Ornamental,0,5,Poor ,Bartlett 2021
+371,-69.64302478,44.53468325,Elm-American ,Elm,Ornamental,0,10,Poor ,Bartlett 2021
+372,-69.63353144,44.55100537,Ginkgo ,Ginkgo,Ornamental,0,11,Good ,Bartlett 2021
+373,-69.6271779,44.55135179,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,3,Good ,Bartlett 2021
+374,-69.62713498,44.55146478,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,3,Good ,Bartlett 2021
+375,-69.62717293,44.55159065,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,3,Good ,Bartlett 2021
+376,-69.64730043,44.56412779,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,20,Good ,Bartlett 2021
+377,-69.63302203,44.54616133,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,21,Good ,Bartlett 2021
+378,-69.64739607,44.56422083,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,21,Good ,Bartlett 2021
+379,-69.63315978,44.55124643,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,25,Good ,Bartlett 2021
+380,-69.62749804,44.5526394,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,3,Fair ,Bartlett 2021
+381,-69.62750592,44.55256399,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,3,Good ,Bartlett 2021
+382,-69.6275226,44.55247297,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,3,Good ,Bartlett 2021
+383,-69.62746561,44.55239309,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,3,Good ,Bartlett 2021
+384,-69.62738693,44.5523417,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,3,Fair ,Bartlett 2021
+385,-69.6273077,44.55230811,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,3,Good ,Bartlett 2021
+386,-69.62962292,44.54958675,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,14,Good ,Bartlett 2021
+387,-69.64836331,44.56501944,Honeylocust-Thornless Common ,Honeylocust,Fruiting / Flowering,0,14,Good ,Bartlett 2021
+388,-69.63315023,44.55112273,Horsechestnut-Common ,Horsechestnut,Fruiting / Flowering,0,19,Fair ,Bartlett 2021
+389,-69.63371266,44.55132367,Lilac-Japanese Tree ,Lilac,Fruiting / Flowering,0,6,Good ,Bartlett 2021
+390,-69.66029276,44.53327968,Linden-Littleleaf ,Linden,Fruiting / Flowering,0,12,Good ,Bartlett 2021
+391,-69.62902753,44.54952102,Linden-Littleleaf ,Linden,Fruiting / Flowering,0,14,Good ,Bartlett 2021
+392,-69.62902942,44.54959769,Linden-Littleleaf ,Linden,Fruiting / Flowering,0,15,Good ,Bartlett 2021
+393,-69.64717981,44.56404483,Linden-Littleleaf ,Linden,Fruiting / Flowering,0,18,Good ,Bartlett 2021
+394,-69.62905829,44.54946569,Linden-Littleleaf ,Linden,Fruiting / Flowering,0,23,Fair ,Bartlett 2021
+395,-69.63463146,44.54580237,Linden-Littleleaf ,Linden,Fruiting / Flowering,0,33,Poor ,Bartlett 2021
+396,-69.63461065,44.54561383,Linden-Littleleaf ,Linden,Fruiting / Flowering,0,33,Fair ,Bartlett 2021
+397,-69.64804215,44.5647744,Linden-Littleleaf ,Linden,Fruiting / Flowering,0,8,Good ,Bartlett 2021
+398,-69.6328552,44.54621844,Locust-Black ,Locust,Fruiting / Flowering,0,7,Good ,Bartlett 2021
+399,-69.6333794,44.54638352,Locust-Black ,Locust,Fruiting / Flowering,0,15,Good ,Bartlett 2021
+400,-69.63368534,44.54647386,Locust-Black ,Locust,Fruiting / Flowering,0,16,Fair ,Bartlett 2021
+401,-69.63372459,44.54646835,Locust-Black ,Locust,Fruiting / Flowering,0,17,Good ,Bartlett 2021
+402,-69.6332622,44.54627605,Locust-Black ,Locust,Fruiting / Flowering,0,19,Good ,Bartlett 2021
+403,-69.63361944,44.5464475,Locust-Black ,Locust,Fruiting / Flowering,0,19,Good ,Bartlett 2021
+404,-69.63374075,44.54646066,Locust-Black ,Locust,Fruiting / Flowering,0,19,Good ,Bartlett 2021
+405,-69.63329641,44.54627963,Locust-Black ,Locust,Fruiting / Flowering,0,23,Good ,Bartlett 2021
+406,-69.63334217,44.54638278,Locust-Black ,Locust,Fruiting / Flowering,0,24,Good ,Bartlett 2021
+407,-69.63356545,44.54643262,Locust-Black ,Locust,Fruiting / Flowering,0,24,Good ,Bartlett 2021
+408,-69.66123037,44.52787699,Maple-Boxelder ,Maple,Ornamental,0,16,Fair ,Bartlett 2021
+409,-69.64326011,44.53459879,Maple-Boxelder ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+410,-69.64256249,44.53501675,Maple-Boxelder ,Maple,Ornamental,0,9,Fair ,Bartlett 2021
+411,-69.64342227,44.53455206,Maple-Boxelder ,Maple,Ornamental,0,11,Poor ,Bartlett 2021
+412,-69.65999375,44.52703713,Maple-Boxelder ,Maple,Ornamental,0,12,Poor ,Bartlett 2021
+413,-69.64334724,44.53454887,Maple-Boxelder ,Maple,Ornamental,0,15,Poor ,Bartlett 2021
+414,-69.64272214,44.53471499,Maple-Boxelder ,Maple,Ornamental,0,17,Poor ,Bartlett 2021
+415,-69.64266331,44.53472552,Maple-Boxelder ,Maple,Ornamental,0,18,Poor ,Bartlett 2021
+416,-69.63071042,44.56718859,Maple-Freeman's ,Maple,Ornamental,0,14,Good ,Bartlett 2021
+417,-69.63861643,44.53793262,Maple-Freeman's ,Maple,Ornamental,0,14,Good ,Bartlett 2021
+418,-69.63063244,44.56716256,Maple-Freeman's ,Maple,Ornamental,0,15,Good ,Bartlett 2021
+419,-69.6303465,44.56710716,Maple-Freeman's ,Maple,Ornamental,0,16,Good ,Bartlett 2021
+420,-69.63045771,44.56715136,Maple-Freeman's ,Maple,Ornamental,0,16,Fair ,Bartlett 2021
+421,-69.6386266,44.53800454,Maple-Freeman's ,Maple,Ornamental,0,16,Good ,Bartlett 2021
+422,-69.63006394,44.56710058,Maple-Freeman's ,Maple,Ornamental,0,17,Good ,Bartlett 2021
+423,-69.63889521,44.53781538,Maple-Freeman's ,Maple,Ornamental,0,17,Good ,Bartlett 2021
+424,-69.6386728,44.53786054,Maple-Freeman's ,Maple,Ornamental,0,17,Good ,Bartlett 2021
+425,-69.63858019,44.5380571,Maple-Freeman's ,Maple,Ornamental,0,17,Good ,Bartlett 2021
+426,-69.63020158,44.56711241,Maple-Freeman's ,Maple,Ornamental,0,19,Good ,Bartlett 2021
+427,-69.63002,44.56705826,Maple-Freeman's ,Maple,Ornamental,0,22,Good ,Bartlett 2021
+428,-69.63331682,44.55085895,Maple-Freeman's ,Maple,Ornamental,0,23,Good ,Bartlett 2021
+429,-69.63589461,44.54762061,Maple-Norway ,Maple,Ornamental,0,4,Good ,Bartlett 2021
+430,-69.66175257,44.52854729,Maple-Norway ,Maple,Ornamental,0,4,Good ,Bartlett 2021
+431,-69.63390284,44.55138589,Maple-Norway ,Maple,Ornamental,0,5,Good ,Bartlett 2021
+432,-69.63372764,44.54535486,Maple-Norway ,Maple,Ornamental,0,5,Good ,Bartlett 2021
+433,-69.63329828,44.54628923,Maple-Norway ,Maple,Ornamental,0,5,Good ,Bartlett 2021
+434,-69.63365708,44.54647788,Maple-Norway ,Maple,Ornamental,0,5,Fair ,Bartlett 2021
+435,-69.6281684,44.5524669,Maple-Norway ,Maple,Ornamental,0,5,Good ,Bartlett 2021
+436,-69.62819048,44.55241391,Maple-Norway ,Maple,Ornamental,0,5,Fair ,Bartlett 2021
+437,-69.65937075,44.53413968,Maple-Norway ,Maple,Ornamental,0,5,Good ,Bartlett 2021
+438,-69.63371142,44.54647356,Maple-Norway ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+439,-69.62820539,44.55232666,Maple-Norway ,Maple,Ornamental,0,6,Fair ,Bartlett 2021
+440,-69.62820807,44.55213434,Maple-Norway ,Maple,Ornamental,0,6,Fair ,Bartlett 2021
+441,-69.66038122,44.53364227,Maple-Norway ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+442,-69.65905731,44.53410232,Maple-Norway ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+443,-69.65939488,44.53410101,Maple-Norway ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+444,-69.65969233,44.53417682,Maple-Norway ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+445,-69.65470062,44.57943086,Maple-Norway ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+446,-69.6333227,44.54631953,Maple-Norway ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+447,-69.63422512,44.54619594,Maple-Norway ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+448,-69.63460312,44.54594094,Maple-Norway ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+449,-69.62821225,44.55215308,Maple-Norway ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+450,-69.65896232,44.53418763,Maple-Norway ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+451,-69.65474051,44.57922792,Maple-Norway ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+452,-69.63401391,44.54631335,Maple-Norway ,Maple,Ornamental,0,8,Good ,Bartlett 2021
+453,-69.63461321,44.54596156,Maple-Norway ,Maple,Ornamental,0,8,Good ,Bartlett 2021
+454,-69.64671208,44.56367408,Maple-Norway ,Maple,Ornamental,0,8,Good ,Bartlett 2021
+455,-69.64309064,44.55164845,Maple-Norway ,Maple,Ornamental,0,8,Fair ,Bartlett 2021
+456,-69.62817826,44.55215685,Maple-Norway ,Maple,Ornamental,0,8,Good ,Bartlett 2021
+457,-69.65953031,44.53418113,Maple-Norway ,Maple,Ornamental,0,8,Good ,Bartlett 2021
+458,-69.6342978,44.54616962,Maple-Norway ,Maple,Ornamental,0,9,Poor ,Bartlett 2021
+459,-69.6281902,44.55218148,Maple-Norway ,Maple,Ornamental,0,9,Fair ,Bartlett 2021
+460,-69.65911292,44.53409457,Maple-Norway ,Maple,Ornamental,0,10,Good ,Bartlett 2021
+461,-69.63425038,44.54619189,Maple-Norway ,Maple,Ornamental,0,11,Good ,Bartlett 2021
+462,-69.62820801,44.55153929,Maple-Norway ,Maple,Ornamental,0,11,Fair ,Bartlett 2021
+463,-69.65949103,44.52698646,Maple-Norway ,Maple,Ornamental,0,11,Good ,Bartlett 2021
+464,-69.64648815,44.56347963,Maple-Norway ,Maple,Ornamental,0,13,Fair ,Bartlett 2021
+465,-69.64664797,44.56361455,Maple-Norway ,Maple,Ornamental,0,13,Good ,Bartlett 2021
+466,-69.6465797,44.56355262,Maple-Norway ,Maple,Ornamental,0,14,Good ,Bartlett 2021
+467,-69.62819165,44.55204287,Maple-Norway ,Maple,Ornamental,0,14,Good ,Bartlett 2021
+468,-69.63470439,44.54569451,Maple-Norway ,Maple,Ornamental,0,16,Good ,Bartlett 2021
+469,-69.63417941,44.54623037,Maple-Norway ,Maple,Ornamental,0,16,Fair ,Bartlett 2021
+470,-69.62792949,44.5506272,Maple-Norway ,Maple,Ornamental,0,16,Good ,Bartlett 2021
+471,-69.63453822,44.54553113,Maple-Norway ,Maple,Ornamental,0,18,Good ,Bartlett 2021
+472,-69.63445819,44.54547729,Maple-Norway ,Maple,Ornamental,0,18,Fair ,Bartlett 2021
+473,-69.63303671,44.55069348,Maple-Norway ,Maple,Ornamental,0,19,Good ,Bartlett 2021
+474,-69.63390118,44.5510491,Maple-Norway ,Maple,Ornamental,0,19,Good ,Bartlett 2021
+475,-69.62975644,44.54960304,Maple-Norway ,Maple,Ornamental,0,20,Good ,Bartlett 2021
+476,-69.6342989,44.54533784,Maple-Norway ,Maple,Ornamental,0,20,Fair ,Bartlett 2021
+477,-69.63373802,44.55102391,Maple-Norway ,Maple,Ornamental,0,24,Good ,Bartlett 2021
+478,-69.63328662,44.55095784,Maple-Norway ,Maple,Ornamental,0,25,Good ,Bartlett 2021
+479,-69.6333238,44.54525793,Maple-Norway ,Maple,Ornamental,0,26,Fair ,Bartlett 2021
+480,-69.63276773,44.55101145,Maple-Norway ,Maple,Ornamental,0,46,Fair ,Bartlett 2021
+481,-69.64353336,44.53454246,Maple-Norway ,Maple,Ornamental,0,4,Good ,Bartlett 2021
+482,-69.64349706,44.53455149,Maple-Norway ,Maple,Ornamental,0,4,Poor ,Bartlett 2021
+483,-69.64344598,44.53456475,Maple-Norway ,Maple,Ornamental,0,4,Good ,Bartlett 2021
+484,-69.64338189,44.53457238,Maple-Norway ,Maple,Ornamental,0,5,Fair ,Bartlett 2021
+485,-69.64320682,44.5346077,Maple-Norway ,Maple,Ornamental,0,5,Fair ,Bartlett 2021
+486,-69.64318114,44.53458154,Maple-Norway ,Maple,Ornamental,0,5,Good ,Bartlett 2021
+487,-69.64352913,44.53454964,Maple-Norway ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+488,-69.64334845,44.53457698,Maple-Norway ,Maple,Ornamental,0,6,Fair ,Bartlett 2021
+489,-69.64328551,44.5345948,Maple-Norway ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+490,-69.64313165,44.53462185,Maple-Norway ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+491,-69.64230887,44.53531566,Maple-Norway ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+492,-69.64257299,44.53501076,Maple-Norway ,Maple,Ornamental,0,6,Fair ,Bartlett 2021
+493,-69.64262405,44.53480587,Maple-Norway ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+494,-69.64272362,44.53472453,Maple-Norway ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+495,-69.64361338,44.53450418,Maple-Norway ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+496,-69.64274184,44.53468001,Maple-Norway ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+497,-69.64359378,44.53454761,Maple-Norway ,Maple,Ornamental,0,8,Fair ,Bartlett 2021
+498,-69.64317976,44.53462483,Maple-Norway ,Maple,Ornamental,0,8,Fair ,Bartlett 2021
+499,-69.64235559,44.53529669,Maple-Norway ,Maple,Ornamental,0,8,Good ,Bartlett 2021
+500,-69.64269917,44.5347537,Maple-Norway ,Maple,Ornamental,0,8,Fair ,Bartlett 2021
+501,-69.64317502,44.53464393,Maple-Norway ,Maple,Ornamental,0,9,Good ,Bartlett 2021
+502,-69.64264796,44.53483439,Maple-Norway ,Maple,Ornamental,0,9,Good ,Bartlett 2021
+503,-69.64230205,44.53537953,Maple-Norway ,Maple,Ornamental,0,11,Good ,Bartlett 2021
+504,-69.64263646,44.53490603,Maple-Norway ,Maple,Ornamental,0,11,Fair ,Bartlett 2021
+505,-69.64238849,44.53523868,Maple-Norway ,Maple,Ornamental,0,12,Fair ,Bartlett 2021
+506,-69.64342738,44.53458264,Maple-Norway ,Maple,Ornamental,0,14,Good ,Bartlett 2021
+507,-69.64239857,44.53525082,Maple-Norway ,Maple,Ornamental,0,14,Fair ,Bartlett 2021
+508,-69.64239196,44.5352082,Maple-Norway ,Maple,Ornamental,0,16,Good ,Bartlett 2021
+509,-69.65969443,44.52693741,Maple-Norway ,Maple,Ornamental,0,19,Good ,Bartlett 2021
+510,-69.62876178,44.54941921,Maple-Norway ,Maple,Ornamental,0,24,Good ,Bartlett 2021
+511,-69.6287653,44.54949374,Maple-Norway ,Maple,Ornamental,0,25,Good ,Bartlett 2021
+512,-69.63310436,44.54543136,Maple-Red ,Maple,Ornamental,0,8,Good ,Bartlett 2021
+513,-69.6281027,44.55025992,Maple-Red ,Maple,Ornamental,0,2,Good ,Bartlett 2021
+514,-69.62808311,44.55014118,Maple-Red ,Maple,Ornamental,0,2,Good ,Bartlett 2021
+515,-69.63907348,44.53803848,Maple-Red ,Maple,Ornamental,0,2,Good ,Bartlett 2021
+516,-69.63917058,44.53822385,Maple-Red ,Maple,Ornamental,0,2,Good ,Bartlett 2021
+517,-69.64275606,44.55107723,Maple-Red ,Maple,Ornamental,0,4,Good ,Bartlett 2021
+518,-69.64335151,44.55101145,Maple-Red ,Maple,Ornamental,0,4,Good ,Bartlett 2021
+519,-69.64311374,44.55098204,Maple-Red ,Maple,Ornamental,0,4,Good ,Bartlett 2021
+520,-69.6548316,44.57973804,Maple-Red ,Maple,Ornamental,0,5,Good ,Bartlett 2021
+521,-69.64439896,44.56121992,Maple-Red ,Maple,Ornamental,0,6,Good ,Bartlett 2021
+522,-69.64425967,44.5613081,Maple-Red ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+523,-69.64454186,44.56112626,Maple-Red ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+524,-69.65490524,44.58001249,Maple-Red ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+525,-69.65487176,44.57982492,Maple-Red ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+526,-69.65481867,44.57979996,Maple-Red ,Maple,Ornamental,0,7,Good ,Bartlett 2021
+527,-69.65483946,44.57976069,Maple-Red ,Maple,Ornamental,0,7,Fair ,Bartlett 2021
+528,-69.64276354,44.55128251,Maple-Red ,Maple,Ornamental,0,8,Good ,Bartlett 2021
+529,-69.64400863,44.56133151,Maple-Red ,Maple,Ornamental,0,8,Good ,Bartlett 2021
+530,-69.64444365,44.56177962,Maple-Red ,Maple,Ornamental,0,9,Good ,Bartlett 2021
+531,-69.64573697,44.56285747,Maple-Red ,Maple,Ornamental,0,10,Good ,Bartlett 2021
+532,-69.64573242,44.56222013,Maple-Red ,Maple,Ornamental,0,10,Good ,Bartlett 2021
+533,-69.6456567,44.56278073,Maple-Red ,Maple,Ornamental,0,11,Good ,Bartlett 2021
+534,-69.64461863,44.5619405,Maple-Red ,Maple,Ornamental,0,11,Good ,Bartlett 2021
+535,-69.64418364,44.56141461,Maple-Red ,Maple,Ornamental,0,11,Good ,Bartlett 2021
+536,-69.65484788,44.57980563,Maple-Red ,Maple,Ornamental,0,11,Fair ,Bartlett 2021
+537,-69.63304568,44.54552593,Maple-Red ,Maple,Ornamental,0,14,Poor ,Bartlett 2021
+538,-69.64423633,44.56160908,Maple-Red ,Maple,Ornamental,0,14,Good ,Bartlett 2021
+539,-69.64436237,44.56170881,Maple-Red ,Maple,Ornamental,0,15,Good ,Bartlett 2021
+540,-69.63879801,44.53782851,Maple-Red ,Maple,Ornamental,0,15,Good ,Bartlett 2021
+541,-69.64453966,44.56184921,Maple-Red ,Maple,Ornamental,0,16,Good ,Bartlett 2021
+542,-69.62983177,44.5670452,Maple-Red ,Maple,Ornamental,0,17,Good ,Bartlett 2021
+543,-69.63899434,44.53784446,Maple-Red ,Maple,Ornamental,0,17,Good ,Bartlett 2021
+544,-69.6302281,44.56254839,Maple-Red ,Maple,Ornamental,0,20,Fair ,Bartlett 2021
+545,-69.66251899,44.5287757,Maple-Red ,Maple,Ornamental,0,21,Good ,Bartlett 2021
+546,-69.63016546,44.56265488,Maple-Red ,Maple,Ornamental,0,22,Fair ,Bartlett 2021
+547,-69.64451086,44.56150788,Maple-Red ,Maple,Ornamental,0,22,Good ,Bartlett 2021
+548,-69.62733837,44.55100255,Maple-Red ,Maple,Ornamental,0,3,Fair ,Bartlett 2021
+549,-69.63329081,44.5452914,Maple-Silver ,Maple,Ornamental,0,21,Fair ,Bartlett 2021
+550,-69.62723591,44.55314357,Maple-Sugar ,Maple,Fruiting / Flowering,0,3,Good ,Bartlett 2021
+551,-69.63911017,44.53794242,Maple-Sugar ,Maple,Fruiting / Flowering,0,1,Good ,Bartlett 2021
+552,-69.63904152,44.53813477,Maple-Sugar ,Maple,Fruiting / Flowering,0,1,Good ,Bartlett 2021
+553,-69.63751572,44.53904151,Maple-Sugar ,Maple,Fruiting / Flowering,0,2,Fair ,Bartlett 2021
+554,-69.6590599,44.5340518,Maple-Sugar ,Maple,Fruiting / Flowering,0,9,Fair ,Bartlett 2021
+555,-69.63319352,44.55073933,Maple-Sugar ,Maple,Fruiting / Flowering,0,41,Fair ,Bartlett 2021
+556,-69.62749411,44.55273771,Maple-Sugar ,Maple,Fruiting / Flowering,0,3,Good ,Bartlett 2021
+557,-69.63282115,44.54589188,Oak-Northern Red ,Oak,Ornamental,0,2,Fair ,Bartlett 2021
+558,-69.66023132,44.53327615,Oak-Northern Red ,Oak,Ornamental,0,4,Fair ,Bartlett 2021
+559,-69.66076403,44.53406335,Oak-Northern Red ,Oak,Ornamental,0,5,Good ,Bartlett 2021
+560,-69.66008333,44.53419321,Oak-Northern Red ,Oak,Ornamental,0,5,Good ,Bartlett 2021
+561,-69.65966529,44.53410914,Oak-Northern Red ,Oak,Ornamental,0,6,Good ,Bartlett 2021
+562,-69.65955788,44.53413367,Oak-Northern Red ,Oak,Ornamental,0,7,Good ,Bartlett 2021
+563,-69.65466851,44.57935092,Oak-Northern Red ,Oak,Ornamental,0,12,Good ,Bartlett 2021
+564,-69.64538086,44.56225119,Oak-Northern Red ,Oak,Ornamental,0,14,Good ,Bartlett 2021
+565,-69.6548322,44.57984672,Oak-Northern Red ,Oak,Ornamental,0,18,Good ,Bartlett 2021
+566,-69.64531562,44.55243591,Oak-Northern Red ,Oak,Ornamental,0,20,Good ,Bartlett 2021
+567,-69.64527566,44.55243306,Oak-Northern Red ,Oak,Ornamental,0,21,Good ,Bartlett 2021
+568,-69.64519408,44.55237162,Oak-Northern Red ,Oak,Ornamental,0,24,Good ,Bartlett 2021
+569,-69.62785319,44.55084898,Oak-Northern Red ,Oak,Ornamental,0,2,Good ,Bartlett 2021
+570,-69.6277022,44.55321821,Oak-Northern Red ,Oak,Ornamental,0,3,Good ,Bartlett 2021
+571,-69.6598445,44.52696046,Oak-Northern Red ,Oak,Ornamental,0,5,Good ,Bartlett 2021
+572,-69.6452416,44.5524109,Oak-Northern Red ,Oak,Ornamental,0,24,Good ,Bartlett 2021
+573,-69.64608247,44.56168098,Pine-Eastern White ,Pine,Ornamental,0,23,Fair ,Bartlett 2021
+574,-69.64614689,44.5616547,Pine-Eastern White ,Pine,Ornamental,0,25,Good ,Bartlett 2021
+575,-69.64575626,44.56182928,Pine-Eastern White ,Pine,Ornamental,0,26,Poor ,Bartlett 2021
+576,-69.64585753,44.56177075,Pine-Eastern White ,Pine,Ornamental,0,26,Fair ,Bartlett 2021
+577,-69.64596133,44.5617074,Pine-Eastern White ,Pine,Ornamental,0,29,Good ,Bartlett 2021
+578,-69.64568197,44.56183894,Pine-Eastern White ,Pine,Ornamental,0,36,Good ,Bartlett 2021
+579,-69.63354304,44.55131818,Plum-Purple Leaf ,Plum,Fruiting / Flowering,0,8,Fair ,Bartlett 2021
+580,-69.66059928,44.52713289,Poplar-Aspen ,Poplar,Ornamental,0,5,Good ,Bartlett 2021
+581,-69.66051077,44.52714467,Poplar-Aspen ,Poplar,Ornamental,0,5,Good ,Bartlett 2021
+582,-69.66074635,44.52719968,Poplar-Aspen ,Poplar,Ornamental,0,6,Good ,Bartlett 2021
+583,-69.66072488,44.52719338,Poplar-Aspen ,Poplar,Ornamental,0,6,Fair ,Bartlett 2021
+584,-69.66198926,44.52864108,Poplar-Aspen ,Poplar,Ornamental,0,7,Dead ,Bartlett 2021
+585,-69.66085346,44.52718974,Poplar-Aspen ,Poplar,Ornamental,0,8,Good ,Bartlett 2021
+586,-69.66200001,44.52864352,Poplar-Aspen ,Poplar,Ornamental,0,9,Fair ,Bartlett 2021
+587,-69.6604245,44.52698349,Poplar-Aspen ,Poplar,Ornamental,0,9,Fair ,Bartlett 2021
+588,-69.66071906,44.52714758,Poplar-Aspen ,Poplar,Ornamental,0,11,Fair ,Bartlett 2021
+589,-69.6619868,44.52853338,Poplar-Aspen ,Poplar,Ornamental,0,15,Poor ,Bartlett 2021
+590,-69.66016599,44.52699364,Poplar-Aspen ,Poplar,Ornamental,0,12,Fair ,Bartlett 2021
+591,-69.66034805,44.52695053,Poplar-Bigtooth Aspen ,Poplar,Ornamental,0,9,Fair ,Bartlett 2021
+592,-69.65466741,44.57946194,Poplar-Bigtooth Aspen ,Poplar,Ornamental,0,9,Good ,Bartlett 2021
+593,-69.65592382,44.58055315,Poplar-Bigtooth Aspen ,Poplar,Ornamental,0,11,Fair ,Bartlett 2021
+594,-69.65465143,44.57944651,Poplar-Bigtooth Aspen ,Poplar,Ornamental,0,12,Good ,Bartlett 2021
+595,-69.65465933,44.57933404,Poplar-Bigtooth Aspen ,Poplar,Ornamental,0,13,Fair ,Bartlett 2021
+596,-69.65598038,44.58059185,Poplar-Bigtooth Aspen ,Poplar,Ornamental,0,15,Good ,Bartlett 2021
+597,-69.65472922,44.5795227,Poplar-Bigtooth Aspen ,Poplar,Ornamental,0,15,Good ,Bartlett 2021
+598,-69.65476461,44.57960751,Poplar-Bigtooth Aspen ,Poplar,Ornamental,0,19,Good ,Bartlett 2021
+599,-69.63052019,44.56215683,Spruce-Colorado Blue ,Spruce,Ornamental,0,16,Good ,Bartlett 2021
+600,-69.63051818,44.56226306,Spruce-Colorado Blue ,Spruce,Ornamental,0,17,Good ,Bartlett 2021
+601,-69.64233038,44.53534107,Willow ,Willow,Ornamental,0,31,Fair ,Bartlett 2021
