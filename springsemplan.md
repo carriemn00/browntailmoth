@@ -33,8 +33,11 @@
 - Add new datasets to visualizations
 - Determine if any regression/ analyses can be performed at this stage
 **2/26:**
+- Finish up GIS tutorials
+- Uploading datasets to GIS map
 
 **3/5:**
+- Point Density analyses for quantifying areas of BTM infestation
 
 **3/12:**
 
