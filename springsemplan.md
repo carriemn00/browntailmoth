@@ -43,7 +43,7 @@
   - `Population field = obs_btm`
   -  `Output cell size = 10`
   -  `Radius = 300 sq meters`
-  -  Remember to set `Output Coordinates` to `NAD 1983` and `mask` to `Waterville_boundary`!
+  -  Remember to set `Output Coordinates` to `NAD 1983` and set the `extent` and `mask` to `Waterville_boundary`!
 
 **3/12:**
 
