@@ -35,9 +35,15 @@
 **2/26:**
 - Finish up GIS tutorials
 - Uploading datasets to GIS map
+  - 4 datasets now
+  - 3 have BTM nest counts (Citizen does not)
 
 **3/5:**
-- Point Density analyses for quantifying areas of BTM infestation
+- Point Density analyses for quantifying areas of BTM infestation (weights by BTM counts); do this only for datasets we have nest info for
+  - `Population field = obs_btm`
+  -  `Output cell size = 10`
+  -  `Radius = 300 sq meters`
+  -  Remember to set `Output Coordinates` to `NAD 1983` and `mask` to `Waterville_boundary`!
 
 **3/12:**
 
